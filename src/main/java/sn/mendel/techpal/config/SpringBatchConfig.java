@@ -21,6 +21,12 @@ import org.springframework.core.task.TaskExecutor;
 import sn.mendel.techpal.entities.BusinessEmp;
 import sn.mendel.techpal.repositories.BusinessEmpRepository;
 
+import java.io.BufferedReader;
+import java.io.FileNotFoundException;
+import java.io.FileReader;
+import java.io.IOException;
+import java.nio.Buffer;
+
 @Configuration
 @EnableBatchProcessing
 public class SpringBatchConfig {
@@ -37,11 +43,24 @@ public class SpringBatchConfig {
     @Bean
     public FlatFileItemReader<BusinessEmp> reader(){
         FlatFileItemReader<BusinessEmp> itemReader = new FlatFileItemReader<>();
-        itemReader.setResource(new FileSystemResource("src/main/resources/business_employment.csv"));
-        itemReader.setName("csvReader");
-        itemReader.setLinesToSkip(1);
-        itemReader.setLineMapper(lineMapper());
-        return itemReader;
+        //BufferedReader bufferedReader = new BufferedReader(new FileReader("src/main/resources/business_employment.csv"));
+      //  while(ifHasNext(bufferedReader)){
+            itemReader.setResource(new FileSystemResource("src/main/resources/business_employment.csv"));
+            itemReader.setName("csvReader");
+            itemReader.setLinesToSkip(1);
+            itemReader.setLineMapper(lineMapper());
+            return itemReader;
+      //  }
+       // return null;
+    }
+
+    private static boolean ifHasNext(BufferedReader bufferedReader) throws IOException {
+        String currentLine;
+
+        while(bufferedReader.readLine() != null){
+            return true;
+        }
+        return false;
     }
 
     private LineMapper<BusinessEmp> lineMapper() {
@@ -80,9 +99,9 @@ public class SpringBatchConfig {
     }
 
     @Bean
-    public Step stepOne(){
+    public Step stepOne()  {
         return stepBuilderFactory.get("first-step-csv")
-                .<BusinessEmp, BusinessEmp>chunk(1000)
+                .<BusinessEmp, BusinessEmp>chunk(500)
                 .reader(reader())
                 .processor(businessEmpProcessor())
                 .writer(writer())
@@ -91,7 +110,7 @@ public class SpringBatchConfig {
     }
 
     @Bean
-    public Job job(){
+    public Job job()  {
         return jobBuilderFactory.get("import-csv-for-save")
                 .flow(stepOne())
                 .end()
@@ -101,7 +120,7 @@ public class SpringBatchConfig {
     @Bean
     public TaskExecutor taskExecutor(){
         SimpleAsyncTaskExecutor simpleAsyncTaskExecutor = new SimpleAsyncTaskExecutor();
-        simpleAsyncTaskExecutor.setConcurrencyLimit(20);
+        simpleAsyncTaskExecutor.setConcurrencyLimit(100);
         return simpleAsyncTaskExecutor;
     }
 }

@@ -1,0 +1,1001 @@
+series_reference,period,data_value,suppressed,status,units,magnitude,subject,groupe,series_title_1,series_title_2,series_title_3
+BDCQ.SED1RMS,2012.06,14190,,R,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,West Coast,Seasonally adjusted
+BDCQ.SED1RMS,2012.09,14324,,R,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,West Coast,Seasonally adjusted
+BDCQ.SED1RMS,2012.12,14187,,R,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,West Coast,Seasonally adjusted
+BDCQ.SED1RMS,2013.03,14067,,R,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,West Coast,Seasonally adjusted
+BDCQ.SED1RMS,2013.06,14191,,R,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,West Coast,Seasonally adjusted
+BDCQ.SED1RMS,2013.09,14154,,R,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,West Coast,Seasonally adjusted
+BDCQ.SED1RMS,2013.12,14170,,R,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,West Coast,Seasonally adjusted
+BDCQ.SED1RMS,2014.03,14179,,R,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,West Coast,Seasonally adjusted
+BDCQ.SED1RMS,2014.06,14071,,R,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,West Coast,Seasonally adjusted
+BDCQ.SED1RMS,2014.09,14044,,R,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,West Coast,Seasonally adjusted
+BDCQ.SED1RMS,2014.12,14241,,R,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,West Coast,Seasonally adjusted
+BDCQ.SED1RMS,2015.03,14225,,R,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,West Coast,Seasonally adjusted
+BDCQ.SED1RMS,2015.06,13982,,R,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,West Coast,Seasonally adjusted
+BDCQ.SED1RMS,2015.09,14030,,R,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,West Coast,Seasonally adjusted
+BDCQ.SED1RMS,2015.12,13818,,R,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,West Coast,Seasonally adjusted
+BDCQ.SED1RMS,2016.03,13847,,R,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,West Coast,Seasonally adjusted
+BDCQ.SED1RMS,2016.06,13823,,R,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,West Coast,Seasonally adjusted
+BDCQ.SED1RMS,2016.09,13800,,R,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,West Coast,Seasonally adjusted
+BDCQ.SED1RMS,2016.12,13737,,R,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,West Coast,Seasonally adjusted
+BDCQ.SED1RMS,2017.03,13735,,R,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,West Coast,Seasonally adjusted
+BDCQ.SED1RMS,2017.06,13835,,R,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,West Coast,Seasonally adjusted
+BDCQ.SED1RMS,2017.09,13847,,R,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,West Coast,Seasonally adjusted
+BDCQ.SED1RMS,2017.12,13913,,R,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,West Coast,Seasonally adjusted
+BDCQ.SED1RMS,2018.03,13915,,R,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,West Coast,Seasonally adjusted
+BDCQ.SED1RMS,2018.06,13992,,R,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,West Coast,Seasonally adjusted
+BDCQ.SED1RMS,2018.09,13923,,R,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,West Coast,Seasonally adjusted
+BDCQ.SED1RMS,2018.12,14031,,R,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,West Coast,Seasonally adjusted
+BDCQ.SED1RMS,2019.03,14034,,R,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,West Coast,Seasonally adjusted
+BDCQ.SED1RMS,2019.06,13995,,R,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,West Coast,Seasonally adjusted
+BDCQ.SED1RMS,2019.09,14033,,R,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,West Coast,Seasonally adjusted
+BDCQ.SED1RMS,2019.12,14090,,R,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,West Coast,Seasonally adjusted
+BDCQ.SED1RMS,2020.03,14087,,R,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,West Coast,Seasonally adjusted
+BDCQ.SED1RMS,2020.06,13932,,R,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,West Coast,Seasonally adjusted
+BDCQ.SED1RMS,2020.09,13910,,R,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,West Coast,Seasonally adjusted
+BDCQ.SED1RMS,2020.12,13757,,R,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,West Coast,Seasonally adjusted
+BDCQ.SED1RMS,2021.03,13747,,R,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,West Coast,Seasonally adjusted
+BDCQ.SED1RMS,2021.06,13840,,R,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,West Coast,Seasonally adjusted
+BDCQ.SED1RMS,2021.09,13964,,R,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,West Coast,Seasonally adjusted
+BDCQ.SED1RMS,2021.12,13993,,R,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,West Coast,Seasonally adjusted
+BDCQ.SED1RMS,2022.03,13901,,R,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,West Coast,Seasonally adjusted
+BDCQ.SED1RMS,2022.06,14147,,F,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,West Coast,Seasonally adjusted
+BDCQ.SED1RMT,2011.06,,,C,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,West Coast,Trend
+BDCQ.SED1RMT,2011.09,,,C,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,West Coast,Trend
+BDCQ.SED1RMT,2011.12,,,C,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,West Coast,Trend
+BDCQ.SED1RMT,2012.03,,,C,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,West Coast,Trend
+BDCQ.SED1RMT,2012.06,,,C,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,West Coast,Trend
+BDCQ.SED1RMT,2012.09,,,C,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,West Coast,Trend
+BDCQ.SED1RMT,2012.12,,,C,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,West Coast,Trend
+BDCQ.SED1RMT,2013.03,,,C,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,West Coast,Trend
+BDCQ.SED1RMT,2013.06,,,C,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,West Coast,Trend
+BDCQ.SED1RMT,2013.09,,,C,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,West Coast,Trend
+BDCQ.SED1RMT,2013.12,,,C,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,West Coast,Trend
+BDCQ.SED1RMT,2014.03,,,C,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,West Coast,Trend
+BDCQ.SED1RMT,2014.06,,,C,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,West Coast,Trend
+BDCQ.SED1RMT,2014.09,,,C,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,West Coast,Trend
+BDCQ.SED1RMT,2014.12,,,C,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,West Coast,Trend
+BDCQ.SED1RMT,2015.03,,,C,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,West Coast,Trend
+BDCQ.SED1RMT,2015.06,,,C,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,West Coast,Trend
+BDCQ.SED1RMT,2015.09,,,C,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,West Coast,Trend
+BDCQ.SED1RMT,2015.12,,,C,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,West Coast,Trend
+BDCQ.SED1RMT,2016.03,,,C,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,West Coast,Trend
+BDCQ.SED1RMT,2016.06,,,C,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,West Coast,Trend
+BDCQ.SED1RMT,2016.09,,,C,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,West Coast,Trend
+BDCQ.SED1RMT,2016.12,,,C,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,West Coast,Trend
+BDCQ.SED1RMT,2017.03,,,C,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,West Coast,Trend
+BDCQ.SED1RMT,2017.06,,,C,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,West Coast,Trend
+BDCQ.SED1RMT,2017.09,,,C,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,West Coast,Trend
+BDCQ.SED1RMT,2017.12,,,C,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,West Coast,Trend
+BDCQ.SED1RMT,2018.03,,,C,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,West Coast,Trend
+BDCQ.SED1RMT,2018.06,,,C,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,West Coast,Trend
+BDCQ.SED1RMT,2018.09,,,C,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,West Coast,Trend
+BDCQ.SED1RMT,2018.12,,,C,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,West Coast,Trend
+BDCQ.SED1RMT,2019.03,,,C,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,West Coast,Trend
+BDCQ.SED1RMT,2019.06,,,C,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,West Coast,Trend
+BDCQ.SED1RMT,2019.09,,,C,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,West Coast,Trend
+BDCQ.SED1RMT,2019.12,,,C,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,West Coast,Trend
+BDCQ.SED1RMT,2020.03,,,C,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,West Coast,Trend
+BDCQ.SED1RMT,2020.06,,,C,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,West Coast,Trend
+BDCQ.SED1RMT,2020.09,,,C,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,West Coast,Trend
+BDCQ.SED1RMT,2020.12,,,C,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,West Coast,Trend
+BDCQ.SED1RMT,2021.03,,,C,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,West Coast,Trend
+BDCQ.SED1RMT,2021.06,,,C,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,West Coast,Trend
+BDCQ.SED1RMT,2021.09,,,C,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,West Coast,Trend
+BDCQ.SED1RMT,2021.12,,,C,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,West Coast,Trend
+BDCQ.SED1RMT,2022.03,,,C,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,West Coast,Trend
+BDCQ.SED1RMT,2022.06,,Y,C,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,West Coast,Trend
+BDCQ.SED1RNA,2011.06,228181,,F,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Canterbury,Actual
+BDCQ.SED1RNA,2011.09,227941,,F,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Canterbury,Actual
+BDCQ.SED1RNA,2011.12,234516,,F,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Canterbury,Actual
+BDCQ.SED1RNA,2012.03,231957,,F,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Canterbury,Actual
+BDCQ.SED1RNA,2012.06,235412,,F,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Canterbury,Actual
+BDCQ.SED1RNA,2012.09,235441,,F,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Canterbury,Actual
+BDCQ.SED1RNA,2012.12,241380,,F,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Canterbury,Actual
+BDCQ.SED1RNA,2013.03,239787,,F,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Canterbury,Actual
+BDCQ.SED1RNA,2013.06,244759,,F,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Canterbury,Actual
+BDCQ.SED1RNA,2013.09,243789,,F,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Canterbury,Actual
+BDCQ.SED1RNA,2013.12,250335,,F,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Canterbury,Actual
+BDCQ.SED1RNA,2014.03,248728,,F,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Canterbury,Actual
+BDCQ.SED1RNA,2014.06,252150,,F,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Canterbury,Actual
+BDCQ.SED1RNA,2014.09,252968,,F,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Canterbury,Actual
+BDCQ.SED1RNA,2014.12,258570,,F,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Canterbury,Actual
+BDCQ.SED1RNA,2015.03,256265,,F,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Canterbury,Actual
+BDCQ.SED1RNA,2015.06,258980,,F,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Canterbury,Actual
+BDCQ.SED1RNA,2015.09,257581,,F,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Canterbury,Actual
+BDCQ.SED1RNA,2015.12,262739,,F,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Canterbury,Actual
+BDCQ.SED1RNA,2016.03,260481,,F,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Canterbury,Actual
+BDCQ.SED1RNA,2016.06,263595,,F,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Canterbury,Actual
+BDCQ.SED1RNA,2016.09,262415,,F,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Canterbury,Actual
+BDCQ.SED1RNA,2016.12,268067,,F,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Canterbury,Actual
+BDCQ.SED1RNA,2017.03,265779,,F,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Canterbury,Actual
+BDCQ.SED1RNA,2017.06,269684,,F,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Canterbury,Actual
+BDCQ.SED1RNA,2017.09,268775,,F,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Canterbury,Actual
+BDCQ.SED1RNA,2017.12,274749,,F,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Canterbury,Actual
+BDCQ.SED1RNA,2018.03,276840,,F,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Canterbury,Actual
+BDCQ.SED1RNA,2018.06,274779,,F,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Canterbury,Actual
+BDCQ.SED1RNA,2018.09,271706,,F,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Canterbury,Actual
+BDCQ.SED1RNA,2018.12,277703,,F,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Canterbury,Actual
+BDCQ.SED1RNA,2019.03,276975,,F,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Canterbury,Actual
+BDCQ.SED1RNA,2019.06,277896,,F,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Canterbury,Actual
+BDCQ.SED1RNA,2019.09,275628,,F,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Canterbury,Actual
+BDCQ.SED1RNA,2019.12,283422,,F,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Canterbury,Actual
+BDCQ.SED1RNA,2020.03,280774,,F,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Canterbury,Actual
+BDCQ.SED1RNA,2020.06,277749,,F,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Canterbury,Actual
+BDCQ.SED1RNA,2020.09,275569,,F,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Canterbury,Actual
+BDCQ.SED1RNA,2020.12,278420,,F,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Canterbury,Actual
+BDCQ.SED1RNA,2021.03,277381,,F,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Canterbury,Actual
+BDCQ.SED1RNA,2021.06,279418,,F,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Canterbury,Actual
+BDCQ.SED1RNA,2021.09,282838,,F,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Canterbury,Actual
+BDCQ.SED1RNA,2021.12,289799,,F,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Canterbury,Actual
+BDCQ.SED1RNA,2022.03,286920,,F,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Canterbury,Actual
+BDCQ.SED1RNA,2022.06,288387,,F,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Canterbury,Actual
+BDCQ.SED1RNS,2011.06,227624,,R,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Canterbury,Seasonally adjusted
+BDCQ.SED1RNS,2011.09,229574,,R,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Canterbury,Seasonally adjusted
+BDCQ.SED1RNS,2011.12,232093,,R,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Canterbury,Seasonally adjusted
+BDCQ.SED1RNS,2012.03,233289,,R,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Canterbury,Seasonally adjusted
+BDCQ.SED1RNS,2012.06,234861,,R,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Canterbury,Seasonally adjusted
+BDCQ.SED1RNS,2012.09,237105,,R,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Canterbury,Seasonally adjusted
+BDCQ.SED1RNS,2012.12,238919,,R,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Canterbury,Seasonally adjusted
+BDCQ.SED1RNS,2013.03,241122,,R,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Canterbury,Seasonally adjusted
+BDCQ.SED1RNS,2013.06,244217,,R,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Canterbury,Seasonally adjusted
+BDCQ.SED1RNS,2013.09,245485,,R,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Canterbury,Seasonally adjusted
+BDCQ.SED1RNS,2013.12,247852,,R,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Canterbury,Seasonally adjusted
+BDCQ.SED1RNS,2014.03,250028,,R,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Canterbury,Seasonally adjusted
+BDCQ.SED1RNS,2014.06,251585,,R,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Canterbury,Seasonally adjusted
+BDCQ.SED1RNS,2014.09,254793,,R,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Canterbury,Seasonally adjusted
+BDCQ.SED1RNS,2014.12,256062,,R,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Canterbury,Seasonally adjusted
+BDCQ.SED1RNS,2015.03,257433,,R,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Canterbury,Seasonally adjusted
+BDCQ.SED1RNS,2015.06,258440,,R,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Canterbury,Seasonally adjusted
+BDCQ.SED1RNS,2015.09,259543,,R,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Canterbury,Seasonally adjusted
+BDCQ.SED1RNS,2015.12,260253,,R,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Canterbury,Seasonally adjusted
+BDCQ.SED1RNS,2016.03,261420,,R,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Canterbury,Seasonally adjusted
+BDCQ.SED1RNS,2016.06,263091,,R,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Canterbury,Seasonally adjusted
+BDCQ.SED1RNS,2016.09,264624,,R,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Canterbury,Seasonally adjusted
+BDCQ.SED1RNS,2016.12,265506,,R,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Canterbury,Seasonally adjusted
+BDCQ.SED1RNS,2017.03,266453,,R,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Canterbury,Seasonally adjusted
+BDCQ.SED1RNS,2017.06,269319,,R,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Canterbury,Seasonally adjusted
+BDCQ.SED1RNS,2017.09,271199,,R,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Canterbury,Seasonally adjusted
+BDCQ.SED1RNS,2017.12,272042,,R,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Canterbury,Seasonally adjusted
+BDCQ.SED1RNS,2018.03,277329,,R,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Canterbury,Seasonally adjusted
+BDCQ.SED1RNS,2018.06,274608,,R,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Canterbury,Seasonally adjusted
+BDCQ.SED1RNS,2018.09,274242,,R,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Canterbury,Seasonally adjusted
+BDCQ.SED1RNS,2018.12,274809,,R,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Canterbury,Seasonally adjusted
+BDCQ.SED1RNS,2019.03,277354,,R,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Canterbury,Seasonally adjusted
+BDCQ.SED1RNS,2019.06,278017,,R,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Canterbury,Seasonally adjusted
+BDCQ.SED1RNS,2019.09,278100,,R,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Canterbury,Seasonally adjusted
+BDCQ.SED1RNS,2019.12,280322,,R,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Canterbury,Seasonally adjusted
+BDCQ.SED1RNS,2020.03,281162,,R,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Canterbury,Seasonally adjusted
+BDCQ.SED1RNS,2020.06,278155,,R,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Canterbury,Seasonally adjusted
+BDCQ.SED1RNS,2020.09,277867,,R,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Canterbury,Seasonally adjusted
+BDCQ.SED1RNS,2020.12,275224,,R,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Canterbury,Seasonally adjusted
+BDCQ.SED1RNS,2021.03,277856,,R,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Canterbury,Seasonally adjusted
+BDCQ.SED1RNS,2021.06,280061,,R,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Canterbury,Seasonally adjusted
+BDCQ.SED1RNS,2021.09,284982,,R,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Canterbury,Seasonally adjusted
+BDCQ.SED1RNS,2021.12,286362,,R,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Canterbury,Seasonally adjusted
+BDCQ.SED1RNS,2022.03,287543,,R,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Canterbury,Seasonally adjusted
+BDCQ.SED1RNS,2022.06,289185,,F,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Canterbury,Seasonally adjusted
+BDCQ.SED1RNT,2011.06,,,C,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Canterbury,Trend
+BDCQ.SED1RNT,2011.09,,,C,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Canterbury,Trend
+BDCQ.SED1RNT,2011.12,,,C,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Canterbury,Trend
+BDCQ.SED1RNT,2012.03,,,C,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Canterbury,Trend
+BDCQ.SED1RNT,2012.06,,,C,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Canterbury,Trend
+BDCQ.SED1RNT,2012.09,,,C,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Canterbury,Trend
+BDCQ.SED1RNT,2012.12,,,C,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Canterbury,Trend
+BDCQ.SED1RNT,2013.03,,,C,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Canterbury,Trend
+BDCQ.SED1RNT,2013.06,,,C,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Canterbury,Trend
+BDCQ.SED1RNT,2013.09,,,C,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Canterbury,Trend
+BDCQ.SED1RNT,2013.12,,,C,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Canterbury,Trend
+BDCQ.SED1RNT,2014.03,,,C,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Canterbury,Trend
+BDCQ.SED1RNT,2014.06,,,C,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Canterbury,Trend
+BDCQ.SED1RNT,2014.09,,,C,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Canterbury,Trend
+BDCQ.SED1RNT,2014.12,,,C,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Canterbury,Trend
+BDCQ.SED1RNT,2015.03,,,C,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Canterbury,Trend
+BDCQ.SED1RNT,2015.06,,,C,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Canterbury,Trend
+BDCQ.SED1RNT,2015.09,,,C,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Canterbury,Trend
+BDCQ.SED1RNT,2015.12,,,C,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Canterbury,Trend
+BDCQ.SED1RNT,2016.03,,,C,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Canterbury,Trend
+BDCQ.SED1RNT,2016.06,,,C,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Canterbury,Trend
+BDCQ.SED1RNT,2016.09,,,C,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Canterbury,Trend
+BDCQ.SED1RNT,2016.12,,,C,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Canterbury,Trend
+BDCQ.SED1RNT,2017.03,,,C,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Canterbury,Trend
+BDCQ.SED1RNT,2017.06,,,C,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Canterbury,Trend
+BDCQ.SED1RNT,2017.09,,,C,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Canterbury,Trend
+BDCQ.SED1RNT,2017.12,,,C,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Canterbury,Trend
+BDCQ.SED1RNT,2018.03,,,C,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Canterbury,Trend
+BDCQ.SED1RNT,2018.06,,,C,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Canterbury,Trend
+BDCQ.SED1RNT,2018.09,,,C,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Canterbury,Trend
+BDCQ.SED1RNT,2018.12,,,C,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Canterbury,Trend
+BDCQ.SED1RNT,2019.03,,,C,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Canterbury,Trend
+BDCQ.SED1RNT,2019.06,,,C,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Canterbury,Trend
+BDCQ.SED1RNT,2019.09,,,C,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Canterbury,Trend
+BDCQ.SED1RNT,2019.12,,,C,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Canterbury,Trend
+BDCQ.SED1RNT,2020.03,,,C,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Canterbury,Trend
+BDCQ.SED1RNT,2020.06,,,C,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Canterbury,Trend
+BDCQ.SED1RNT,2020.09,,,C,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Canterbury,Trend
+BDCQ.SED1RNT,2020.12,,,C,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Canterbury,Trend
+BDCQ.SED1RNT,2021.03,,,C,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Canterbury,Trend
+BDCQ.SED1RNT,2021.06,,,C,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Canterbury,Trend
+BDCQ.SED1RNT,2021.09,,,C,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Canterbury,Trend
+BDCQ.SED1RNT,2021.12,,,C,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Canterbury,Trend
+BDCQ.SED1RNT,2022.03,,,C,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Canterbury,Trend
+BDCQ.SED1RNT,2022.06,,Y,C,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Canterbury,Trend
+BDCQ.SED1ROA,2011.06,86809,,F,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Otago,Actual
+BDCQ.SED1ROA,2011.09,86691,,F,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Otago,Actual
+BDCQ.SED1ROA,2011.12,87873,,F,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Otago,Actual
+BDCQ.SED1ROA,2012.03,87569,,F,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Otago,Actual
+BDCQ.SED1ROA,2012.06,87865,,F,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Otago,Actual
+BDCQ.SED1ROA,2012.09,86967,,F,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Otago,Actual
+BDCQ.SED1ROA,2012.12,88447,,F,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Otago,Actual
+BDCQ.SED1ROA,2013.03,88703,,F,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Otago,Actual
+BDCQ.SED1ROA,2013.06,89091,,F,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Otago,Actual
+BDCQ.SED1ROA,2013.09,88447,,F,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Otago,Actual
+BDCQ.SED1ROA,2013.12,89960,,F,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Otago,Actual
+BDCQ.SED1ROA,2014.03,90490,,F,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Otago,Actual
+BDCQ.SED1ROA,2014.06,90585,,F,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Otago,Actual
+BDCQ.SED1ROA,2014.09,90482,,F,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Otago,Actual
+BDCQ.SED1ROA,2014.12,92124,,F,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Otago,Actual
+BDCQ.SED1ROA,2015.03,92491,,F,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Otago,Actual
+BDCQ.SED1ROA,2015.06,92408,,F,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Otago,Actual
+BDCQ.SED1ROA,2015.09,91900,,F,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Otago,Actual
+BDCQ.SED1ROA,2015.12,93476,,F,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Otago,Actual
+BDCQ.SED1ROA,2016.03,94323,,F,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Otago,Actual
+BDCQ.SED1ROA,2016.06,95098,,F,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Otago,Actual
+BDCQ.SED1ROA,2016.09,94968,,F,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Otago,Actual
+BDCQ.SED1ROA,2016.12,97028,,F,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Otago,Actual
+BDCQ.SED1ROA,2017.03,97764,,F,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Otago,Actual
+BDCQ.SED1ROA,2017.06,98691,,F,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Otago,Actual
+BDCQ.SED1ROA,2017.09,98800,,F,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Otago,Actual
+BDCQ.SED1ROA,2017.12,100999,,F,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Otago,Actual
+BDCQ.SED1ROA,2018.03,104187,,F,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Otago,Actual
+BDCQ.SED1ROA,2018.06,103181,,F,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Otago,Actual
+BDCQ.SED1ROA,2018.09,102207,,F,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Otago,Actual
+BDCQ.SED1ROA,2018.12,104261,,F,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Otago,Actual
+BDCQ.SED1ROA,2019.03,105504,,F,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Otago,Actual
+BDCQ.SED1ROA,2019.06,105289,,F,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Otago,Actual
+BDCQ.SED1ROA,2019.09,103732,,F,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Otago,Actual
+BDCQ.SED1ROA,2019.12,107305,,F,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Otago,Actual
+BDCQ.SED1ROA,2020.03,107706,,F,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Otago,Actual
+BDCQ.SED1ROA,2020.06,105383,,F,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Otago,Actual
+BDCQ.SED1ROA,2020.09,103405,,F,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Otago,Actual
+BDCQ.SED1ROA,2020.12,104841,,F,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Otago,Actual
+BDCQ.SED1ROA,2021.03,104361,,F,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Otago,Actual
+BDCQ.SED1ROA,2021.06,104201,,F,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Otago,Actual
+BDCQ.SED1ROA,2021.09,104818,,F,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Otago,Actual
+BDCQ.SED1ROA,2021.12,107466,,F,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Otago,Actual
+BDCQ.SED1ROA,2022.03,106680,,F,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Otago,Actual
+BDCQ.SED1ROA,2022.06,106111,,F,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Otago,Actual
+BDCQ.SED1ROS,2011.06,86675,,R,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Otago,Seasonally adjusted
+BDCQ.SED1ROS,2011.09,87425,,R,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Otago,Seasonally adjusted
+BDCQ.SED1ROS,2011.12,87525,,R,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Otago,Seasonally adjusted
+BDCQ.SED1ROS,2012.03,87309,,R,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Otago,Seasonally adjusted
+BDCQ.SED1ROS,2012.06,87740,,R,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Otago,Seasonally adjusted
+BDCQ.SED1ROS,2012.09,87701,,R,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Otago,Seasonally adjusted
+BDCQ.SED1ROS,2012.12,88103,,R,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Otago,Seasonally adjusted
+BDCQ.SED1ROS,2013.03,88428,,R,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Otago,Seasonally adjusted
+BDCQ.SED1ROS,2013.06,88967,,R,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Otago,Seasonally adjusted
+BDCQ.SED1ROS,2013.09,89206,,R,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Otago,Seasonally adjusted
+BDCQ.SED1ROS,2013.12,89617,,R,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Otago,Seasonally adjusted
+BDCQ.SED1ROS,2014.03,90181,,R,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Otago,Seasonally adjusted
+BDCQ.SED1ROS,2014.06,90460,,R,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Otago,Seasonally adjusted
+BDCQ.SED1ROS,2014.09,91285,,R,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Otago,Seasonally adjusted
+BDCQ.SED1ROS,2014.12,91786,,R,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Otago,Seasonally adjusted
+BDCQ.SED1ROS,2015.03,92120,,R,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Otago,Seasonally adjusted
+BDCQ.SED1ROS,2015.06,92285,,R,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Otago,Seasonally adjusted
+BDCQ.SED1ROS,2015.09,92764,,R,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Otago,Seasonally adjusted
+BDCQ.SED1ROS,2015.12,93143,,R,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Otago,Seasonally adjusted
+BDCQ.SED1ROS,2016.03,93867,,R,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Otago,Seasonally adjusted
+BDCQ.SED1ROS,2016.06,94979,,R,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Otago,Seasonally adjusted
+BDCQ.SED1ROS,2016.09,95943,,R,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Otago,Seasonally adjusted
+BDCQ.SED1ROS,2016.12,96668,,R,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Otago,Seasonally adjusted
+BDCQ.SED1ROS,2017.03,97208,,R,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Otago,Seasonally adjusted
+BDCQ.SED1ROS,2017.06,98589,,R,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Otago,Seasonally adjusted
+BDCQ.SED1ROS,2017.09,99909,,R,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Otago,Seasonally adjusted
+BDCQ.SED1ROS,2017.12,100566,,R,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Otago,Seasonally adjusted
+BDCQ.SED1ROS,2018.03,103537,,R,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Otago,Seasonally adjusted
+BDCQ.SED1ROS,2018.06,103127,,R,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Otago,Seasonally adjusted
+BDCQ.SED1ROS,2018.09,103427,,R,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Otago,Seasonally adjusted
+BDCQ.SED1ROS,2018.12,103709,,R,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Otago,Seasonally adjusted
+BDCQ.SED1ROS,2019.03,104830,,R,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Otago,Seasonally adjusted
+BDCQ.SED1ROS,2019.06,105332,,R,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Otago,Seasonally adjusted
+BDCQ.SED1ROS,2019.09,104973,,R,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Otago,Seasonally adjusted
+BDCQ.SED1ROS,2019.12,106618,,R,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Otago,Seasonally adjusted
+BDCQ.SED1ROS,2020.03,107048,,R,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Otago,Seasonally adjusted
+BDCQ.SED1ROS,2020.06,105535,,R,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Otago,Seasonally adjusted
+BDCQ.SED1ROS,2020.09,104611,,R,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Otago,Seasonally adjusted
+BDCQ.SED1ROS,2020.12,104047,,R,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Otago,Seasonally adjusted
+BDCQ.SED1ROS,2021.03,103784,,R,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Otago,Seasonally adjusted
+BDCQ.SED1ROS,2021.06,104449,,R,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Otago,Seasonally adjusted
+BDCQ.SED1ROS,2021.09,105980,,R,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Otago,Seasonally adjusted
+BDCQ.SED1ROS,2021.12,106561,,R,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Otago,Seasonally adjusted
+BDCQ.SED1ROS,2022.03,106158,,R,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Otago,Seasonally adjusted
+BDCQ.SED1ROS,2022.06,106428,,F,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Otago,Seasonally adjusted
+BDCQ.SED1ROT,2011.06,,,C,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Otago,Trend
+BDCQ.SED1ROT,2011.09,,,C,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Otago,Trend
+BDCQ.SED1ROT,2011.12,,,C,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Otago,Trend
+BDCQ.SED1ROT,2012.03,,,C,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Otago,Trend
+BDCQ.SED1ROT,2012.06,,,C,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Otago,Trend
+BDCQ.SED1ROT,2012.09,,,C,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Otago,Trend
+BDCQ.SED1ROT,2012.12,,,C,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Otago,Trend
+BDCQ.SED1ROT,2013.03,,,C,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Otago,Trend
+BDCQ.SED1ROT,2013.06,,,C,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Otago,Trend
+BDCQ.SED1ROT,2013.09,,,C,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Otago,Trend
+BDCQ.SED1ROT,2013.12,,,C,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Otago,Trend
+BDCQ.SED1ROT,2014.03,,,C,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Otago,Trend
+BDCQ.SED1ROT,2014.06,,,C,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Otago,Trend
+BDCQ.SED1ROT,2014.09,,,C,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Otago,Trend
+BDCQ.SED1ROT,2014.12,,,C,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Otago,Trend
+BDCQ.SED1ROT,2015.03,,,C,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Otago,Trend
+BDCQ.SED1ROT,2015.06,,,C,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Otago,Trend
+BDCQ.SED1ROT,2015.09,,,C,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Otago,Trend
+BDCQ.SED1ROT,2015.12,,,C,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Otago,Trend
+BDCQ.SED1ROT,2016.03,,,C,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Otago,Trend
+BDCQ.SED1ROT,2016.06,,,C,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Otago,Trend
+BDCQ.SED1ROT,2016.09,,,C,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Otago,Trend
+BDCQ.SED1ROT,2016.12,,,C,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Otago,Trend
+BDCQ.SED1ROT,2017.03,,,C,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Otago,Trend
+BDCQ.SED1ROT,2017.06,,,C,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Otago,Trend
+BDCQ.SED1ROT,2017.09,,,C,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Otago,Trend
+BDCQ.SED1ROT,2017.12,,,C,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Otago,Trend
+BDCQ.SED1ROT,2018.03,,,C,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Otago,Trend
+BDCQ.SED1ROT,2018.06,,,C,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Otago,Trend
+BDCQ.SED1ROT,2018.09,,,C,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Otago,Trend
+BDCQ.SED1ROT,2018.12,,,C,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Otago,Trend
+BDCQ.SED1ROT,2019.03,,,C,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Otago,Trend
+BDCQ.SED1ROT,2019.06,,,C,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Otago,Trend
+BDCQ.SED1ROT,2019.09,,,C,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Otago,Trend
+BDCQ.SED1ROT,2019.12,,,C,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Otago,Trend
+BDCQ.SED1ROT,2020.03,,,C,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Otago,Trend
+BDCQ.SED1ROT,2020.06,,,C,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Otago,Trend
+BDCQ.SED1ROT,2020.09,,,C,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Otago,Trend
+BDCQ.SED1ROT,2020.12,,,C,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Otago,Trend
+BDCQ.SED1ROT,2021.03,,,C,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Otago,Trend
+BDCQ.SED1ROT,2021.06,,,C,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Otago,Trend
+BDCQ.SED1ROT,2021.09,,,C,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Otago,Trend
+BDCQ.SED1ROT,2021.12,,,C,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Otago,Trend
+BDCQ.SED1ROT,2022.03,,,C,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Otago,Trend
+BDCQ.SED1ROT,2022.06,,Y,C,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Otago,Trend
+BDCQ.SED1RPA,2011.06,41186,,F,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Southland,Actual
+BDCQ.SED1RPA,2011.09,39307,,F,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Southland,Actual
+BDCQ.SED1RPA,2011.12,41478,,F,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Southland,Actual
+BDCQ.SED1RPA,2012.03,42690,,F,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Southland,Actual
+BDCQ.SED1RPA,2012.06,41842,,F,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Southland,Actual
+BDCQ.SED1RPA,2012.09,40018,,F,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Southland,Actual
+BDCQ.SED1RPA,2012.12,41797,,F,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Southland,Actual
+BDCQ.SED1RPA,2013.03,42750,,F,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Southland,Actual
+BDCQ.SED1RPA,2013.06,41973,,F,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Southland,Actual
+BDCQ.SED1RPA,2013.09,40328,,F,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Southland,Actual
+BDCQ.SED1RPA,2013.12,42547,,F,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Southland,Actual
+BDCQ.SED1RPA,2014.03,43501,,F,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Southland,Actual
+BDCQ.SED1RPA,2014.06,42588,,F,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Southland,Actual
+BDCQ.SED1RPA,2014.09,41337,,F,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Southland,Actual
+BDCQ.SED1RPA,2014.12,43305,,F,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Southland,Actual
+BDCQ.SED1RPA,2015.03,44375,,F,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Southland,Actual
+BDCQ.SED1RPA,2015.06,43313,,F,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Southland,Actual
+BDCQ.SED1RPA,2015.09,41574,,F,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Southland,Actual
+BDCQ.SED1RPA,2015.12,43539,,F,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Southland,Actual
+BDCQ.SED1RPA,2016.03,44564,,F,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Southland,Actual
+BDCQ.SED1RPA,2016.06,43490,,F,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Southland,Actual
+BDCQ.SED1RPA,2016.09,41837,,F,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Southland,Actual
+BDCQ.SED1RPA,2016.12,44002,,F,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Southland,Actual
+BDCQ.SED1RPA,2017.03,44953,,F,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Southland,Actual
+BDCQ.SED1RPA,2017.06,44459,,F,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Southland,Actual
+BDCQ.SED1RPA,2017.09,42742,,F,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Southland,Actual
+BDCQ.SED1RPA,2017.12,45312,,F,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Southland,Actual
+BDCQ.SED1RPA,2018.03,46536,,F,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Southland,Actual
+BDCQ.SED1RPA,2018.06,45505,,F,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Southland,Actual
+BDCQ.SED1RPA,2018.09,43888,,F,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Southland,Actual
+BDCQ.SED1RPA,2018.12,46190,,F,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Southland,Actual
+BDCQ.SED1RPA,2019.03,46775,,F,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Southland,Actual
+BDCQ.SED1RPA,2019.06,46004,,F,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Southland,Actual
+BDCQ.SED1RPA,2019.09,43726,,F,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Southland,Actual
+BDCQ.SED1RPA,2019.12,45990,,F,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Southland,Actual
+BDCQ.SED1RPA,2020.03,46647,,F,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Southland,Actual
+BDCQ.SED1RPA,2020.06,44939,,F,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Southland,Actual
+BDCQ.SED1RPA,2020.09,43598,,F,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Southland,Actual
+BDCQ.SED1RPA,2020.12,45280,,F,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Southland,Actual
+BDCQ.SED1RPA,2021.03,45855,,F,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Southland,Actual
+BDCQ.SED1RPA,2021.06,45261,,F,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Southland,Actual
+BDCQ.SED1RPA,2021.09,44758,,F,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Southland,Actual
+BDCQ.SED1RPA,2021.12,46478,,F,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Southland,Actual
+BDCQ.SED1RPA,2022.03,46787,,F,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Southland,Actual
+BDCQ.SED1RPA,2022.06,45514,,F,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Southland,Actual
+BDCQ.SED1RPS,2011.06,40973,,R,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Southland,Seasonally adjusted
+BDCQ.SED1RPS,2011.09,40923,,R,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Southland,Seasonally adjusted
+BDCQ.SED1RPS,2011.12,41200,,R,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Southland,Seasonally adjusted
+BDCQ.SED1RPS,2012.03,41540,,R,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Southland,Seasonally adjusted
+BDCQ.SED1RPS,2012.06,41638,,R,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Southland,Seasonally adjusted
+BDCQ.SED1RPS,2012.09,41656,,R,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Southland,Seasonally adjusted
+BDCQ.SED1RPS,2012.12,41515,,R,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Southland,Seasonally adjusted
+BDCQ.SED1RPS,2013.03,41591,,R,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Southland,Seasonally adjusted
+BDCQ.SED1RPS,2013.06,41793,,R,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Southland,Seasonally adjusted
+BDCQ.SED1RPS,2013.09,41962,,R,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Southland,Seasonally adjusted
+BDCQ.SED1RPS,2013.12,42253,,R,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Southland,Seasonally adjusted
+BDCQ.SED1RPS,2014.03,42324,,R,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Southland,Seasonally adjusted
+BDCQ.SED1RPS,2014.06,42422,,R,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Southland,Seasonally adjusted
+BDCQ.SED1RPS,2014.09,43006,,R,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Southland,Seasonally adjusted
+BDCQ.SED1RPS,2014.12,42990,,R,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Southland,Seasonally adjusted
+BDCQ.SED1RPS,2015.03,43177,,R,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Southland,Seasonally adjusted
+BDCQ.SED1RPS,2015.06,43166,,R,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Southland,Seasonally adjusted
+BDCQ.SED1RPS,2015.09,43244,,R,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Southland,Seasonally adjusted
+BDCQ.SED1RPS,2015.12,43199,,R,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Southland,Seasonally adjusted
+BDCQ.SED1RPS,2016.03,43378,,R,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Southland,Seasonally adjusted
+BDCQ.SED1RPS,2016.06,43350,,R,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Southland,Seasonally adjusted
+BDCQ.SED1RPS,2016.09,43519,,R,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Southland,Seasonally adjusted
+BDCQ.SED1RPS,2016.12,43628,,R,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Southland,Seasonally adjusted
+BDCQ.SED1RPS,2017.03,43777,,R,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Southland,Seasonally adjusted
+BDCQ.SED1RPS,2017.06,44337,,R,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Southland,Seasonally adjusted
+BDCQ.SED1RPS,2017.09,44441,,R,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Southland,Seasonally adjusted
+BDCQ.SED1RPS,2017.12,44885,,R,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Southland,Seasonally adjusted
+BDCQ.SED1RPS,2018.03,45372,,R,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Southland,Seasonally adjusted
+BDCQ.SED1RPS,2018.06,45401,,R,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Southland,Seasonally adjusted
+BDCQ.SED1RPS,2018.09,45592,,R,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Southland,Seasonally adjusted
+BDCQ.SED1RPS,2018.12,45710,,R,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Southland,Seasonally adjusted
+BDCQ.SED1RPS,2019.03,45659,,R,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Southland,Seasonally adjusted
+BDCQ.SED1RPS,2019.06,45952,,R,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Southland,Seasonally adjusted
+BDCQ.SED1RPS,2019.09,45344,,R,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Southland,Seasonally adjusted
+BDCQ.SED1RPS,2019.12,45473,,R,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Southland,Seasonally adjusted
+BDCQ.SED1RPS,2020.03,45598,,R,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Southland,Seasonally adjusted
+BDCQ.SED1RPS,2020.06,44940,,R,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Southland,Seasonally adjusted
+BDCQ.SED1RPS,2020.09,45127,,R,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Southland,Seasonally adjusted
+BDCQ.SED1RPS,2020.12,44747,,R,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Southland,Seasonally adjusted
+BDCQ.SED1RPS,2021.03,44866,,R,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Southland,Seasonally adjusted
+BDCQ.SED1RPS,2021.06,45321,,R,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Southland,Seasonally adjusted
+BDCQ.SED1RPS,2021.09,46248,,R,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Southland,Seasonally adjusted
+BDCQ.SED1RPS,2021.12,45915,,R,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Southland,Seasonally adjusted
+BDCQ.SED1RPS,2022.03,45816,,R,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Southland,Seasonally adjusted
+BDCQ.SED1RPS,2022.06,45604,,F,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Southland,Seasonally adjusted
+BDCQ.SED1RPT,2011.06,,,C,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Southland,Trend
+BDCQ.SED1RPT,2011.09,,,C,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Southland,Trend
+BDCQ.SED1RPT,2011.12,,,C,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Southland,Trend
+BDCQ.SED1RPT,2012.03,,,C,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Southland,Trend
+BDCQ.SED1RPT,2012.06,,,C,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Southland,Trend
+BDCQ.SED1RPT,2012.09,,,C,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Southland,Trend
+BDCQ.SED1RPT,2012.12,,,C,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Southland,Trend
+BDCQ.SED1RPT,2013.03,,,C,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Southland,Trend
+BDCQ.SED1RPT,2013.06,,,C,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Southland,Trend
+BDCQ.SED1RPT,2013.09,,,C,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Southland,Trend
+BDCQ.SED1RPT,2013.12,,,C,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Southland,Trend
+BDCQ.SED1RPT,2014.03,,,C,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Southland,Trend
+BDCQ.SED1RPT,2014.06,,,C,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Southland,Trend
+BDCQ.SED1RPT,2014.09,,,C,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Southland,Trend
+BDCQ.SED1RPT,2014.12,,,C,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Southland,Trend
+BDCQ.SED1RPT,2015.03,,,C,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Southland,Trend
+BDCQ.SED1RPT,2015.06,,,C,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Southland,Trend
+BDCQ.SED1RPT,2015.09,,,C,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Southland,Trend
+BDCQ.SED1RPT,2015.12,,,C,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Southland,Trend
+BDCQ.SED1RPT,2016.03,,,C,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Southland,Trend
+BDCQ.SED1RPT,2016.06,,,C,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Southland,Trend
+BDCQ.SED1RPT,2016.09,,,C,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Southland,Trend
+BDCQ.SED1RPT,2016.12,,,C,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Southland,Trend
+BDCQ.SED1RPT,2017.03,,,C,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Southland,Trend
+BDCQ.SED1RPT,2017.06,,,C,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Southland,Trend
+BDCQ.SED1RPT,2017.09,,,C,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Southland,Trend
+BDCQ.SED1RPT,2017.12,,,C,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Southland,Trend
+BDCQ.SED1RPT,2018.03,,,C,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Southland,Trend
+BDCQ.SED1RPT,2018.06,,,C,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Southland,Trend
+BDCQ.SED1RPT,2018.09,,,C,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Southland,Trend
+BDCQ.SED1RPT,2018.12,,,C,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Southland,Trend
+BDCQ.SED1RPT,2019.03,,,C,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Southland,Trend
+BDCQ.SED1RPT,2019.06,,,C,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Southland,Trend
+BDCQ.SED1RPT,2019.09,,,C,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Southland,Trend
+BDCQ.SED1RPT,2019.12,,,C,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Southland,Trend
+BDCQ.SED1RPT,2020.03,,,C,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Southland,Trend
+BDCQ.SED1RPT,2020.06,,,C,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Southland,Trend
+BDCQ.SED1RPT,2020.09,,,C,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Southland,Trend
+BDCQ.SED1RPT,2020.12,,,C,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Southland,Trend
+BDCQ.SED1RPT,2021.03,,,C,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Southland,Trend
+BDCQ.SED1RPT,2021.06,,,C,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Southland,Trend
+BDCQ.SED1RPT,2021.09,,,C,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Southland,Trend
+BDCQ.SED1RPT,2021.12,,,C,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Southland,Trend
+BDCQ.SED1RPT,2022.03,,,C,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Southland,Trend
+BDCQ.SED1RPT,2022.06,,Y,C,Number,0,Business Data Collection - BDC,Region by employment variable,Filled jobs,Southland,Trend
+BDCQ.SED2RAA,2011.06,522.353871,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Northland,Actual
+BDCQ.SED2RAA,2011.09,519.423487,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Northland,Actual
+BDCQ.SED2RAA,2011.12,548.935862,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Northland,Actual
+BDCQ.SED2RAA,2012.03,516.940334,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Northland,Actual
+BDCQ.SED2RAA,2012.06,540.914285,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Northland,Actual
+BDCQ.SED2RAA,2012.09,531.527873,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Northland,Actual
+BDCQ.SED2RAA,2012.12,570.351884,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Northland,Actual
+BDCQ.SED2RAA,2013.03,532.878482,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Northland,Actual
+BDCQ.SED2RAA,2013.06,556.849501,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Northland,Actual
+BDCQ.SED2RAA,2013.09,557.190419,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Northland,Actual
+BDCQ.SED2RAA,2013.12,612.807005,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Northland,Actual
+BDCQ.SED2RAA,2014.03,566.170288,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Northland,Actual
+BDCQ.SED2RAA,2014.06,605.305343,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Northland,Actual
+BDCQ.SED2RAA,2014.09,607.416948,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Northland,Actual
+BDCQ.SED2RAA,2014.12,655.425368,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Northland,Actual
+BDCQ.SED2RAA,2015.03,609.608972,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Northland,Actual
+BDCQ.SED2RAA,2015.06,647.818555,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Northland,Actual
+BDCQ.SED2RAA,2015.09,656.802696,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Northland,Actual
+BDCQ.SED2RAA,2015.12,683.093153,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Northland,Actual
+BDCQ.SED2RAA,2016.03,670.869514,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Northland,Actual
+BDCQ.SED2RAA,2016.06,681.281549,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Northland,Actual
+BDCQ.SED2RAA,2016.09,688.107123,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Northland,Actual
+BDCQ.SED2RAA,2016.12,729.07934,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Northland,Actual
+BDCQ.SED2RAA,2017.03,708.627534,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Northland,Actual
+BDCQ.SED2RAA,2017.06,728.891539,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Northland,Actual
+BDCQ.SED2RAA,2017.09,738.738576,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Northland,Actual
+BDCQ.SED2RAA,2017.12,793.225675,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Northland,Actual
+BDCQ.SED2RAA,2018.03,751.330524,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Northland,Actual
+BDCQ.SED2RAA,2018.06,809.543181,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Northland,Actual
+BDCQ.SED2RAA,2018.09,811.823928,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Northland,Actual
+BDCQ.SED2RAA,2018.12,882.10247,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Northland,Actual
+BDCQ.SED2RAA,2019.03,815.099068,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Northland,Actual
+BDCQ.SED2RAA,2019.06,860.439757,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Northland,Actual
+BDCQ.SED2RAA,2019.09,881.633436,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Northland,Actual
+BDCQ.SED2RAA,2019.12,962.316643,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Northland,Actual
+BDCQ.SED2RAA,2020.03,866.431454,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Northland,Actual
+BDCQ.SED2RAA,2020.06,874.226765,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Northland,Actual
+BDCQ.SED2RAA,2020.09,952.877452,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Northland,Actual
+BDCQ.SED2RAA,2020.12,974.057863,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Northland,Actual
+BDCQ.SED2RAA,2021.03,950.063041,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Northland,Actual
+BDCQ.SED2RAA,2021.06,1001.283698,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Northland,Actual
+BDCQ.SED2RAA,2021.09,1012.4653,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Northland,Actual
+BDCQ.SED2RAA,2021.12,1093.375166,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Northland,Actual
+BDCQ.SED2RAA,2022.03,1056.09031,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Northland,Actual
+BDCQ.SED2RAA,2022.06,1107.924268,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Northland,Actual
+BDCQ.SED2RAS,2011.06,,Y,R,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Northland,Seasonally adjusted
+BDCQ.SED2RAS,2011.09,,Y,R,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Northland,Seasonally adjusted
+BDCQ.SED2RAS,2011.12,,Y,R,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Northland,Seasonally adjusted
+BDCQ.SED2RAS,2012.03,,Y,R,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Northland,Seasonally adjusted
+BDCQ.SED2RAS,2012.06,,Y,R,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Northland,Seasonally adjusted
+BDCQ.SED2RAS,2012.09,,Y,R,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Northland,Seasonally adjusted
+BDCQ.SED2RAS,2012.12,,Y,R,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Northland,Seasonally adjusted
+BDCQ.SED2RAS,2013.03,,Y,R,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Northland,Seasonally adjusted
+BDCQ.SED2RAS,2013.06,,Y,R,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Northland,Seasonally adjusted
+BDCQ.SED2RAS,2013.09,,Y,R,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Northland,Seasonally adjusted
+BDCQ.SED2RAS,2013.12,,Y,R,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Northland,Seasonally adjusted
+BDCQ.SED2RAS,2014.03,,Y,R,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Northland,Seasonally adjusted
+BDCQ.SED2RAS,2014.06,,Y,R,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Northland,Seasonally adjusted
+BDCQ.SED2RAS,2014.09,,Y,R,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Northland,Seasonally adjusted
+BDCQ.SED2RAS,2014.12,,Y,R,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Northland,Seasonally adjusted
+BDCQ.SED2RAS,2015.03,,Y,R,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Northland,Seasonally adjusted
+BDCQ.SED2RAS,2015.06,,Y,R,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Northland,Seasonally adjusted
+BDCQ.SED2RAS,2015.09,,Y,R,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Northland,Seasonally adjusted
+BDCQ.SED2RAS,2015.12,,Y,R,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Northland,Seasonally adjusted
+BDCQ.SED2RAS,2016.03,,Y,R,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Northland,Seasonally adjusted
+BDCQ.SED2RAS,2016.06,,Y,R,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Northland,Seasonally adjusted
+BDCQ.SED2RAS,2016.09,,Y,R,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Northland,Seasonally adjusted
+BDCQ.SED2RAS,2016.12,,Y,R,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Northland,Seasonally adjusted
+BDCQ.SED2RAS,2017.03,,Y,R,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Northland,Seasonally adjusted
+BDCQ.SED2RAS,2017.06,,Y,R,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Northland,Seasonally adjusted
+BDCQ.SED2RAS,2017.09,,Y,R,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Northland,Seasonally adjusted
+BDCQ.SED2RAS,2017.12,,Y,R,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Northland,Seasonally adjusted
+BDCQ.SED2RAS,2018.03,,Y,R,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Northland,Seasonally adjusted
+BDCQ.SED2RAS,2018.06,,Y,R,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Northland,Seasonally adjusted
+BDCQ.SED2RAS,2018.09,,Y,R,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Northland,Seasonally adjusted
+BDCQ.SED2RAS,2018.12,,Y,R,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Northland,Seasonally adjusted
+BDCQ.SED2RAS,2019.03,,Y,R,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Northland,Seasonally adjusted
+BDCQ.SED2RAS,2019.06,,Y,R,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Northland,Seasonally adjusted
+BDCQ.SED2RAS,2019.09,,Y,R,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Northland,Seasonally adjusted
+BDCQ.SED2RAS,2019.12,,Y,R,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Northland,Seasonally adjusted
+BDCQ.SED2RAS,2020.03,,Y,R,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Northland,Seasonally adjusted
+BDCQ.SED2RAS,2020.06,,Y,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Northland,Seasonally adjusted
+BDCQ.SED2RAS,2020.09,,Y,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Northland,Seasonally adjusted
+BDCQ.SED2RAS,2020.12,,Y,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Northland,Seasonally adjusted
+BDCQ.SED2RAT,2011.06,,Y,C,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Northland,Trend
+BDCQ.SED2RAT,2011.09,,Y,C,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Northland,Trend
+BDCQ.SED2RAT,2011.12,,Y,C,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Northland,Trend
+BDCQ.SED2RAT,2012.03,,Y,C,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Northland,Trend
+BDCQ.SED2RAT,2012.06,,Y,C,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Northland,Trend
+BDCQ.SED2RAT,2012.09,,Y,C,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Northland,Trend
+BDCQ.SED2RAT,2012.12,,Y,C,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Northland,Trend
+BDCQ.SED2RAT,2013.03,,Y,C,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Northland,Trend
+BDCQ.SED2RAT,2013.06,,Y,C,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Northland,Trend
+BDCQ.SED2RAT,2013.09,,Y,C,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Northland,Trend
+BDCQ.SED2RAT,2013.12,,Y,C,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Northland,Trend
+BDCQ.SED2RAT,2014.03,,Y,C,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Northland,Trend
+BDCQ.SED2RAT,2014.06,,Y,C,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Northland,Trend
+BDCQ.SED2RAT,2014.09,,Y,C,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Northland,Trend
+BDCQ.SED2RAT,2014.12,,Y,C,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Northland,Trend
+BDCQ.SED2RAT,2015.03,,Y,C,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Northland,Trend
+BDCQ.SED2RAT,2015.06,,Y,C,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Northland,Trend
+BDCQ.SED2RAT,2015.09,,Y,C,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Northland,Trend
+BDCQ.SED2RAT,2015.12,,Y,C,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Northland,Trend
+BDCQ.SED2RAT,2016.03,,Y,C,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Northland,Trend
+BDCQ.SED2RAT,2016.06,,Y,C,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Northland,Trend
+BDCQ.SED2RAT,2016.09,,Y,C,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Northland,Trend
+BDCQ.SED2RAT,2016.12,,Y,C,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Northland,Trend
+BDCQ.SED2RAT,2017.03,,Y,C,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Northland,Trend
+BDCQ.SED2RAT,2017.06,,Y,C,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Northland,Trend
+BDCQ.SED2RAT,2017.09,,Y,C,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Northland,Trend
+BDCQ.SED2RAT,2017.12,,Y,C,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Northland,Trend
+BDCQ.SED2RAT,2018.03,,Y,C,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Northland,Trend
+BDCQ.SED2RAT,2018.06,,Y,C,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Northland,Trend
+BDCQ.SED2RAT,2018.09,,Y,C,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Northland,Trend
+BDCQ.SED2RAT,2018.12,,Y,C,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Northland,Trend
+BDCQ.SED2RAT,2019.03,,Y,C,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Northland,Trend
+BDCQ.SED2RAT,2019.06,,Y,C,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Northland,Trend
+BDCQ.SED2RAT,2019.09,,Y,C,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Northland,Trend
+BDCQ.SED2RAT,2019.12,,Y,C,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Northland,Trend
+BDCQ.SED2RAT,2020.03,,Y,C,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Northland,Trend
+BDCQ.SED2RAT,2020.06,,Y,C,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Northland,Trend
+BDCQ.SED2RAT,2020.09,,Y,C,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Northland,Trend
+BDCQ.SED2RAT,2020.12,,Y,C,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Northland,Trend
+BDCQ.SED2RBA,2011.06,7447.755016,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Auckland,Actual
+BDCQ.SED2RBA,2011.09,7649.103449,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Auckland,Actual
+BDCQ.SED2RBA,2011.12,7939.989996,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Auckland,Actual
+BDCQ.SED2RBA,2012.03,7555.602333,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Auckland,Actual
+BDCQ.SED2RBA,2012.06,7823.541726,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Auckland,Actual
+BDCQ.SED2RBA,2012.09,7934.562337,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Auckland,Actual
+BDCQ.SED2RBA,2012.12,8293.56192,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Auckland,Actual
+BDCQ.SED2RBA,2013.03,7847.208639,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Auckland,Actual
+BDCQ.SED2RBA,2013.06,8163.13584,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Auckland,Actual
+BDCQ.SED2RBA,2013.09,8319.388872,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Auckland,Actual
+BDCQ.SED2RBA,2013.12,8784.854516,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Auckland,Actual
+BDCQ.SED2RBA,2014.03,8149.000397,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Auckland,Actual
+BDCQ.SED2RBA,2014.06,8610.780651,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Auckland,Actual
+BDCQ.SED2RBA,2014.09,8865.380736,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Auckland,Actual
+BDCQ.SED2RBA,2014.12,9281.645418,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Auckland,Actual
+BDCQ.SED2RBA,2015.03,8684.726656,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Auckland,Actual
+BDCQ.SED2RBA,2015.06,9134.438955,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Auckland,Actual
+BDCQ.SED2RBA,2015.09,9545.914404,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Auckland,Actual
+BDCQ.SED2RBA,2015.12,9751.737892,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Auckland,Actual
+BDCQ.SED2RBA,2016.03,9511.344274,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Auckland,Actual
+BDCQ.SED2RBA,2016.06,9745.58507,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Auckland,Actual
+BDCQ.SED2RBA,2016.09,10034.82849,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Auckland,Actual
+BDCQ.SED2RBA,2016.12,10365.3989,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Auckland,Actual
+BDCQ.SED2RBA,2017.03,10041.24527,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Auckland,Actual
+BDCQ.SED2RBA,2017.06,10394.24792,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Auckland,Actual
+BDCQ.SED2RBA,2017.09,10660.06066,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Auckland,Actual
+BDCQ.SED2RBA,2017.12,11093.97773,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Auckland,Actual
+BDCQ.SED2RBA,2018.03,10661.87554,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Auckland,Actual
+BDCQ.SED2RBA,2018.06,11034.91634,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Auckland,Actual
+BDCQ.SED2RBA,2018.09,11307.47021,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Auckland,Actual
+BDCQ.SED2RBA,2018.12,11904.98357,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Auckland,Actual
+BDCQ.SED2RBA,2019.03,11076.97054,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Auckland,Actual
+BDCQ.SED2RBA,2019.06,11690.82501,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Auckland,Actual
+BDCQ.SED2RBA,2019.09,11979.95939,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Auckland,Actual
+BDCQ.SED2RBA,2019.12,12857.37009,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Auckland,Actual
+BDCQ.SED2RBA,2020.03,11855.59303,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Auckland,Actual
+BDCQ.SED2RBA,2020.06,11722.70343,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Auckland,Actual
+BDCQ.SED2RBA,2020.09,12419.63346,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Auckland,Actual
+BDCQ.SED2RBA,2020.12,12596.88521,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Auckland,Actual
+BDCQ.SED2RBA,2021.03,12466.00964,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Auckland,Actual
+BDCQ.SED2RBA,2021.06,12971.77081,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Auckland,Actual
+BDCQ.SED2RBA,2021.09,13299.05854,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Auckland,Actual
+BDCQ.SED2RBA,2021.12,13977.16168,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Auckland,Actual
+BDCQ.SED2RBA,2022.03,13787.624319,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Auckland,Actual
+BDCQ.SED2RBA,2022.06,14234.130217,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Auckland,Actual
+BDCQ.SED2RBS,2011.06,,Y,R,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Auckland,Seasonally adjusted
+BDCQ.SED2RBS,2011.09,,Y,R,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Auckland,Seasonally adjusted
+BDCQ.SED2RBS,2011.12,,Y,R,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Auckland,Seasonally adjusted
+BDCQ.SED2RBS,2012.03,,Y,R,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Auckland,Seasonally adjusted
+BDCQ.SED2RBS,2012.06,,Y,R,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Auckland,Seasonally adjusted
+BDCQ.SED2RBS,2012.09,,Y,R,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Auckland,Seasonally adjusted
+BDCQ.SED2RBS,2012.12,,Y,R,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Auckland,Seasonally adjusted
+BDCQ.SED2RBS,2013.03,,Y,R,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Auckland,Seasonally adjusted
+BDCQ.SED2RBS,2013.06,,Y,R,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Auckland,Seasonally adjusted
+BDCQ.SED2RBS,2013.09,,Y,R,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Auckland,Seasonally adjusted
+BDCQ.SED2RBS,2013.12,,Y,R,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Auckland,Seasonally adjusted
+BDCQ.SED2RBS,2014.03,,Y,R,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Auckland,Seasonally adjusted
+BDCQ.SED2RBS,2014.06,,Y,R,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Auckland,Seasonally adjusted
+BDCQ.SED2RBS,2014.09,,Y,R,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Auckland,Seasonally adjusted
+BDCQ.SED2RBS,2014.12,,Y,R,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Auckland,Seasonally adjusted
+BDCQ.SED2RBS,2015.03,,Y,R,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Auckland,Seasonally adjusted
+BDCQ.SED2RBS,2015.06,,Y,R,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Auckland,Seasonally adjusted
+BDCQ.SED2RBS,2015.09,,Y,R,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Auckland,Seasonally adjusted
+BDCQ.SED2RBS,2015.12,,Y,R,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Auckland,Seasonally adjusted
+BDCQ.SED2RBS,2016.03,,Y,R,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Auckland,Seasonally adjusted
+BDCQ.SED2RBS,2016.06,,Y,R,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Auckland,Seasonally adjusted
+BDCQ.SED2RBS,2016.09,,Y,R,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Auckland,Seasonally adjusted
+BDCQ.SED2RBS,2016.12,,Y,R,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Auckland,Seasonally adjusted
+BDCQ.SED2RBS,2017.03,,Y,R,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Auckland,Seasonally adjusted
+BDCQ.SED2RBS,2017.06,,Y,R,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Auckland,Seasonally adjusted
+BDCQ.SED2RBS,2017.09,,Y,R,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Auckland,Seasonally adjusted
+BDCQ.SED2RBS,2017.12,,Y,R,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Auckland,Seasonally adjusted
+BDCQ.SED2RBS,2018.03,,Y,R,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Auckland,Seasonally adjusted
+BDCQ.SED2RBS,2018.06,,Y,R,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Auckland,Seasonally adjusted
+BDCQ.SED2RBS,2018.09,,Y,R,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Auckland,Seasonally adjusted
+BDCQ.SED2RBS,2018.12,,Y,R,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Auckland,Seasonally adjusted
+BDCQ.SED2RBS,2019.03,,Y,R,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Auckland,Seasonally adjusted
+BDCQ.SED2RBS,2019.06,,Y,R,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Auckland,Seasonally adjusted
+BDCQ.SED2RBS,2019.09,,Y,R,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Auckland,Seasonally adjusted
+BDCQ.SED2RBS,2019.12,,Y,R,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Auckland,Seasonally adjusted
+BDCQ.SED2RBS,2020.03,,Y,R,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Auckland,Seasonally adjusted
+BDCQ.SED2RBS,2020.06,,Y,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Auckland,Seasonally adjusted
+BDCQ.SED2RBS,2020.09,,Y,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Auckland,Seasonally adjusted
+BDCQ.SED2RBS,2020.12,,Y,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Auckland,Seasonally adjusted
+BDCQ.SED2RBT,2011.06,,Y,C,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Auckland,Trend
+BDCQ.SED2RBT,2011.09,,Y,C,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Auckland,Trend
+BDCQ.SED2RBT,2011.12,,Y,C,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Auckland,Trend
+BDCQ.SED2RBT,2012.03,,Y,C,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Auckland,Trend
+BDCQ.SED2RBT,2012.06,,Y,C,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Auckland,Trend
+BDCQ.SED2RBT,2012.09,,Y,C,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Auckland,Trend
+BDCQ.SED2RBT,2012.12,,Y,C,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Auckland,Trend
+BDCQ.SED2RBT,2013.03,,Y,C,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Auckland,Trend
+BDCQ.SED2RBT,2013.06,,Y,C,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Auckland,Trend
+BDCQ.SED2RBT,2013.09,,Y,C,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Auckland,Trend
+BDCQ.SED2RBT,2013.12,,Y,C,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Auckland,Trend
+BDCQ.SED2RBT,2014.03,,Y,C,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Auckland,Trend
+BDCQ.SED2RBT,2014.06,,Y,C,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Auckland,Trend
+BDCQ.SED2RBT,2014.09,,Y,C,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Auckland,Trend
+BDCQ.SED2RBT,2014.12,,Y,C,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Auckland,Trend
+BDCQ.SED2RBT,2015.03,,Y,C,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Auckland,Trend
+BDCQ.SED2RBT,2015.06,,Y,C,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Auckland,Trend
+BDCQ.SED2RBT,2015.09,,Y,C,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Auckland,Trend
+BDCQ.SED2RBT,2015.12,,Y,C,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Auckland,Trend
+BDCQ.SED2RBT,2016.03,,Y,C,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Auckland,Trend
+BDCQ.SED2RBT,2016.06,,Y,C,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Auckland,Trend
+BDCQ.SED2RBT,2016.09,,Y,C,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Auckland,Trend
+BDCQ.SED2RBT,2016.12,,Y,C,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Auckland,Trend
+BDCQ.SED2RBT,2017.03,,Y,C,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Auckland,Trend
+BDCQ.SED2RBT,2017.06,,Y,C,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Auckland,Trend
+BDCQ.SED2RBT,2017.09,,Y,C,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Auckland,Trend
+BDCQ.SED2RBT,2017.12,,Y,C,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Auckland,Trend
+BDCQ.SED2RBT,2018.03,,Y,C,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Auckland,Trend
+BDCQ.SED2RBT,2018.06,,Y,C,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Auckland,Trend
+BDCQ.SED2RBT,2018.09,,Y,C,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Auckland,Trend
+BDCQ.SED2RBT,2018.12,,Y,C,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Auckland,Trend
+BDCQ.SED2RBT,2019.03,,Y,C,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Auckland,Trend
+BDCQ.SED2RBT,2019.06,,Y,C,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Auckland,Trend
+BDCQ.SED2RBT,2019.09,,Y,C,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Auckland,Trend
+BDCQ.SED2RBT,2019.12,,Y,C,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Auckland,Trend
+BDCQ.SED2RBT,2020.03,,Y,C,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Auckland,Trend
+BDCQ.SED2RBT,2020.06,,Y,C,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Auckland,Trend
+BDCQ.SED2RBT,2020.09,,Y,C,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Auckland,Trend
+BDCQ.SED2RBT,2020.12,,Y,C,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Auckland,Trend
+BDCQ.SED2RCA,2011.06,1790.469652,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Waikato,Actual
+BDCQ.SED2RCA,2011.09,1819.987438,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Waikato,Actual
+BDCQ.SED2RCA,2011.12,1917.924351,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Waikato,Actual
+BDCQ.SED2RCA,2012.03,1830.583128,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Waikato,Actual
+BDCQ.SED2RCA,2012.06,1885.264316,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Waikato,Actual
+BDCQ.SED2RCA,2012.09,1888.003355,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Waikato,Actual
+BDCQ.SED2RCA,2012.12,2005.019992,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Waikato,Actual
+BDCQ.SED2RCA,2013.03,1867.148033,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Waikato,Actual
+BDCQ.SED2RCA,2013.06,1940.454038,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Waikato,Actual
+BDCQ.SED2RCA,2013.09,1959.975325,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Waikato,Actual
+BDCQ.SED2RCA,2013.12,2116.427775,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Waikato,Actual
+BDCQ.SED2RCA,2014.03,1947.614203,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Waikato,Actual
+BDCQ.SED2RCA,2014.06,2040.283132,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Waikato,Actual
+BDCQ.SED2RCA,2014.09,2089.383381,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Waikato,Actual
+BDCQ.SED2RCA,2014.12,2226.345004,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Waikato,Actual
+BDCQ.SED2RCA,2015.03,2042.419024,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Waikato,Actual
+BDCQ.SED2RCA,2015.06,2142.051318,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Waikato,Actual
+BDCQ.SED2RCA,2015.09,2224.239303,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Waikato,Actual
+BDCQ.SED2RCA,2015.12,2280.48084,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Waikato,Actual
+BDCQ.SED2RCA,2016.03,2220.523882,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Waikato,Actual
+BDCQ.SED2RCA,2016.06,2263.885731,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Waikato,Actual
+BDCQ.SED2RCA,2016.09,2287.666304,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Waikato,Actual
+BDCQ.SED2RCA,2016.12,2429.808618,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Waikato,Actual
+BDCQ.SED2RCA,2017.03,2331.665567,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Waikato,Actual
+BDCQ.SED2RCA,2017.06,2441.039421,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Waikato,Actual
+BDCQ.SED2RCA,2017.09,2455.218415,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Waikato,Actual
+BDCQ.SED2RCA,2017.12,2625.600241,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Waikato,Actual
+BDCQ.SED2RCA,2018.03,2445.373624,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Waikato,Actual
+BDCQ.SED2RCA,2018.06,2603.658489,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Waikato,Actual
+BDCQ.SED2RCA,2018.09,2629.705601,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Waikato,Actual
+BDCQ.SED2RCA,2018.12,2834.34712,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Waikato,Actual
+BDCQ.SED2RCA,2019.03,2646.38782,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Waikato,Actual
+BDCQ.SED2RCA,2019.06,2784.036597,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Waikato,Actual
+BDCQ.SED2RCA,2019.09,2827.012902,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Waikato,Actual
+BDCQ.SED2RCA,2019.12,3073.912663,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Waikato,Actual
+BDCQ.SED2RCA,2020.03,2820.129042,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Waikato,Actual
+BDCQ.SED2RCA,2020.06,2849.506408,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Waikato,Actual
+BDCQ.SED2RCA,2020.09,3041.472316,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Waikato,Actual
+BDCQ.SED2RCA,2020.12,3104.965347,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Waikato,Actual
+BDCQ.SED2RCA,2021.03,3039.297224,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Waikato,Actual
+BDCQ.SED2RCA,2021.06,3170.178045,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Waikato,Actual
+BDCQ.SED2RCA,2021.09,3237.72752,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Waikato,Actual
+BDCQ.SED2RCA,2021.12,3474.619745,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Waikato,Actual
+BDCQ.SED2RCA,2022.03,3390.507503,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Waikato,Actual
+BDCQ.SED2RCA,2022.06,3502.291925,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Waikato,Actual
+BDCQ.SED2RCS,2011.06,,Y,R,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Waikato,Seasonally adjusted
+BDCQ.SED2RCS,2011.09,,Y,R,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Waikato,Seasonally adjusted
+BDCQ.SED2RCS,2011.12,,Y,R,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Waikato,Seasonally adjusted
+BDCQ.SED2RCS,2012.03,,Y,R,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Waikato,Seasonally adjusted
+BDCQ.SED2RCS,2012.06,,Y,R,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Waikato,Seasonally adjusted
+BDCQ.SED2RCS,2012.09,,Y,R,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Waikato,Seasonally adjusted
+BDCQ.SED2RCS,2012.12,,Y,R,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Waikato,Seasonally adjusted
+BDCQ.SED2RCS,2013.03,,Y,R,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Waikato,Seasonally adjusted
+BDCQ.SED2RCS,2013.06,,Y,R,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Waikato,Seasonally adjusted
+BDCQ.SED2RCS,2013.09,,Y,R,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Waikato,Seasonally adjusted
+BDCQ.SED2RCS,2013.12,,Y,R,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Waikato,Seasonally adjusted
+BDCQ.SED2RCS,2014.03,,Y,R,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Waikato,Seasonally adjusted
+BDCQ.SED2RCS,2014.06,,Y,R,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Waikato,Seasonally adjusted
+BDCQ.SED2RCS,2014.09,,Y,R,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Waikato,Seasonally adjusted
+BDCQ.SED2RCS,2014.12,,Y,R,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Waikato,Seasonally adjusted
+BDCQ.SED2RCS,2015.03,,Y,R,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Waikato,Seasonally adjusted
+BDCQ.SED2RCS,2015.06,,Y,R,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Waikato,Seasonally adjusted
+BDCQ.SED2RCS,2015.09,,Y,R,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Waikato,Seasonally adjusted
+BDCQ.SED2RCS,2015.12,,Y,R,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Waikato,Seasonally adjusted
+BDCQ.SED2RCS,2016.03,,Y,R,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Waikato,Seasonally adjusted
+BDCQ.SED2RCS,2016.06,,Y,R,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Waikato,Seasonally adjusted
+BDCQ.SED2RCS,2016.09,,Y,R,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Waikato,Seasonally adjusted
+BDCQ.SED2RCS,2016.12,,Y,R,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Waikato,Seasonally adjusted
+BDCQ.SED2RCS,2017.03,,Y,R,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Waikato,Seasonally adjusted
+BDCQ.SED2RCS,2017.06,,Y,R,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Waikato,Seasonally adjusted
+BDCQ.SED2RCS,2017.09,,Y,R,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Waikato,Seasonally adjusted
+BDCQ.SED2RCS,2017.12,,Y,R,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Waikato,Seasonally adjusted
+BDCQ.SED2RCS,2018.03,,Y,R,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Waikato,Seasonally adjusted
+BDCQ.SED2RCS,2018.06,,Y,R,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Waikato,Seasonally adjusted
+BDCQ.SED2RCS,2018.09,,Y,R,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Waikato,Seasonally adjusted
+BDCQ.SED2RCS,2018.12,,Y,R,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Waikato,Seasonally adjusted
+BDCQ.SED2RCS,2019.03,,Y,R,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Waikato,Seasonally adjusted
+BDCQ.SED2RCS,2019.06,,Y,R,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Waikato,Seasonally adjusted
+BDCQ.SED2RCS,2019.09,,Y,R,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Waikato,Seasonally adjusted
+BDCQ.SED2RCS,2019.12,,Y,R,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Waikato,Seasonally adjusted
+BDCQ.SED2RCS,2020.03,,Y,R,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Waikato,Seasonally adjusted
+BDCQ.SED2RCS,2020.06,,Y,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Waikato,Seasonally adjusted
+BDCQ.SED2RCS,2020.09,,Y,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Waikato,Seasonally adjusted
+BDCQ.SED2RCS,2020.12,,Y,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Waikato,Seasonally adjusted
+BDCQ.SED2RCT,2011.06,,Y,C,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Waikato,Trend
+BDCQ.SED2RCT,2011.09,,Y,C,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Waikato,Trend
+BDCQ.SED2RCT,2011.12,,Y,C,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Waikato,Trend
+BDCQ.SED2RCT,2012.03,,Y,C,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Waikato,Trend
+BDCQ.SED2RCT,2012.06,,Y,C,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Waikato,Trend
+BDCQ.SED2RCT,2012.09,,Y,C,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Waikato,Trend
+BDCQ.SED2RCT,2012.12,,Y,C,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Waikato,Trend
+BDCQ.SED2RCT,2013.03,,Y,C,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Waikato,Trend
+BDCQ.SED2RCT,2013.06,,Y,C,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Waikato,Trend
+BDCQ.SED2RCT,2013.09,,Y,C,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Waikato,Trend
+BDCQ.SED2RCT,2013.12,,Y,C,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Waikato,Trend
+BDCQ.SED2RCT,2014.03,,Y,C,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Waikato,Trend
+BDCQ.SED2RCT,2014.06,,Y,C,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Waikato,Trend
+BDCQ.SED2RCT,2014.09,,Y,C,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Waikato,Trend
+BDCQ.SED2RCT,2014.12,,Y,C,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Waikato,Trend
+BDCQ.SED2RCT,2015.03,,Y,C,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Waikato,Trend
+BDCQ.SED2RCT,2015.06,,Y,C,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Waikato,Trend
+BDCQ.SED2RCT,2015.09,,Y,C,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Waikato,Trend
+BDCQ.SED2RCT,2015.12,,Y,C,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Waikato,Trend
+BDCQ.SED2RCT,2016.03,,Y,C,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Waikato,Trend
+BDCQ.SED2RCT,2016.06,,Y,C,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Waikato,Trend
+BDCQ.SED2RCT,2016.09,,Y,C,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Waikato,Trend
+BDCQ.SED2RCT,2016.12,,Y,C,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Waikato,Trend
+BDCQ.SED2RCT,2017.03,,Y,C,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Waikato,Trend
+BDCQ.SED2RCT,2017.06,,Y,C,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Waikato,Trend
+BDCQ.SED2RCT,2017.09,,Y,C,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Waikato,Trend
+BDCQ.SED2RCT,2017.12,,Y,C,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Waikato,Trend
+BDCQ.SED2RCT,2018.03,,Y,C,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Waikato,Trend
+BDCQ.SED2RCT,2018.06,,Y,C,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Waikato,Trend
+BDCQ.SED2RCT,2018.09,,Y,C,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Waikato,Trend
+BDCQ.SED2RCT,2018.12,,Y,C,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Waikato,Trend
+BDCQ.SED2RCT,2019.03,,Y,C,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Waikato,Trend
+BDCQ.SED2RCT,2019.06,,Y,C,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Waikato,Trend
+BDCQ.SED2RCT,2019.09,,Y,C,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Waikato,Trend
+BDCQ.SED2RCT,2019.12,,Y,C,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Waikato,Trend
+BDCQ.SED2RCT,2020.03,,Y,C,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Waikato,Trend
+BDCQ.SED2RCT,2020.06,,Y,C,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Waikato,Trend
+BDCQ.SED2RCT,2020.09,,Y,C,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Waikato,Trend
+BDCQ.SED2RCT,2020.12,,Y,C,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Waikato,Trend
+BDCQ.SED2RDA,2011.06,1125.977529,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Bay of Plenty,Actual
+BDCQ.SED2RDA,2011.09,1105.225753,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Bay of Plenty,Actual
+BDCQ.SED2RDA,2011.12,1152.813742,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Bay of Plenty,Actual
+BDCQ.SED2RDA,2012.03,1099.312002,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Bay of Plenty,Actual
+BDCQ.SED2RDA,2012.06,1168.163326,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Bay of Plenty,Actual
+BDCQ.SED2RDA,2012.09,1141.729906,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Bay of Plenty,Actual
+BDCQ.SED2RDA,2012.12,1202.885823,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Bay of Plenty,Actual
+BDCQ.SED2RDA,2013.03,1131.541677,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Bay of Plenty,Actual
+BDCQ.SED2RDA,2013.06,1196.541963,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Bay of Plenty,Actual
+BDCQ.SED2RDA,2013.09,1179.594616,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Bay of Plenty,Actual
+BDCQ.SED2RDA,2013.12,1268.39272,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Bay of Plenty,Actual
+BDCQ.SED2RDA,2014.03,1167.713678,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Bay of Plenty,Actual
+BDCQ.SED2RDA,2014.06,1259.958384,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Bay of Plenty,Actual
+BDCQ.SED2RDA,2014.09,1257.047741,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Bay of Plenty,Actual
+BDCQ.SED2RDA,2014.12,1332.580834,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Bay of Plenty,Actual
+BDCQ.SED2RDA,2015.03,1228.386267,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Bay of Plenty,Actual
+BDCQ.SED2RDA,2015.06,1330.951971,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Bay of Plenty,Actual
+BDCQ.SED2RDA,2015.09,1350.843167,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Bay of Plenty,Actual
+BDCQ.SED2RDA,2015.12,1382.824786,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Bay of Plenty,Actual
+BDCQ.SED2RDA,2016.03,1361.342899,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Bay of Plenty,Actual
+BDCQ.SED2RDA,2016.06,1425.027898,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Bay of Plenty,Actual
+BDCQ.SED2RDA,2016.09,1424.029138,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Bay of Plenty,Actual
+BDCQ.SED2RDA,2016.12,1485.264514,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Bay of Plenty,Actual
+BDCQ.SED2RDA,2017.03,1432.96114,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Bay of Plenty,Actual
+BDCQ.SED2RDA,2017.06,1531.622242,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Bay of Plenty,Actual
+BDCQ.SED2RDA,2017.09,1526.196016,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Bay of Plenty,Actual
+BDCQ.SED2RDA,2017.12,1614.663571,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Bay of Plenty,Actual
+BDCQ.SED2RDA,2018.03,1493.615327,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Bay of Plenty,Actual
+BDCQ.SED2RDA,2018.06,1655.241661,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Bay of Plenty,Actual
+BDCQ.SED2RDA,2018.09,1642.190843,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Bay of Plenty,Actual
+BDCQ.SED2RDA,2018.12,1760.144958,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Bay of Plenty,Actual
+BDCQ.SED2RDA,2019.03,1624.120945,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Bay of Plenty,Actual
+BDCQ.SED2RDA,2019.06,1773.166831,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Bay of Plenty,Actual
+BDCQ.SED2RDA,2019.09,1767.086717,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Bay of Plenty,Actual
+BDCQ.SED2RDA,2019.12,1897.456548,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Bay of Plenty,Actual
+BDCQ.SED2RDA,2020.03,1736.334115,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Bay of Plenty,Actual
+BDCQ.SED2RDA,2020.06,1787.057852,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Bay of Plenty,Actual
+BDCQ.SED2RDA,2020.09,1881.391739,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Bay of Plenty,Actual
+BDCQ.SED2RDA,2020.12,1921.061429,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Bay of Plenty,Actual
+BDCQ.SED2RDA,2021.03,1896.273979,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Bay of Plenty,Actual
+BDCQ.SED2RDA,2021.06,2046.397743,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Bay of Plenty,Actual
+BDCQ.SED2RDA,2021.09,2030.378374,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Bay of Plenty,Actual
+BDCQ.SED2RDA,2021.12,2173.531022,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Bay of Plenty,Actual
+BDCQ.SED2RDA,2022.03,2113.180885,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Bay of Plenty,Actual
+BDCQ.SED2RDA,2022.06,2235.679609,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Bay of Plenty,Actual
+BDCQ.SED2RDS,2011.06,,Y,R,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Bay of Plenty,Seasonally adjusted
+BDCQ.SED2RDS,2011.09,,Y,R,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Bay of Plenty,Seasonally adjusted
+BDCQ.SED2RDS,2011.12,,Y,R,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Bay of Plenty,Seasonally adjusted
+BDCQ.SED2RDS,2012.03,,Y,R,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Bay of Plenty,Seasonally adjusted
+BDCQ.SED2RDS,2012.06,,Y,R,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Bay of Plenty,Seasonally adjusted
+BDCQ.SED2RDS,2012.09,,Y,R,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Bay of Plenty,Seasonally adjusted
+BDCQ.SED2RDS,2012.12,,Y,R,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Bay of Plenty,Seasonally adjusted
+BDCQ.SED2RDS,2013.03,,Y,R,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Bay of Plenty,Seasonally adjusted
+BDCQ.SED2RDS,2013.06,,Y,R,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Bay of Plenty,Seasonally adjusted
+BDCQ.SED2RDS,2013.09,,Y,R,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Bay of Plenty,Seasonally adjusted
+BDCQ.SED2RDS,2013.12,,Y,R,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Bay of Plenty,Seasonally adjusted
+BDCQ.SED2RDS,2014.03,,Y,R,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Bay of Plenty,Seasonally adjusted
+BDCQ.SED2RDS,2014.06,,Y,R,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Bay of Plenty,Seasonally adjusted
+BDCQ.SED2RDS,2014.09,,Y,R,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Bay of Plenty,Seasonally adjusted
+BDCQ.SED2RDS,2014.12,,Y,R,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Bay of Plenty,Seasonally adjusted
+BDCQ.SED2RDS,2015.03,,Y,R,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Bay of Plenty,Seasonally adjusted
+BDCQ.SED2RDS,2015.06,,Y,R,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Bay of Plenty,Seasonally adjusted
+BDCQ.SED2RDS,2015.09,,Y,R,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Bay of Plenty,Seasonally adjusted
+BDCQ.SED2RDS,2015.12,,Y,R,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Bay of Plenty,Seasonally adjusted
+BDCQ.SED2RDS,2016.03,,Y,R,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Bay of Plenty,Seasonally adjusted
+BDCQ.SED2RDS,2016.06,,Y,R,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Bay of Plenty,Seasonally adjusted
+BDCQ.SED2RDS,2016.09,,Y,R,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Bay of Plenty,Seasonally adjusted
+BDCQ.SED2RDS,2016.12,,Y,R,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Bay of Plenty,Seasonally adjusted
+BDCQ.SED2RDS,2017.03,,Y,R,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Bay of Plenty,Seasonally adjusted
+BDCQ.SED2RDS,2017.06,,Y,R,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Bay of Plenty,Seasonally adjusted
+BDCQ.SED2RDS,2017.09,,Y,R,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Bay of Plenty,Seasonally adjusted
+BDCQ.SED2RDS,2017.12,,Y,R,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Bay of Plenty,Seasonally adjusted
+BDCQ.SED2RDS,2018.03,,Y,R,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Bay of Plenty,Seasonally adjusted
+BDCQ.SED2RDS,2018.06,,Y,R,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Bay of Plenty,Seasonally adjusted
+BDCQ.SED2RDS,2018.09,,Y,R,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Bay of Plenty,Seasonally adjusted
+BDCQ.SED2RDS,2018.12,,Y,R,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Bay of Plenty,Seasonally adjusted
+BDCQ.SED2RDS,2019.03,,Y,R,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Bay of Plenty,Seasonally adjusted
+BDCQ.SED2RDS,2019.06,,Y,R,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Bay of Plenty,Seasonally adjusted
+BDCQ.SED2RDS,2019.09,,Y,R,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Bay of Plenty,Seasonally adjusted
+BDCQ.SED2RDS,2019.12,,Y,R,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Bay of Plenty,Seasonally adjusted
+BDCQ.SED2RDS,2020.03,,Y,R,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Bay of Plenty,Seasonally adjusted
+BDCQ.SED2RDS,2020.06,,Y,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Bay of Plenty,Seasonally adjusted
+BDCQ.SED2RDS,2020.09,,Y,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Bay of Plenty,Seasonally adjusted
+BDCQ.SED2RDS,2020.12,,Y,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Bay of Plenty,Seasonally adjusted
+BDCQ.SED2RDT,2011.06,,Y,C,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Bay of Plenty,Trend
+BDCQ.SED2RDT,2011.09,,Y,C,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Bay of Plenty,Trend
+BDCQ.SED2RDT,2011.12,,Y,C,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Bay of Plenty,Trend
+BDCQ.SED2RDT,2012.03,,Y,C,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Bay of Plenty,Trend
+BDCQ.SED2RDT,2012.06,,Y,C,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Bay of Plenty,Trend
+BDCQ.SED2RDT,2012.09,,Y,C,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Bay of Plenty,Trend
+BDCQ.SED2RDT,2012.12,,Y,C,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Bay of Plenty,Trend
+BDCQ.SED2RDT,2013.03,,Y,C,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Bay of Plenty,Trend
+BDCQ.SED2RDT,2013.06,,Y,C,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Bay of Plenty,Trend
+BDCQ.SED2RDT,2013.09,,Y,C,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Bay of Plenty,Trend
+BDCQ.SED2RDT,2013.12,,Y,C,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Bay of Plenty,Trend
+BDCQ.SED2RDT,2014.03,,Y,C,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Bay of Plenty,Trend
+BDCQ.SED2RDT,2014.06,,Y,C,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Bay of Plenty,Trend
+BDCQ.SED2RDT,2014.09,,Y,C,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Bay of Plenty,Trend
+BDCQ.SED2RDT,2014.12,,Y,C,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Bay of Plenty,Trend
+BDCQ.SED2RDT,2015.03,,Y,C,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Bay of Plenty,Trend
+BDCQ.SED2RDT,2015.06,,Y,C,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Bay of Plenty,Trend
+BDCQ.SED2RDT,2015.09,,Y,C,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Bay of Plenty,Trend
+BDCQ.SED2RDT,2015.12,,Y,C,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Bay of Plenty,Trend
+BDCQ.SED2RDT,2016.03,,Y,C,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Bay of Plenty,Trend
+BDCQ.SED2RDT,2016.06,,Y,C,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Bay of Plenty,Trend
+BDCQ.SED2RDT,2016.09,,Y,C,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Bay of Plenty,Trend
+BDCQ.SED2RDT,2016.12,,Y,C,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Bay of Plenty,Trend
+BDCQ.SED2RDT,2017.03,,Y,C,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Bay of Plenty,Trend
+BDCQ.SED2RDT,2017.06,,Y,C,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Bay of Plenty,Trend
+BDCQ.SED2RDT,2017.09,,Y,C,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Bay of Plenty,Trend
+BDCQ.SED2RDT,2017.12,,Y,C,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Bay of Plenty,Trend
+BDCQ.SED2RDT,2018.03,,Y,C,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Bay of Plenty,Trend
+BDCQ.SED2RDT,2018.06,,Y,C,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Bay of Plenty,Trend
+BDCQ.SED2RDT,2018.09,,Y,C,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Bay of Plenty,Trend
+BDCQ.SED2RDT,2018.12,,Y,C,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Bay of Plenty,Trend
+BDCQ.SED2RDT,2019.03,,Y,C,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Bay of Plenty,Trend
+BDCQ.SED2RDT,2019.06,,Y,C,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Bay of Plenty,Trend
+BDCQ.SED2RDT,2019.09,,Y,C,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Bay of Plenty,Trend
+BDCQ.SED2RDT,2019.12,,Y,C,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Bay of Plenty,Trend
+BDCQ.SED2RDT,2020.03,,Y,C,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Bay of Plenty,Trend
+BDCQ.SED2RDT,2020.06,,Y,C,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Bay of Plenty,Trend
+BDCQ.SED2RDT,2020.09,,Y,C,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Bay of Plenty,Trend
+BDCQ.SED2RDT,2020.12,,Y,C,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Bay of Plenty,Trend
+BDCQ.SED2REA,2011.06,173.777138,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Gisborne,Actual
+BDCQ.SED2REA,2011.09,172.130757,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Gisborne,Actual
+BDCQ.SED2REA,2011.12,185.021383,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Gisborne,Actual
+BDCQ.SED2REA,2012.03,178.540325,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Gisborne,Actual
+BDCQ.SED2REA,2012.06,180.822117,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Gisborne,Actual
+BDCQ.SED2REA,2012.09,175.811408,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Gisborne,Actual
+BDCQ.SED2REA,2012.12,191.959201,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Gisborne,Actual
+BDCQ.SED2REA,2013.03,181.852799,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Gisborne,Actual
+BDCQ.SED2REA,2013.06,184.381625,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Gisborne,Actual
+BDCQ.SED2REA,2013.09,181.441974,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Gisborne,Actual
+BDCQ.SED2REA,2013.12,201.528954,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Gisborne,Actual
+BDCQ.SED2REA,2014.03,187.776846,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Gisborne,Actual
+BDCQ.SED2REA,2014.06,192.233924,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Gisborne,Actual
+BDCQ.SED2REA,2014.09,192.382318,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Gisborne,Actual
+BDCQ.SED2REA,2014.12,208.275186,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Gisborne,Actual
+BDCQ.SED2REA,2015.03,193.986472,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Gisborne,Actual
+BDCQ.SED2REA,2015.06,201.461891,,F,Value,6,Business Data Collection - BDC,Region by employment variable,Total earnings,Gisborne,Actual

@@ -1,0 +1,1001 @@
+series_reference,period,data_value,suppressed,status,units,magnitude,subject,groupe,series_title_1,series_title_2,series_title_3
+BDCQ.SEA2ST,2011.09,,Y,C,Value,6,Business Data Collection - BDC,Industry by employment variable,Total earnings,Other Services,Trend
+BDCQ.SEA2ST,2011.12,,Y,C,Value,6,Business Data Collection - BDC,Industry by employment variable,Total earnings,Other Services,Trend
+BDCQ.SEA2ST,2012.03,,Y,C,Value,6,Business Data Collection - BDC,Industry by employment variable,Total earnings,Other Services,Trend
+BDCQ.SEA2ST,2012.06,,Y,C,Value,6,Business Data Collection - BDC,Industry by employment variable,Total earnings,Other Services,Trend
+BDCQ.SEA2ST,2012.09,,Y,C,Value,6,Business Data Collection - BDC,Industry by employment variable,Total earnings,Other Services,Trend
+BDCQ.SEA2ST,2012.12,,Y,C,Value,6,Business Data Collection - BDC,Industry by employment variable,Total earnings,Other Services,Trend
+BDCQ.SEA2ST,2013.03,,Y,C,Value,6,Business Data Collection - BDC,Industry by employment variable,Total earnings,Other Services,Trend
+BDCQ.SEA2ST,2013.06,,Y,C,Value,6,Business Data Collection - BDC,Industry by employment variable,Total earnings,Other Services,Trend
+BDCQ.SEA2ST,2013.09,,Y,C,Value,6,Business Data Collection - BDC,Industry by employment variable,Total earnings,Other Services,Trend
+BDCQ.SEA2ST,2013.12,,Y,C,Value,6,Business Data Collection - BDC,Industry by employment variable,Total earnings,Other Services,Trend
+BDCQ.SEA2ST,2014.03,,Y,C,Value,6,Business Data Collection - BDC,Industry by employment variable,Total earnings,Other Services,Trend
+BDCQ.SEA2ST,2014.06,,Y,C,Value,6,Business Data Collection - BDC,Industry by employment variable,Total earnings,Other Services,Trend
+BDCQ.SEA2ST,2014.09,,Y,C,Value,6,Business Data Collection - BDC,Industry by employment variable,Total earnings,Other Services,Trend
+BDCQ.SEA2ST,2014.12,,Y,C,Value,6,Business Data Collection - BDC,Industry by employment variable,Total earnings,Other Services,Trend
+BDCQ.SEA2ST,2015.03,,Y,C,Value,6,Business Data Collection - BDC,Industry by employment variable,Total earnings,Other Services,Trend
+BDCQ.SEA2ST,2015.06,,Y,C,Value,6,Business Data Collection - BDC,Industry by employment variable,Total earnings,Other Services,Trend
+BDCQ.SEA2ST,2015.09,,Y,C,Value,6,Business Data Collection - BDC,Industry by employment variable,Total earnings,Other Services,Trend
+BDCQ.SEA2ST,2015.12,,Y,C,Value,6,Business Data Collection - BDC,Industry by employment variable,Total earnings,Other Services,Trend
+BDCQ.SEA2ST,2016.03,,Y,C,Value,6,Business Data Collection - BDC,Industry by employment variable,Total earnings,Other Services,Trend
+BDCQ.SEA2ST,2016.06,,Y,C,Value,6,Business Data Collection - BDC,Industry by employment variable,Total earnings,Other Services,Trend
+BDCQ.SEA2ST,2016.09,,Y,C,Value,6,Business Data Collection - BDC,Industry by employment variable,Total earnings,Other Services,Trend
+BDCQ.SEA2ST,2016.12,,Y,C,Value,6,Business Data Collection - BDC,Industry by employment variable,Total earnings,Other Services,Trend
+BDCQ.SEA2ST,2017.03,,Y,C,Value,6,Business Data Collection - BDC,Industry by employment variable,Total earnings,Other Services,Trend
+BDCQ.SEA2ST,2017.06,,Y,C,Value,6,Business Data Collection - BDC,Industry by employment variable,Total earnings,Other Services,Trend
+BDCQ.SEA2ST,2017.09,,Y,C,Value,6,Business Data Collection - BDC,Industry by employment variable,Total earnings,Other Services,Trend
+BDCQ.SEA2ST,2017.12,,Y,C,Value,6,Business Data Collection - BDC,Industry by employment variable,Total earnings,Other Services,Trend
+BDCQ.SEA2ST,2018.03,,Y,C,Value,6,Business Data Collection - BDC,Industry by employment variable,Total earnings,Other Services,Trend
+BDCQ.SEA2ST,2018.06,,Y,C,Value,6,Business Data Collection - BDC,Industry by employment variable,Total earnings,Other Services,Trend
+BDCQ.SEA2ST,2018.09,,Y,C,Value,6,Business Data Collection - BDC,Industry by employment variable,Total earnings,Other Services,Trend
+BDCQ.SEA2ST,2018.12,,Y,C,Value,6,Business Data Collection - BDC,Industry by employment variable,Total earnings,Other Services,Trend
+BDCQ.SEA2ST,2019.03,,Y,C,Value,6,Business Data Collection - BDC,Industry by employment variable,Total earnings,Other Services,Trend
+BDCQ.SEA2ST,2019.06,,Y,C,Value,6,Business Data Collection - BDC,Industry by employment variable,Total earnings,Other Services,Trend
+BDCQ.SEA2ST,2019.09,,Y,C,Value,6,Business Data Collection - BDC,Industry by employment variable,Total earnings,Other Services,Trend
+BDCQ.SEA2ST,2019.12,,Y,C,Value,6,Business Data Collection - BDC,Industry by employment variable,Total earnings,Other Services,Trend
+BDCQ.SEA2ST,2020.03,,Y,C,Value,6,Business Data Collection - BDC,Industry by employment variable,Total earnings,Other Services,Trend
+BDCQ.SEA2ST,2020.06,,Y,C,Value,6,Business Data Collection - BDC,Industry by employment variable,Total earnings,Other Services,Trend
+BDCQ.SEA2ST,2020.09,,Y,C,Value,6,Business Data Collection - BDC,Industry by employment variable,Total earnings,Other Services,Trend
+BDCQ.SEA2ST,2020.12,,Y,C,Value,6,Business Data Collection - BDC,Industry by employment variable,Total earnings,Other Services,Trend
+BDCQ.SEA2ZA,2011.06,20722.44867,,F,Value,6,Business Data Collection - BDC,Industry by employment variable,Total earnings,Total Industry,Actual
+BDCQ.SEA2ZA,2011.09,20975.95247,,F,Value,6,Business Data Collection - BDC,Industry by employment variable,Total earnings,Total Industry,Actual
+BDCQ.SEA2ZA,2011.12,21944.57116,,F,Value,6,Business Data Collection - BDC,Industry by employment variable,Total earnings,Total Industry,Actual
+BDCQ.SEA2ZA,2012.03,21065.34542,,F,Value,6,Business Data Collection - BDC,Industry by employment variable,Total earnings,Total Industry,Actual
+BDCQ.SEA2ZA,2012.06,21731.67835,,F,Value,6,Business Data Collection - BDC,Industry by employment variable,Total earnings,Total Industry,Actual
+BDCQ.SEA2ZA,2012.09,21816.48762,,F,Value,6,Business Data Collection - BDC,Industry by employment variable,Total earnings,Total Industry,Actual
+BDCQ.SEA2ZA,2012.12,22997.31704,,F,Value,6,Business Data Collection - BDC,Industry by employment variable,Total earnings,Total Industry,Actual
+BDCQ.SEA2ZA,2013.03,21751.66934,,F,Value,6,Business Data Collection - BDC,Industry by employment variable,Total earnings,Total Industry,Actual
+BDCQ.SEA2ZA,2013.06,22563.33774,,F,Value,6,Business Data Collection - BDC,Industry by employment variable,Total earnings,Total Industry,Actual
+BDCQ.SEA2ZA,2013.09,22700.32521,,F,Value,6,Business Data Collection - BDC,Industry by employment variable,Total earnings,Total Industry,Actual
+BDCQ.SEA2ZA,2013.12,24264.7089,,F,Value,6,Business Data Collection - BDC,Industry by employment variable,Total earnings,Total Industry,Actual
+BDCQ.SEA2ZA,2014.03,22587.54401,,F,Value,6,Business Data Collection - BDC,Industry by employment variable,Total earnings,Total Industry,Actual
+BDCQ.SEA2ZA,2014.06,23744.66259,,F,Value,6,Business Data Collection - BDC,Industry by employment variable,Total earnings,Total Industry,Actual
+BDCQ.SEA2ZA,2014.09,24191.17297,,F,Value,6,Business Data Collection - BDC,Industry by employment variable,Total earnings,Total Industry,Actual
+BDCQ.SEA2ZA,2014.12,25541.32615,,F,Value,6,Business Data Collection - BDC,Industry by employment variable,Total earnings,Total Industry,Actual
+BDCQ.SEA2ZA,2015.03,23779.38164,,F,Value,6,Business Data Collection - BDC,Industry by employment variable,Total earnings,Total Industry,Actual
+BDCQ.SEA2ZA,2015.06,24965.06024,,F,Value,6,Business Data Collection - BDC,Industry by employment variable,Total earnings,Total Industry,Actual
+BDCQ.SEA2ZA,2015.09,25698.93771,,F,Value,6,Business Data Collection - BDC,Industry by employment variable,Total earnings,Total Industry,Actual
+BDCQ.SEA2ZA,2015.12,26393.57133,,F,Value,6,Business Data Collection - BDC,Industry by employment variable,Total earnings,Total Industry,Actual
+BDCQ.SEA2ZA,2016.03,25802.99249,,F,Value,6,Business Data Collection - BDC,Industry by employment variable,Total earnings,Total Industry,Actual
+BDCQ.SEA2ZA,2016.06,26295.07245,,F,Value,6,Business Data Collection - BDC,Industry by employment variable,Total earnings,Total Industry,Actual
+BDCQ.SEA2ZA,2016.09,26556.5594,,F,Value,6,Business Data Collection - BDC,Industry by employment variable,Total earnings,Total Industry,Actual
+BDCQ.SEA2ZA,2016.12,27806.66677,,F,Value,6,Business Data Collection - BDC,Industry by employment variable,Total earnings,Total Industry,Actual
+BDCQ.SEA2ZA,2017.03,26928.10839,,F,Value,6,Business Data Collection - BDC,Industry by employment variable,Total earnings,Total Industry,Actual
+BDCQ.SEA2ZA,2017.06,27929.29561,,F,Value,6,Business Data Collection - BDC,Industry by employment variable,Total earnings,Total Industry,Actual
+BDCQ.SEA2ZA,2017.09,28194.06958,,F,Value,6,Business Data Collection - BDC,Industry by employment variable,Total earnings,Total Industry,Actual
+BDCQ.SEA2ZA,2017.12,29809.74264,,F,Value,6,Business Data Collection - BDC,Industry by employment variable,Total earnings,Total Industry,Actual
+BDCQ.SEA2ZA,2018.03,28534.83701,,F,Value,6,Business Data Collection - BDC,Industry by employment variable,Total earnings,Total Industry,Actual
+BDCQ.SEA2ZA,2018.06,29755.00038,,F,Value,6,Business Data Collection - BDC,Industry by employment variable,Total earnings,Total Industry,Actual
+BDCQ.SEA2ZA,2018.09,30010.43282,,F,Value,6,Business Data Collection - BDC,Industry by employment variable,Total earnings,Total Industry,Actual
+BDCQ.SEA2ZA,2018.12,31968.57063,,F,Value,6,Business Data Collection - BDC,Industry by employment variable,Total earnings,Total Industry,Actual
+BDCQ.SEA2ZA,2019.03,29795.08794,,F,Value,6,Business Data Collection - BDC,Industry by employment variable,Total earnings,Total Industry,Actual
+BDCQ.SEA2ZA,2019.06,31494.84333,,F,Value,6,Business Data Collection - BDC,Industry by employment variable,Total earnings,Total Industry,Actual
+BDCQ.SEA2ZA,2019.09,31799.5785,,F,Value,6,Business Data Collection - BDC,Industry by employment variable,Total earnings,Total Industry,Actual
+BDCQ.SEA2ZA,2019.12,34468.44126,,F,Value,6,Business Data Collection - BDC,Industry by employment variable,Total earnings,Total Industry,Actual
+BDCQ.SEA2ZA,2020.03,31708.30942,,F,Value,6,Business Data Collection - BDC,Industry by employment variable,Total earnings,Total Industry,Actual
+BDCQ.SEA2ZA,2020.06,31739.08742,,F,Value,6,Business Data Collection - BDC,Industry by employment variable,Total earnings,Total Industry,Actual
+BDCQ.SEA2ZA,2020.09,33590.95346,,F,Value,6,Business Data Collection - BDC,Industry by employment variable,Total earnings,Total Industry,Actual
+BDCQ.SEA2ZA,2020.12,34084.52558,,F,Value,6,Business Data Collection - BDC,Industry by employment variable,Total earnings,Total Industry,Actual
+BDCQ.SEA2ZA,2021.03,33832.78137,,F,Value,6,Business Data Collection - BDC,Industry by employment variable,Total earnings,Total Industry,Actual
+BDCQ.SEA2ZA,2021.06,34939.77966,,F,Value,6,Business Data Collection - BDC,Industry by employment variable,Total earnings,Total Industry,Actual
+BDCQ.SEA2ZA,2021.09,35708.4436,,F,Value,6,Business Data Collection - BDC,Industry by employment variable,Total earnings,Total Industry,Actual
+BDCQ.SEA2ZA,2021.12,37856.29539,,F,Value,6,Business Data Collection - BDC,Industry by employment variable,Total earnings,Total Industry,Actual
+BDCQ.SEA2ZA,2022.03,37128.179759,,F,Value,6,Business Data Collection - BDC,Industry by employment variable,Total earnings,Total Industry,Actual
+BDCQ.SEA2ZA,2022.06,38353.307314,,F,Value,6,Business Data Collection - BDC,Industry by employment variable,Total earnings,Total Industry,Actual
+BDCQ.SEA2ZS,2011.06,,Y,R,Value,6,Business Data Collection - BDC,Industry by employment variable,Total earnings,Total Industry,Seasonally adjusted
+BDCQ.SEA2ZS,2011.09,,Y,R,Value,6,Business Data Collection - BDC,Industry by employment variable,Total earnings,Total Industry,Seasonally adjusted
+BDCQ.SEA2ZS,2011.12,,Y,R,Value,6,Business Data Collection - BDC,Industry by employment variable,Total earnings,Total Industry,Seasonally adjusted
+BDCQ.SEA2ZS,2012.03,,Y,R,Value,6,Business Data Collection - BDC,Industry by employment variable,Total earnings,Total Industry,Seasonally adjusted
+BDCQ.SEA2ZS,2012.06,,Y,R,Value,6,Business Data Collection - BDC,Industry by employment variable,Total earnings,Total Industry,Seasonally adjusted
+BDCQ.SEA2ZS,2012.09,,Y,R,Value,6,Business Data Collection - BDC,Industry by employment variable,Total earnings,Total Industry,Seasonally adjusted
+BDCQ.SEA2ZS,2012.12,,Y,R,Value,6,Business Data Collection - BDC,Industry by employment variable,Total earnings,Total Industry,Seasonally adjusted
+BDCQ.SEA2ZS,2013.03,,Y,R,Value,6,Business Data Collection - BDC,Industry by employment variable,Total earnings,Total Industry,Seasonally adjusted
+BDCQ.SEA2ZS,2013.06,,Y,R,Value,6,Business Data Collection - BDC,Industry by employment variable,Total earnings,Total Industry,Seasonally adjusted
+BDCQ.SEA2ZS,2013.09,,Y,R,Value,6,Business Data Collection - BDC,Industry by employment variable,Total earnings,Total Industry,Seasonally adjusted
+BDCQ.SEA2ZS,2013.12,,Y,R,Value,6,Business Data Collection - BDC,Industry by employment variable,Total earnings,Total Industry,Seasonally adjusted
+BDCQ.SEA2ZS,2014.03,,Y,R,Value,6,Business Data Collection - BDC,Industry by employment variable,Total earnings,Total Industry,Seasonally adjusted
+BDCQ.SEA2ZS,2014.06,,Y,R,Value,6,Business Data Collection - BDC,Industry by employment variable,Total earnings,Total Industry,Seasonally adjusted
+BDCQ.SEA2ZS,2014.09,,Y,R,Value,6,Business Data Collection - BDC,Industry by employment variable,Total earnings,Total Industry,Seasonally adjusted
+BDCQ.SEA2ZS,2014.12,,Y,R,Value,6,Business Data Collection - BDC,Industry by employment variable,Total earnings,Total Industry,Seasonally adjusted
+BDCQ.SEA2ZS,2015.03,,Y,R,Value,6,Business Data Collection - BDC,Industry by employment variable,Total earnings,Total Industry,Seasonally adjusted
+BDCQ.SEA2ZS,2015.06,,Y,R,Value,6,Business Data Collection - BDC,Industry by employment variable,Total earnings,Total Industry,Seasonally adjusted
+BDCQ.SEA2ZS,2015.09,,Y,R,Value,6,Business Data Collection - BDC,Industry by employment variable,Total earnings,Total Industry,Seasonally adjusted
+BDCQ.SEA2ZS,2015.12,,Y,R,Value,6,Business Data Collection - BDC,Industry by employment variable,Total earnings,Total Industry,Seasonally adjusted
+BDCQ.SEA2ZS,2016.03,,Y,R,Value,6,Business Data Collection - BDC,Industry by employment variable,Total earnings,Total Industry,Seasonally adjusted
+BDCQ.SEA2ZS,2016.06,,Y,R,Value,6,Business Data Collection - BDC,Industry by employment variable,Total earnings,Total Industry,Seasonally adjusted
+BDCQ.SEA2ZS,2016.09,,Y,R,Value,6,Business Data Collection - BDC,Industry by employment variable,Total earnings,Total Industry,Seasonally adjusted
+BDCQ.SEA2ZS,2016.12,,Y,R,Value,6,Business Data Collection - BDC,Industry by employment variable,Total earnings,Total Industry,Seasonally adjusted
+BDCQ.SEA2ZS,2017.03,,Y,R,Value,6,Business Data Collection - BDC,Industry by employment variable,Total earnings,Total Industry,Seasonally adjusted
+BDCQ.SEA2ZS,2017.06,,Y,R,Value,6,Business Data Collection - BDC,Industry by employment variable,Total earnings,Total Industry,Seasonally adjusted
+BDCQ.SEA2ZS,2017.09,,Y,R,Value,6,Business Data Collection - BDC,Industry by employment variable,Total earnings,Total Industry,Seasonally adjusted
+BDCQ.SEA2ZS,2017.12,,Y,R,Value,6,Business Data Collection - BDC,Industry by employment variable,Total earnings,Total Industry,Seasonally adjusted
+BDCQ.SEA2ZS,2018.03,,Y,R,Value,6,Business Data Collection - BDC,Industry by employment variable,Total earnings,Total Industry,Seasonally adjusted
+BDCQ.SEA2ZS,2018.06,,Y,R,Value,6,Business Data Collection - BDC,Industry by employment variable,Total earnings,Total Industry,Seasonally adjusted
+BDCQ.SEA2ZS,2018.09,,Y,R,Value,6,Business Data Collection - BDC,Industry by employment variable,Total earnings,Total Industry,Seasonally adjusted
+BDCQ.SEA2ZS,2018.12,,Y,R,Value,6,Business Data Collection - BDC,Industry by employment variable,Total earnings,Total Industry,Seasonally adjusted
+BDCQ.SEA2ZS,2019.03,,Y,R,Value,6,Business Data Collection - BDC,Industry by employment variable,Total earnings,Total Industry,Seasonally adjusted
+BDCQ.SEA2ZS,2019.06,,Y,R,Value,6,Business Data Collection - BDC,Industry by employment variable,Total earnings,Total Industry,Seasonally adjusted
+BDCQ.SEA2ZS,2019.09,,Y,R,Value,6,Business Data Collection - BDC,Industry by employment variable,Total earnings,Total Industry,Seasonally adjusted
+BDCQ.SEA2ZS,2019.12,,Y,R,Value,6,Business Data Collection - BDC,Industry by employment variable,Total earnings,Total Industry,Seasonally adjusted
+BDCQ.SEA2ZS,2020.03,,Y,R,Value,6,Business Data Collection - BDC,Industry by employment variable,Total earnings,Total Industry,Seasonally adjusted
+BDCQ.SEA2ZS,2020.06,,Y,F,Value,6,Business Data Collection - BDC,Industry by employment variable,Total earnings,Total Industry,Seasonally adjusted
+BDCQ.SEA2ZS,2020.09,,Y,F,Value,6,Business Data Collection - BDC,Industry by employment variable,Total earnings,Total Industry,Seasonally adjusted
+BDCQ.SEA2ZS,2020.12,,Y,F,Value,6,Business Data Collection - BDC,Industry by employment variable,Total earnings,Total Industry,Seasonally adjusted
+BDCQ.SEA2ZT,2011.06,,Y,C,Value,6,Business Data Collection - BDC,Industry by employment variable,Total earnings,Total Industry,Trend
+BDCQ.SEA2ZT,2011.09,,Y,C,Value,6,Business Data Collection - BDC,Industry by employment variable,Total earnings,Total Industry,Trend
+BDCQ.SEA2ZT,2011.12,,Y,C,Value,6,Business Data Collection - BDC,Industry by employment variable,Total earnings,Total Industry,Trend
+BDCQ.SEA2ZT,2012.03,,Y,C,Value,6,Business Data Collection - BDC,Industry by employment variable,Total earnings,Total Industry,Trend
+BDCQ.SEA2ZT,2012.06,,Y,C,Value,6,Business Data Collection - BDC,Industry by employment variable,Total earnings,Total Industry,Trend
+BDCQ.SEA2ZT,2012.09,,Y,C,Value,6,Business Data Collection - BDC,Industry by employment variable,Total earnings,Total Industry,Trend
+BDCQ.SEA2ZT,2012.12,,Y,C,Value,6,Business Data Collection - BDC,Industry by employment variable,Total earnings,Total Industry,Trend
+BDCQ.SEA2ZT,2013.03,,Y,C,Value,6,Business Data Collection - BDC,Industry by employment variable,Total earnings,Total Industry,Trend
+BDCQ.SEA2ZT,2013.06,,Y,C,Value,6,Business Data Collection - BDC,Industry by employment variable,Total earnings,Total Industry,Trend
+BDCQ.SEA2ZT,2013.09,,Y,C,Value,6,Business Data Collection - BDC,Industry by employment variable,Total earnings,Total Industry,Trend
+BDCQ.SEA2ZT,2013.12,,Y,C,Value,6,Business Data Collection - BDC,Industry by employment variable,Total earnings,Total Industry,Trend
+BDCQ.SEA2ZT,2014.03,,Y,C,Value,6,Business Data Collection - BDC,Industry by employment variable,Total earnings,Total Industry,Trend
+BDCQ.SEA2ZT,2014.06,,Y,C,Value,6,Business Data Collection - BDC,Industry by employment variable,Total earnings,Total Industry,Trend
+BDCQ.SEA2ZT,2014.09,,Y,C,Value,6,Business Data Collection - BDC,Industry by employment variable,Total earnings,Total Industry,Trend
+BDCQ.SEA2ZT,2014.12,,Y,C,Value,6,Business Data Collection - BDC,Industry by employment variable,Total earnings,Total Industry,Trend
+BDCQ.SEA2ZT,2015.03,,Y,C,Value,6,Business Data Collection - BDC,Industry by employment variable,Total earnings,Total Industry,Trend
+BDCQ.SEA2ZT,2015.06,,Y,C,Value,6,Business Data Collection - BDC,Industry by employment variable,Total earnings,Total Industry,Trend
+BDCQ.SEA2ZT,2015.09,,Y,C,Value,6,Business Data Collection - BDC,Industry by employment variable,Total earnings,Total Industry,Trend
+BDCQ.SEA2ZT,2015.12,,Y,C,Value,6,Business Data Collection - BDC,Industry by employment variable,Total earnings,Total Industry,Trend
+BDCQ.SEA2ZT,2016.03,,Y,C,Value,6,Business Data Collection - BDC,Industry by employment variable,Total earnings,Total Industry,Trend
+BDCQ.SEA2ZT,2016.06,,Y,C,Value,6,Business Data Collection - BDC,Industry by employment variable,Total earnings,Total Industry,Trend
+BDCQ.SEA2ZT,2016.09,,Y,C,Value,6,Business Data Collection - BDC,Industry by employment variable,Total earnings,Total Industry,Trend
+BDCQ.SEA2ZT,2016.12,,Y,C,Value,6,Business Data Collection - BDC,Industry by employment variable,Total earnings,Total Industry,Trend
+BDCQ.SEA2ZT,2017.03,,Y,C,Value,6,Business Data Collection - BDC,Industry by employment variable,Total earnings,Total Industry,Trend
+BDCQ.SEA2ZT,2017.06,,Y,C,Value,6,Business Data Collection - BDC,Industry by employment variable,Total earnings,Total Industry,Trend
+BDCQ.SEA2ZT,2017.09,,Y,C,Value,6,Business Data Collection - BDC,Industry by employment variable,Total earnings,Total Industry,Trend
+BDCQ.SEA2ZT,2017.12,,Y,C,Value,6,Business Data Collection - BDC,Industry by employment variable,Total earnings,Total Industry,Trend
+BDCQ.SEA2ZT,2018.03,,Y,C,Value,6,Business Data Collection - BDC,Industry by employment variable,Total earnings,Total Industry,Trend
+BDCQ.SEA2ZT,2018.06,,Y,C,Value,6,Business Data Collection - BDC,Industry by employment variable,Total earnings,Total Industry,Trend
+BDCQ.SEA2ZT,2018.09,,Y,C,Value,6,Business Data Collection - BDC,Industry by employment variable,Total earnings,Total Industry,Trend
+BDCQ.SEA2ZT,2018.12,,Y,C,Value,6,Business Data Collection - BDC,Industry by employment variable,Total earnings,Total Industry,Trend
+BDCQ.SEA2ZT,2019.03,,Y,C,Value,6,Business Data Collection - BDC,Industry by employment variable,Total earnings,Total Industry,Trend
+BDCQ.SEA2ZT,2019.06,,Y,C,Value,6,Business Data Collection - BDC,Industry by employment variable,Total earnings,Total Industry,Trend
+BDCQ.SEA2ZT,2019.09,,Y,C,Value,6,Business Data Collection - BDC,Industry by employment variable,Total earnings,Total Industry,Trend
+BDCQ.SEA2ZT,2019.12,,Y,C,Value,6,Business Data Collection - BDC,Industry by employment variable,Total earnings,Total Industry,Trend
+BDCQ.SEA2ZT,2020.03,,Y,C,Value,6,Business Data Collection - BDC,Industry by employment variable,Total earnings,Total Industry,Trend
+BDCQ.SEA2ZT,2020.06,,Y,C,Value,6,Business Data Collection - BDC,Industry by employment variable,Total earnings,Total Industry,Trend
+BDCQ.SEA2ZT,2020.09,,Y,C,Value,6,Business Data Collection - BDC,Industry by employment variable,Total earnings,Total Industry,Trend
+BDCQ.SEA2ZT,2020.12,,Y,C,Value,6,Business Data Collection - BDC,Industry by employment variable,Total earnings,Total Industry,Trend
+BDCQ.SEB1X1A,2011.06,861368,,F,Number,0,Business Data Collection - BDC,Sex by employment variable,Filled jobs,Male,Actual
+BDCQ.SEB1X1A,2011.09,858181,,F,Number,0,Business Data Collection - BDC,Sex by employment variable,Filled jobs,Male,Actual
+BDCQ.SEB1X1A,2011.12,873957,,F,Number,0,Business Data Collection - BDC,Sex by employment variable,Filled jobs,Male,Actual
+BDCQ.SEB1X1A,2012.03,873443,,F,Number,0,Business Data Collection - BDC,Sex by employment variable,Filled jobs,Male,Actual
+BDCQ.SEB1X1A,2012.06,878354,,F,Number,0,Business Data Collection - BDC,Sex by employment variable,Filled jobs,Male,Actual
+BDCQ.SEB1X1A,2012.09,866769,,F,Number,0,Business Data Collection - BDC,Sex by employment variable,Filled jobs,Male,Actual
+BDCQ.SEB1X1A,2012.12,885214,,F,Number,0,Business Data Collection - BDC,Sex by employment variable,Filled jobs,Male,Actual
+BDCQ.SEB1X1A,2013.03,889853,,F,Number,0,Business Data Collection - BDC,Sex by employment variable,Filled jobs,Male,Actual
+BDCQ.SEB1X1A,2013.06,895586,,F,Number,0,Business Data Collection - BDC,Sex by employment variable,Filled jobs,Male,Actual
+BDCQ.SEB1X1A,2013.09,886749,,F,Number,0,Business Data Collection - BDC,Sex by employment variable,Filled jobs,Male,Actual
+BDCQ.SEB1X1A,2013.12,911181,,F,Number,0,Business Data Collection - BDC,Sex by employment variable,Filled jobs,Male,Actual
+BDCQ.SEB1X1A,2014.03,916827,,F,Number,0,Business Data Collection - BDC,Sex by employment variable,Filled jobs,Male,Actual
+BDCQ.SEB1X1A,2014.06,919513,,F,Number,0,Business Data Collection - BDC,Sex by employment variable,Filled jobs,Male,Actual
+BDCQ.SEB1X1A,2014.09,914889,,F,Number,0,Business Data Collection - BDC,Sex by employment variable,Filled jobs,Male,Actual
+BDCQ.SEB1X1A,2014.12,938035,,F,Number,0,Business Data Collection - BDC,Sex by employment variable,Filled jobs,Male,Actual
+BDCQ.SEB1X1A,2015.03,944717,,F,Number,0,Business Data Collection - BDC,Sex by employment variable,Filled jobs,Male,Actual
+BDCQ.SEB1X1A,2015.06,949211,,F,Number,0,Business Data Collection - BDC,Sex by employment variable,Filled jobs,Male,Actual
+BDCQ.SEB1X1A,2015.09,939280,,F,Number,0,Business Data Collection - BDC,Sex by employment variable,Filled jobs,Male,Actual
+BDCQ.SEB1X1A,2015.12,961417,,F,Number,0,Business Data Collection - BDC,Sex by employment variable,Filled jobs,Male,Actual
+BDCQ.SEB1X1A,2016.03,969242,,F,Number,0,Business Data Collection - BDC,Sex by employment variable,Filled jobs,Male,Actual
+BDCQ.SEB1X1A,2016.06,976839,,F,Number,0,Business Data Collection - BDC,Sex by employment variable,Filled jobs,Male,Actual
+BDCQ.SEB1X1A,2016.09,968714,,F,Number,0,Business Data Collection - BDC,Sex by employment variable,Filled jobs,Male,Actual
+BDCQ.SEB1X1A,2016.12,992838,,F,Number,0,Business Data Collection - BDC,Sex by employment variable,Filled jobs,Male,Actual
+BDCQ.SEB1X1A,2017.03,1000650,,F,Number,0,Business Data Collection - BDC,Sex by employment variable,Filled jobs,Male,Actual
+BDCQ.SEB1X1A,2017.06,1012407,,F,Number,0,Business Data Collection - BDC,Sex by employment variable,Filled jobs,Male,Actual
+BDCQ.SEB1X1A,2017.09,1002611,,F,Number,0,Business Data Collection - BDC,Sex by employment variable,Filled jobs,Male,Actual
+BDCQ.SEB1X1A,2017.12,1025975,,F,Number,0,Business Data Collection - BDC,Sex by employment variable,Filled jobs,Male,Actual
+BDCQ.SEB1X1A,2018.03,1032203,,F,Number,0,Business Data Collection - BDC,Sex by employment variable,Filled jobs,Male,Actual
+BDCQ.SEB1X1A,2018.06,1034382,,F,Number,0,Business Data Collection - BDC,Sex by employment variable,Filled jobs,Male,Actual
+BDCQ.SEB1X1A,2018.09,1017244,,F,Number,0,Business Data Collection - BDC,Sex by employment variable,Filled jobs,Male,Actual
+BDCQ.SEB1X1A,2018.12,1044370,,F,Number,0,Business Data Collection - BDC,Sex by employment variable,Filled jobs,Male,Actual
+BDCQ.SEB1X1A,2019.03,1051851,,F,Number,0,Business Data Collection - BDC,Sex by employment variable,Filled jobs,Male,Actual
+BDCQ.SEB1X1A,2019.06,1054335,,F,Number,0,Business Data Collection - BDC,Sex by employment variable,Filled jobs,Male,Actual
+BDCQ.SEB1X1A,2019.09,1042170,,F,Number,0,Business Data Collection - BDC,Sex by employment variable,Filled jobs,Male,Actual
+BDCQ.SEB1X1A,2019.12,1071084,,F,Number,0,Business Data Collection - BDC,Sex by employment variable,Filled jobs,Male,Actual
+BDCQ.SEB1X1A,2020.03,1071913,,F,Number,0,Business Data Collection - BDC,Sex by employment variable,Filled jobs,Male,Actual
+BDCQ.SEB1X1A,2020.06,1067482,,F,Number,0,Business Data Collection - BDC,Sex by employment variable,Filled jobs,Male,Actual
+BDCQ.SEB1X1A,2020.09,1048818,,F,Number,0,Business Data Collection - BDC,Sex by employment variable,Filled jobs,Male,Actual
+BDCQ.SEB1X1A,2020.12,1062249,,F,Number,0,Business Data Collection - BDC,Sex by employment variable,Filled jobs,Male,Actual
+BDCQ.SEB1X1A,2021.03,1063699,,F,Number,0,Business Data Collection - BDC,Sex by employment variable,Filled jobs,Male,Actual
+BDCQ.SEB1X1A,2021.06,1068899,,F,Number,0,Business Data Collection - BDC,Sex by employment variable,Filled jobs,Male,Actual
+BDCQ.SEB1X1A,2021.09,1071091,,F,Number,0,Business Data Collection - BDC,Sex by employment variable,Filled jobs,Male,Actual
+BDCQ.SEB1X1A,2021.12,1098610,,F,Number,0,Business Data Collection - BDC,Sex by employment variable,Filled jobs,Male,Actual
+BDCQ.SEB1X1A,2022.03,1094980,,F,Number,0,Business Data Collection - BDC,Sex by employment variable,Filled jobs,Male,Actual
+BDCQ.SEB1X1A,2022.06,1096863,,F,Number,0,Business Data Collection - BDC,Sex by employment variable,Filled jobs,Male,Actual
+BDCQ.SEB1X2A,2011.06,865507,,F,Number,0,Business Data Collection - BDC,Sex by employment variable,Filled jobs,Female,Actual
+BDCQ.SEB1X2A,2011.09,866932,,F,Number,0,Business Data Collection - BDC,Sex by employment variable,Filled jobs,Female,Actual
+BDCQ.SEB1X2A,2011.12,881069,,F,Number,0,Business Data Collection - BDC,Sex by employment variable,Filled jobs,Female,Actual
+BDCQ.SEB1X2A,2012.03,855472,,F,Number,0,Business Data Collection - BDC,Sex by employment variable,Filled jobs,Female,Actual
+BDCQ.SEB1X2A,2012.06,878971,,F,Number,0,Business Data Collection - BDC,Sex by employment variable,Filled jobs,Female,Actual
+BDCQ.SEB1X2A,2012.09,870937,,F,Number,0,Business Data Collection - BDC,Sex by employment variable,Filled jobs,Female,Actual
+BDCQ.SEB1X2A,2012.12,883946,,F,Number,0,Business Data Collection - BDC,Sex by employment variable,Filled jobs,Female,Actual
+BDCQ.SEB1X2A,2013.03,867438,,F,Number,0,Business Data Collection - BDC,Sex by employment variable,Filled jobs,Female,Actual
+BDCQ.SEB1X2A,2013.06,892765,,F,Number,0,Business Data Collection - BDC,Sex by employment variable,Filled jobs,Female,Actual
+BDCQ.SEB1X2A,2013.09,886290,,F,Number,0,Business Data Collection - BDC,Sex by employment variable,Filled jobs,Female,Actual
+BDCQ.SEB1X2A,2013.12,903759,,F,Number,0,Business Data Collection - BDC,Sex by employment variable,Filled jobs,Female,Actual
+BDCQ.SEB1X2A,2014.03,887024,,F,Number,0,Business Data Collection - BDC,Sex by employment variable,Filled jobs,Female,Actual
+BDCQ.SEB1X2A,2014.06,908728,,F,Number,0,Business Data Collection - BDC,Sex by employment variable,Filled jobs,Female,Actual
+BDCQ.SEB1X2A,2014.09,908194,,F,Number,0,Business Data Collection - BDC,Sex by employment variable,Filled jobs,Female,Actual
+BDCQ.SEB1X2A,2014.12,924547,,F,Number,0,Business Data Collection - BDC,Sex by employment variable,Filled jobs,Female,Actual
+BDCQ.SEB1X2A,2015.03,906837,,F,Number,0,Business Data Collection - BDC,Sex by employment variable,Filled jobs,Female,Actual
+BDCQ.SEB1X2A,2015.06,931761,,F,Number,0,Business Data Collection - BDC,Sex by employment variable,Filled jobs,Female,Actual
+BDCQ.SEB1X2A,2015.09,924596,,F,Number,0,Business Data Collection - BDC,Sex by employment variable,Filled jobs,Female,Actual
+BDCQ.SEB1X2A,2015.12,944175,,F,Number,0,Business Data Collection - BDC,Sex by employment variable,Filled jobs,Female,Actual
+BDCQ.SEB1X2A,2016.03,927767,,F,Number,0,Business Data Collection - BDC,Sex by employment variable,Filled jobs,Female,Actual
+BDCQ.SEB1X2A,2016.06,954934,,F,Number,0,Business Data Collection - BDC,Sex by employment variable,Filled jobs,Female,Actual
+BDCQ.SEB1X2A,2016.09,951510,,F,Number,0,Business Data Collection - BDC,Sex by employment variable,Filled jobs,Female,Actual
+BDCQ.SEB1X2A,2016.12,972194,,F,Number,0,Business Data Collection - BDC,Sex by employment variable,Filled jobs,Female,Actual
+BDCQ.SEB1X2A,2017.03,956291,,F,Number,0,Business Data Collection - BDC,Sex by employment variable,Filled jobs,Female,Actual
+BDCQ.SEB1X2A,2017.06,987106,,F,Number,0,Business Data Collection - BDC,Sex by employment variable,Filled jobs,Female,Actual
+BDCQ.SEB1X2A,2017.09,982813,,F,Number,0,Business Data Collection - BDC,Sex by employment variable,Filled jobs,Female,Actual
+BDCQ.SEB1X2A,2017.12,1004491,,F,Number,0,Business Data Collection - BDC,Sex by employment variable,Filled jobs,Female,Actual
+BDCQ.SEB1X2A,2018.03,995135,,F,Number,0,Business Data Collection - BDC,Sex by employment variable,Filled jobs,Female,Actual
+BDCQ.SEB1X2A,2018.06,1012132,,F,Number,0,Business Data Collection - BDC,Sex by employment variable,Filled jobs,Female,Actual
+BDCQ.SEB1X2A,2018.09,1002817,,F,Number,0,Business Data Collection - BDC,Sex by employment variable,Filled jobs,Female,Actual
+BDCQ.SEB1X2A,2018.12,1030271,,F,Number,0,Business Data Collection - BDC,Sex by employment variable,Filled jobs,Female,Actual
+BDCQ.SEB1X2A,2019.03,1023269,,F,Number,0,Business Data Collection - BDC,Sex by employment variable,Filled jobs,Female,Actual
+BDCQ.SEB1X2A,2019.06,1039774,,F,Number,0,Business Data Collection - BDC,Sex by employment variable,Filled jobs,Female,Actual
+BDCQ.SEB1X2A,2019.09,1033985,,F,Number,0,Business Data Collection - BDC,Sex by employment variable,Filled jobs,Female,Actual
+BDCQ.SEB1X2A,2019.12,1063632,,F,Number,0,Business Data Collection - BDC,Sex by employment variable,Filled jobs,Female,Actual
+BDCQ.SEB1X2A,2020.03,1052938,,F,Number,0,Business Data Collection - BDC,Sex by employment variable,Filled jobs,Female,Actual
+BDCQ.SEB1X2A,2020.06,1043070,,F,Number,0,Business Data Collection - BDC,Sex by employment variable,Filled jobs,Female,Actual
+BDCQ.SEB1X2A,2020.09,1034200,,F,Number,0,Business Data Collection - BDC,Sex by employment variable,Filled jobs,Female,Actual
+BDCQ.SEB1X2A,2020.12,1054491,,F,Number,0,Business Data Collection - BDC,Sex by employment variable,Filled jobs,Female,Actual
+BDCQ.SEB1X2A,2021.03,1045757,,F,Number,0,Business Data Collection - BDC,Sex by employment variable,Filled jobs,Female,Actual
+BDCQ.SEB1X2A,2021.06,1060956,,F,Number,0,Business Data Collection - BDC,Sex by employment variable,Filled jobs,Female,Actual
+BDCQ.SEB1X2A,2021.09,1070734,,F,Number,0,Business Data Collection - BDC,Sex by employment variable,Filled jobs,Female,Actual
+BDCQ.SEB1X2A,2021.12,1098364,,F,Number,0,Business Data Collection - BDC,Sex by employment variable,Filled jobs,Female,Actual
+BDCQ.SEB1X2A,2022.03,1083262,,F,Number,0,Business Data Collection - BDC,Sex by employment variable,Filled jobs,Female,Actual
+BDCQ.SEB1X2A,2022.06,1090853,,F,Number,0,Business Data Collection - BDC,Sex by employment variable,Filled jobs,Female,Actual
+BDCQ.SEB2X1A,2011.06,12238.81794,,F,Value,6,Business Data Collection - BDC,Sex by employment variable,Total earnings,Male,Actual
+BDCQ.SEB2X1A,2011.09,12447.81747,,F,Value,6,Business Data Collection - BDC,Sex by employment variable,Total earnings,Male,Actual
+BDCQ.SEB2X1A,2011.12,12944.22723,,F,Value,6,Business Data Collection - BDC,Sex by employment variable,Total earnings,Male,Actual
+BDCQ.SEB2X1A,2012.03,12536.7914,,F,Value,6,Business Data Collection - BDC,Sex by employment variable,Total earnings,Male,Actual
+BDCQ.SEB2X1A,2012.06,12858.28269,,F,Value,6,Business Data Collection - BDC,Sex by employment variable,Total earnings,Male,Actual
+BDCQ.SEB2X1A,2012.09,12980.62518,,F,Value,6,Business Data Collection - BDC,Sex by employment variable,Total earnings,Male,Actual
+BDCQ.SEB2X1A,2012.12,13620.7773,,F,Value,6,Business Data Collection - BDC,Sex by employment variable,Total earnings,Male,Actual
+BDCQ.SEB2X1A,2013.03,12986.04037,,F,Value,6,Business Data Collection - BDC,Sex by employment variable,Total earnings,Male,Actual
+BDCQ.SEB2X1A,2013.06,13373.08564,,F,Value,6,Business Data Collection - BDC,Sex by employment variable,Total earnings,Male,Actual
+BDCQ.SEB2X1A,2013.09,13524.29815,,F,Value,6,Business Data Collection - BDC,Sex by employment variable,Total earnings,Male,Actual
+BDCQ.SEB2X1A,2013.12,14393.72603,,F,Value,6,Business Data Collection - BDC,Sex by employment variable,Total earnings,Male,Actual
+BDCQ.SEB2X1A,2014.03,13521.21487,,F,Value,6,Business Data Collection - BDC,Sex by employment variable,Total earnings,Male,Actual
+BDCQ.SEB2X1A,2014.06,14100.5991,,F,Value,6,Business Data Collection - BDC,Sex by employment variable,Total earnings,Male,Actual
+BDCQ.SEB2X1A,2014.09,14438.72042,,F,Value,6,Business Data Collection - BDC,Sex by employment variable,Total earnings,Male,Actual
+BDCQ.SEB2X1A,2014.12,15156.17415,,F,Value,6,Business Data Collection - BDC,Sex by employment variable,Total earnings,Male,Actual
+BDCQ.SEB2X1A,2015.03,14236.92615,,F,Value,6,Business Data Collection - BDC,Sex by employment variable,Total earnings,Male,Actual
+BDCQ.SEB2X1A,2015.06,14829.61226,,F,Value,6,Business Data Collection - BDC,Sex by employment variable,Total earnings,Male,Actual
+BDCQ.SEB2X1A,2015.09,15262.31345,,F,Value,6,Business Data Collection - BDC,Sex by employment variable,Total earnings,Male,Actual
+BDCQ.SEB2X1A,2015.12,15687.31896,,F,Value,6,Business Data Collection - BDC,Sex by employment variable,Total earnings,Male,Actual
+BDCQ.SEB2X1A,2016.03,15323.72715,,F,Value,6,Business Data Collection - BDC,Sex by employment variable,Total earnings,Male,Actual
+BDCQ.SEB2X1A,2016.06,15662.54143,,F,Value,6,Business Data Collection - BDC,Sex by employment variable,Total earnings,Male,Actual
+BDCQ.SEB2X1A,2016.09,15734.43383,,F,Value,6,Business Data Collection - BDC,Sex by employment variable,Total earnings,Male,Actual
+BDCQ.SEB2X1A,2016.12,16466.5692,,F,Value,6,Business Data Collection - BDC,Sex by employment variable,Total earnings,Male,Actual
+BDCQ.SEB2X1A,2017.03,16024.18787,,F,Value,6,Business Data Collection - BDC,Sex by employment variable,Total earnings,Male,Actual
+BDCQ.SEB2X1A,2017.06,16614.14849,,F,Value,6,Business Data Collection - BDC,Sex by employment variable,Total earnings,Male,Actual
+BDCQ.SEB2X1A,2017.09,16681.54894,,F,Value,6,Business Data Collection - BDC,Sex by employment variable,Total earnings,Male,Actual
+BDCQ.SEB2X1A,2017.12,17608.24145,,F,Value,6,Business Data Collection - BDC,Sex by employment variable,Total earnings,Male,Actual
+BDCQ.SEB2X1A,2018.03,16924.59901,,F,Value,6,Business Data Collection - BDC,Sex by employment variable,Total earnings,Male,Actual
+BDCQ.SEB2X1A,2018.06,17611.25775,,F,Value,6,Business Data Collection - BDC,Sex by employment variable,Total earnings,Male,Actual
+BDCQ.SEB2X1A,2018.09,17648.33966,,F,Value,6,Business Data Collection - BDC,Sex by employment variable,Total earnings,Male,Actual
+BDCQ.SEB2X1A,2018.12,18735.53373,,F,Value,6,Business Data Collection - BDC,Sex by employment variable,Total earnings,Male,Actual
+BDCQ.SEB2X1A,2019.03,17581.85879,,F,Value,6,Business Data Collection - BDC,Sex by employment variable,Total earnings,Male,Actual
+BDCQ.SEB2X1A,2019.06,18491.24023,,F,Value,6,Business Data Collection - BDC,Sex by employment variable,Total earnings,Male,Actual
+BDCQ.SEB2X1A,2019.09,18533.60153,,F,Value,6,Business Data Collection - BDC,Sex by employment variable,Total earnings,Male,Actual
+BDCQ.SEB2X1A,2019.12,20066.90545,,F,Value,6,Business Data Collection - BDC,Sex by employment variable,Total earnings,Male,Actual
+BDCQ.SEB2X1A,2020.03,18539.15754,,F,Value,6,Business Data Collection - BDC,Sex by employment variable,Total earnings,Male,Actual
+BDCQ.SEB2X1A,2020.06,18336.39962,,F,Value,6,Business Data Collection - BDC,Sex by employment variable,Total earnings,Male,Actual
+BDCQ.SEB2X1A,2020.09,19393.92061,,F,Value,6,Business Data Collection - BDC,Sex by employment variable,Total earnings,Male,Actual
+BDCQ.SEB2X1A,2020.12,19669.36389,,F,Value,6,Business Data Collection - BDC,Sex by employment variable,Total earnings,Male,Actual
+BDCQ.SEB2X1A,2021.03,19720.8171,,F,Value,6,Business Data Collection - BDC,Sex by employment variable,Total earnings,Male,Actual
+BDCQ.SEB2X1A,2021.06,20136.4707,,F,Value,6,Business Data Collection - BDC,Sex by employment variable,Total earnings,Male,Actual
+BDCQ.SEB2X1A,2021.09,20530.51792,,F,Value,6,Business Data Collection - BDC,Sex by employment variable,Total earnings,Male,Actual
+BDCQ.SEB2X1A,2021.12,21603.4864,,F,Value,6,Business Data Collection - BDC,Sex by employment variable,Total earnings,Male,Actual
+BDCQ.SEB2X1A,2022.03,21400.601516,,F,Value,6,Business Data Collection - BDC,Sex by employment variable,Total earnings,Male,Actual
+BDCQ.SEB2X1A,2022.06,22023.753882,,F,Value,6,Business Data Collection - BDC,Sex by employment variable,Total earnings,Male,Actual
+BDCQ.SEB2X2A,2011.06,8483.65229,,F,Value,6,Business Data Collection - BDC,Sex by employment variable,Total earnings,Female,Actual
+BDCQ.SEB2X2A,2011.09,8528.135007,,F,Value,6,Business Data Collection - BDC,Sex by employment variable,Total earnings,Female,Actual
+BDCQ.SEB2X2A,2011.12,9000.343929,,F,Value,6,Business Data Collection - BDC,Sex by employment variable,Total earnings,Female,Actual
+BDCQ.SEB2X2A,2012.03,8528.554026,,F,Value,6,Business Data Collection - BDC,Sex by employment variable,Total earnings,Female,Actual
+BDCQ.SEB2X2A,2012.06,8873.395656,,F,Value,6,Business Data Collection - BDC,Sex by employment variable,Total earnings,Female,Actual
+BDCQ.SEB2X2A,2012.09,8835.862448,,F,Value,6,Business Data Collection - BDC,Sex by employment variable,Total earnings,Female,Actual
+BDCQ.SEB2X2A,2012.12,9376.539744,,F,Value,6,Business Data Collection - BDC,Sex by employment variable,Total earnings,Female,Actual
+BDCQ.SEB2X2A,2013.03,8765.628968,,F,Value,6,Business Data Collection - BDC,Sex by employment variable,Total earnings,Female,Actual
+BDCQ.SEB2X2A,2013.06,9190.252103,,F,Value,6,Business Data Collection - BDC,Sex by employment variable,Total earnings,Female,Actual
+BDCQ.SEB2X2A,2013.09,9176.027061,,F,Value,6,Business Data Collection - BDC,Sex by employment variable,Total earnings,Female,Actual
+BDCQ.SEB2X2A,2013.12,9870.982869,,F,Value,6,Business Data Collection - BDC,Sex by employment variable,Total earnings,Female,Actual
+BDCQ.SEB2X2A,2014.03,9066.329143,,F,Value,6,Business Data Collection - BDC,Sex by employment variable,Total earnings,Female,Actual
+BDCQ.SEB2X2A,2014.06,9644.063494,,F,Value,6,Business Data Collection - BDC,Sex by employment variable,Total earnings,Female,Actual
+BDCQ.SEB2X2A,2014.09,9752.452549,,F,Value,6,Business Data Collection - BDC,Sex by employment variable,Total earnings,Female,Actual
+BDCQ.SEB2X2A,2014.12,10385.152,,F,Value,6,Business Data Collection - BDC,Sex by employment variable,Total earnings,Female,Actual
+BDCQ.SEB2X2A,2015.03,9542.455488,,F,Value,6,Business Data Collection - BDC,Sex by employment variable,Total earnings,Female,Actual
+BDCQ.SEB2X2A,2015.06,10135.44798,,F,Value,6,Business Data Collection - BDC,Sex by employment variable,Total earnings,Female,Actual
+BDCQ.SEB2X2A,2015.09,10436.62426,,F,Value,6,Business Data Collection - BDC,Sex by employment variable,Total earnings,Female,Actual
+BDCQ.SEB2X2A,2015.12,10706.25237,,F,Value,6,Business Data Collection - BDC,Sex by employment variable,Total earnings,Female,Actual
+BDCQ.SEB2X2A,2016.03,10479.26534,,F,Value,6,Business Data Collection - BDC,Sex by employment variable,Total earnings,Female,Actual
+BDCQ.SEB2X2A,2016.06,10632.53103,,F,Value,6,Business Data Collection - BDC,Sex by employment variable,Total earnings,Female,Actual
+BDCQ.SEB2X2A,2016.09,10822.12558,,F,Value,6,Business Data Collection - BDC,Sex by employment variable,Total earnings,Female,Actual
+BDCQ.SEB2X2A,2016.12,11340.09758,,F,Value,6,Business Data Collection - BDC,Sex by employment variable,Total earnings,Female,Actual
+BDCQ.SEB2X2A,2017.03,10903.92052,,F,Value,6,Business Data Collection - BDC,Sex by employment variable,Total earnings,Female,Actual
+BDCQ.SEB2X2A,2017.06,11315.14712,,F,Value,6,Business Data Collection - BDC,Sex by employment variable,Total earnings,Female,Actual
+BDCQ.SEB2X2A,2017.09,11512.52064,,F,Value,6,Business Data Collection - BDC,Sex by employment variable,Total earnings,Female,Actual
+BDCQ.SEB2X2A,2017.12,12201.50119,,F,Value,6,Business Data Collection - BDC,Sex by employment variable,Total earnings,Female,Actual
+BDCQ.SEB2X2A,2018.03,11610.238,,F,Value,6,Business Data Collection - BDC,Sex by employment variable,Total earnings,Female,Actual
+BDCQ.SEB2X2A,2018.06,12143.74264,,F,Value,6,Business Data Collection - BDC,Sex by employment variable,Total earnings,Female,Actual
+BDCQ.SEB2X2A,2018.09,12362.09315,,F,Value,6,Business Data Collection - BDC,Sex by employment variable,Total earnings,Female,Actual
+BDCQ.SEB2X2A,2018.12,13233.0369,,F,Value,6,Business Data Collection - BDC,Sex by employment variable,Total earnings,Female,Actual
+BDCQ.SEB2X2A,2019.03,12213.22915,,F,Value,6,Business Data Collection - BDC,Sex by employment variable,Total earnings,Female,Actual
+BDCQ.SEB2X2A,2019.06,13003.6031,,F,Value,6,Business Data Collection - BDC,Sex by employment variable,Total earnings,Female,Actual
+BDCQ.SEB2X2A,2019.09,13265.97697,,F,Value,6,Business Data Collection - BDC,Sex by employment variable,Total earnings,Female,Actual
+BDCQ.SEB2X2A,2019.12,14401.53581,,F,Value,6,Business Data Collection - BDC,Sex by employment variable,Total earnings,Female,Actual
+BDCQ.SEB2X2A,2020.03,13169.15188,,F,Value,6,Business Data Collection - BDC,Sex by employment variable,Total earnings,Female,Actual
+BDCQ.SEB2X2A,2020.06,13402.6878,,F,Value,6,Business Data Collection - BDC,Sex by employment variable,Total earnings,Female,Actual
+BDCQ.SEB2X2A,2020.09,14197.03285,,F,Value,6,Business Data Collection - BDC,Sex by employment variable,Total earnings,Female,Actual
+BDCQ.SEB2X2A,2020.12,14415.16168,,F,Value,6,Business Data Collection - BDC,Sex by employment variable,Total earnings,Female,Actual
+BDCQ.SEB2X2A,2021.03,14111.96428,,F,Value,6,Business Data Collection - BDC,Sex by employment variable,Total earnings,Female,Actual
+BDCQ.SEB2X2A,2021.06,14803.30896,,F,Value,6,Business Data Collection - BDC,Sex by employment variable,Total earnings,Female,Actual
+BDCQ.SEB2X2A,2021.09,15177.92568,,F,Value,6,Business Data Collection - BDC,Sex by employment variable,Total earnings,Female,Actual
+BDCQ.SEB2X2A,2021.12,16252.80899,,F,Value,6,Business Data Collection - BDC,Sex by employment variable,Total earnings,Female,Actual
+BDCQ.SEB2X2A,2022.03,15727.578243,,F,Value,6,Business Data Collection - BDC,Sex by employment variable,Total earnings,Female,Actual
+BDCQ.SEB2X2A,2022.06,16329.553432,,F,Value,6,Business Data Collection - BDC,Sex by employment variable,Total earnings,Female,Actual
+BDCQ.SEC1AAA,2011.06,98572,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,15-19,Actual
+BDCQ.SEC1AAA,2011.09,97169,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,15-19,Actual
+BDCQ.SEC1AAA,2011.12,104510,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,15-19,Actual
+BDCQ.SEC1AAA,2012.03,103528,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,15-19,Actual
+BDCQ.SEC1AAA,2012.06,96478,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,15-19,Actual
+BDCQ.SEC1AAA,2012.09,93718,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,15-19,Actual
+BDCQ.SEC1AAA,2012.12,103220,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,15-19,Actual
+BDCQ.SEC1AAA,2013.03,102941,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,15-19,Actual
+BDCQ.SEC1AAA,2013.06,96945,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,15-19,Actual
+BDCQ.SEC1AAA,2013.09,94908,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,15-19,Actual
+BDCQ.SEC1AAA,2013.12,105989,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,15-19,Actual
+BDCQ.SEC1AAA,2014.03,105637,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,15-19,Actual
+BDCQ.SEC1AAA,2014.06,98159,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,15-19,Actual
+BDCQ.SEC1AAA,2014.09,95968,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,15-19,Actual
+BDCQ.SEC1AAA,2014.12,107372,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,15-19,Actual
+BDCQ.SEC1AAA,2015.03,107673,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,15-19,Actual
+BDCQ.SEC1AAA,2015.06,99645,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,15-19,Actual
+BDCQ.SEC1AAA,2015.09,96492,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,15-19,Actual
+BDCQ.SEC1AAA,2015.12,107725,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,15-19,Actual
+BDCQ.SEC1AAA,2016.03,108723,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,15-19,Actual
+BDCQ.SEC1AAA,2016.06,101046,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,15-19,Actual
+BDCQ.SEC1AAA,2016.09,98824,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,15-19,Actual
+BDCQ.SEC1AAA,2016.12,111934,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,15-19,Actual
+BDCQ.SEC1AAA,2017.03,114153,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,15-19,Actual
+BDCQ.SEC1AAA,2017.06,107007,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,15-19,Actual
+BDCQ.SEC1AAA,2017.09,104254,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,15-19,Actual
+BDCQ.SEC1AAA,2017.12,118387,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,15-19,Actual
+BDCQ.SEC1AAA,2018.03,119059,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,15-19,Actual
+BDCQ.SEC1AAA,2018.06,111495,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,15-19,Actual
+BDCQ.SEC1AAA,2018.09,107851,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,15-19,Actual
+BDCQ.SEC1AAA,2018.12,123638,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,15-19,Actual
+BDCQ.SEC1AAA,2019.03,123029,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,15-19,Actual
+BDCQ.SEC1AAA,2019.06,114674,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,15-19,Actual
+BDCQ.SEC1AAA,2019.09,108823,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,15-19,Actual
+BDCQ.SEC1AAA,2019.12,124394,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,15-19,Actual
+BDCQ.SEC1AAA,2020.03,119917,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,15-19,Actual
+BDCQ.SEC1AAA,2020.06,104960,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,15-19,Actual
+BDCQ.SEC1AAA,2020.09,100605,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,15-19,Actual
+BDCQ.SEC1AAA,2020.12,115802,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,15-19,Actual
+BDCQ.SEC1AAA,2021.03,113290,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,15-19,Actual
+BDCQ.SEC1AAA,2021.06,111293,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,15-19,Actual
+BDCQ.SEC1AAA,2021.09,115812,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,15-19,Actual
+BDCQ.SEC1AAA,2021.12,134121,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,15-19,Actual
+BDCQ.SEC1AAA,2022.03,132304,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,15-19,Actual
+BDCQ.SEC1AAA,2022.06,130926,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,15-19,Actual
+BDCQ.SEC1ABA,2011.06,191834,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,20-24,Actual
+BDCQ.SEC1ABA,2011.09,192629,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,20-24,Actual
+BDCQ.SEC1ABA,2011.12,198934,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,20-24,Actual
+BDCQ.SEC1ABA,2012.03,198938,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,20-24,Actual
+BDCQ.SEC1ABA,2012.06,199166,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,20-24,Actual
+BDCQ.SEC1ABA,2012.09,195687,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,20-24,Actual
+BDCQ.SEC1ABA,2012.12,202390,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,20-24,Actual
+BDCQ.SEC1ABA,2013.03,203575,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,20-24,Actual
+BDCQ.SEC1ABA,2013.06,204080,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,20-24,Actual
+BDCQ.SEC1ABA,2013.09,202463,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,20-24,Actual
+BDCQ.SEC1ABA,2013.12,210604,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,20-24,Actual
+BDCQ.SEC1ABA,2014.03,211926,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,20-24,Actual
+BDCQ.SEC1ABA,2014.06,210850,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,20-24,Actual
+BDCQ.SEC1ABA,2014.09,209088,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,20-24,Actual
+BDCQ.SEC1ABA,2014.12,217495,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,20-24,Actual
+BDCQ.SEC1ABA,2015.03,219759,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,20-24,Actual
+BDCQ.SEC1ABA,2015.06,219818,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,20-24,Actual
+BDCQ.SEC1ABA,2015.09,215737,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,20-24,Actual
+BDCQ.SEC1ABA,2015.12,223694,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,20-24,Actual
+BDCQ.SEC1ABA,2016.03,225356,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,20-24,Actual
+BDCQ.SEC1ABA,2016.06,225409,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,20-24,Actual
+BDCQ.SEC1ABA,2016.09,221612,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,20-24,Actual
+BDCQ.SEC1ABA,2016.12,229539,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,20-24,Actual
+BDCQ.SEC1ABA,2017.03,230937,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,20-24,Actual
+BDCQ.SEC1ABA,2017.06,231923,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,20-24,Actual
+BDCQ.SEC1ABA,2017.09,226136,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,20-24,Actual
+BDCQ.SEC1ABA,2017.12,233452,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,20-24,Actual
+BDCQ.SEC1ABA,2018.03,233194,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,20-24,Actual
+BDCQ.SEC1ABA,2018.06,230208,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,20-24,Actual
+BDCQ.SEC1ABA,2018.09,222442,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,20-24,Actual
+BDCQ.SEC1ABA,2018.12,231384,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,20-24,Actual
+BDCQ.SEC1ABA,2019.03,231525,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,20-24,Actual
+BDCQ.SEC1ABA,2019.06,228801,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,20-24,Actual
+BDCQ.SEC1ABA,2019.09,223050,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,20-24,Actual
+BDCQ.SEC1ABA,2019.12,232543,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,20-24,Actual
+BDCQ.SEC1ABA,2020.03,230723,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,20-24,Actual
+BDCQ.SEC1ABA,2020.06,221702,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,20-24,Actual
+BDCQ.SEC1ABA,2020.09,214784,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,20-24,Actual
+BDCQ.SEC1ABA,2020.12,223154,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,20-24,Actual
+BDCQ.SEC1ABA,2021.03,222636,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,20-24,Actual
+BDCQ.SEC1ABA,2021.06,221541,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,20-24,Actual
+BDCQ.SEC1ABA,2021.09,222401,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,20-24,Actual
+BDCQ.SEC1ABA,2021.12,231776,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,20-24,Actual
+BDCQ.SEC1ABA,2022.03,228255,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,20-24,Actual
+BDCQ.SEC1ABA,2022.06,224251,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,20-24,Actual
+BDCQ.SEC1ACA,2011.06,184750,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,25-29,Actual
+BDCQ.SEC1ACA,2011.09,184718,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,25-29,Actual
+BDCQ.SEC1ACA,2011.12,187528,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,25-29,Actual
+BDCQ.SEC1ACA,2012.03,186153,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,25-29,Actual
+BDCQ.SEC1ACA,2012.06,189526,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,25-29,Actual
+BDCQ.SEC1ACA,2012.09,187395,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,25-29,Actual
+BDCQ.SEC1ACA,2012.12,190611,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,25-29,Actual
+BDCQ.SEC1ACA,2013.03,191748,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,25-29,Actual
+BDCQ.SEC1ACA,2013.06,195696,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,25-29,Actual
+BDCQ.SEC1ACA,2013.09,194938,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,25-29,Actual
+BDCQ.SEC1ACA,2013.12,200495,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,25-29,Actual
+BDCQ.SEC1ACA,2014.03,202118,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,25-29,Actual
+BDCQ.SEC1ACA,2014.06,205884,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,25-29,Actual
+BDCQ.SEC1ACA,2014.09,206505,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,25-29,Actual
+BDCQ.SEC1ACA,2014.12,212177,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,25-29,Actual
+BDCQ.SEC1ACA,2015.03,214770,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,25-29,Actual
+BDCQ.SEC1ACA,2015.06,220136,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,25-29,Actual
+BDCQ.SEC1ACA,2015.09,219367,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,25-29,Actual
+BDCQ.SEC1ACA,2015.12,226962,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,25-29,Actual
+BDCQ.SEC1ACA,2016.03,231328,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,25-29,Actual
+BDCQ.SEC1ACA,2016.06,238269,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,25-29,Actual
+BDCQ.SEC1ACA,2016.09,238568,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,25-29,Actual
+BDCQ.SEC1ACA,2016.12,245420,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,25-29,Actual
+BDCQ.SEC1ACA,2017.03,248658,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,25-29,Actual
+BDCQ.SEC1ACA,2017.06,256003,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,25-29,Actual
+BDCQ.SEC1ACA,2017.09,254462,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,25-29,Actual
+BDCQ.SEC1ACA,2017.12,260404,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,25-29,Actual
+BDCQ.SEC1ACA,2018.03,262398,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,25-29,Actual
+BDCQ.SEC1ACA,2018.06,264763,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,25-29,Actual
+BDCQ.SEC1ACA,2018.09,261091,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,25-29,Actual
+BDCQ.SEC1ACA,2018.12,267887,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,25-29,Actual
+BDCQ.SEC1ACA,2019.03,269675,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,25-29,Actual
+BDCQ.SEC1ACA,2019.06,272204,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,25-29,Actual
+BDCQ.SEC1ACA,2019.09,269156,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,25-29,Actual
+BDCQ.SEC1ACA,2019.12,274204,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,25-29,Actual
+BDCQ.SEC1ACA,2020.03,272869,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,25-29,Actual
+BDCQ.SEC1ACA,2020.06,271431,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,25-29,Actual
+BDCQ.SEC1ACA,2020.09,264838,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,25-29,Actual
+BDCQ.SEC1ACA,2020.12,264942,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,25-29,Actual
+BDCQ.SEC1ACA,2021.03,263129,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,25-29,Actual
+BDCQ.SEC1ACA,2021.06,264809,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,25-29,Actual
+BDCQ.SEC1ACA,2021.09,262530,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,25-29,Actual
+BDCQ.SEC1ACA,2021.12,264865,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,25-29,Actual
+BDCQ.SEC1ACA,2022.03,259265,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,25-29,Actual
+BDCQ.SEC1ACA,2022.06,257273,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,25-29,Actual
+BDCQ.SEC1ADA,2011.06,173195,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,30-34,Actual
+BDCQ.SEC1ADA,2011.09,173365,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,30-34,Actual
+BDCQ.SEC1ADA,2011.12,174245,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,30-34,Actual
+BDCQ.SEC1ADA,2012.03,172169,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,30-34,Actual
+BDCQ.SEC1ADA,2012.06,176163,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,30-34,Actual
+BDCQ.SEC1ADA,2012.09,174791,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,30-34,Actual
+BDCQ.SEC1ADA,2012.12,176659,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,30-34,Actual
+BDCQ.SEC1ADA,2013.03,176208,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,30-34,Actual
+BDCQ.SEC1ADA,2013.06,180358,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,30-34,Actual
+BDCQ.SEC1ADA,2013.09,179410,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,30-34,Actual
+BDCQ.SEC1ADA,2013.12,182578,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,30-34,Actual
+BDCQ.SEC1ADA,2014.03,182867,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,30-34,Actual
+BDCQ.SEC1ADA,2014.06,186218,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,30-34,Actual
+BDCQ.SEC1ADA,2014.09,186259,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,30-34,Actual
+BDCQ.SEC1ADA,2014.12,189076,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,30-34,Actual
+BDCQ.SEC1ADA,2015.03,189428,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,30-34,Actual
+BDCQ.SEC1ADA,2015.06,194216,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,30-34,Actual
+BDCQ.SEC1ADA,2015.09,193309,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,30-34,Actual
+BDCQ.SEC1ADA,2015.12,197047,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,30-34,Actual
+BDCQ.SEC1ADA,2016.03,197703,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,30-34,Actual
+BDCQ.SEC1ADA,2016.06,203210,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,30-34,Actual
+BDCQ.SEC1ADA,2016.09,203211,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,30-34,Actual
+BDCQ.SEC1ADA,2016.12,207467,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,30-34,Actual
+BDCQ.SEC1ADA,2017.03,208718,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,30-34,Actual
+BDCQ.SEC1ADA,2017.06,215460,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,30-34,Actual
+BDCQ.SEC1ADA,2017.09,215710,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,30-34,Actual
+BDCQ.SEC1ADA,2017.12,220060,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,30-34,Actual
+BDCQ.SEC1ADA,2018.03,222154,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,30-34,Actual
+BDCQ.SEC1ADA,2018.06,227521,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,30-34,Actual
+BDCQ.SEC1ADA,2018.09,226576,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,30-34,Actual
+BDCQ.SEC1ADA,2018.12,232248,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,30-34,Actual
+BDCQ.SEC1ADA,2019.03,234824,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,30-34,Actual
+BDCQ.SEC1ADA,2019.06,239344,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,30-34,Actual
+BDCQ.SEC1ADA,2019.09,240483,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,30-34,Actual
+BDCQ.SEC1ADA,2019.12,246415,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,30-34,Actual
+BDCQ.SEC1ADA,2020.03,248289,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,30-34,Actual
+BDCQ.SEC1ADA,2020.06,251496,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,30-34,Actual
+BDCQ.SEC1ADA,2020.09,248625,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,30-34,Actual
+BDCQ.SEC1ADA,2020.12,251110,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,30-34,Actual
+BDCQ.SEC1ADA,2021.03,253042,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,30-34,Actual
+BDCQ.SEC1ADA,2021.06,257605,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,30-34,Actual
+BDCQ.SEC1ADA,2021.09,259410,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,30-34,Actual
+BDCQ.SEC1ADA,2021.12,264585,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,30-34,Actual
+BDCQ.SEC1ADA,2022.03,263707,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,30-34,Actual
+BDCQ.SEC1ADA,2022.06,264474,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,30-34,Actual
+BDCQ.SEC1AEA,2011.06,186714,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,35-39,Actual
+BDCQ.SEC1AEA,2011.09,184565,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,35-39,Actual
+BDCQ.SEC1AEA,2011.12,183942,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,35-39,Actual
+BDCQ.SEC1AEA,2012.03,179225,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,35-39,Actual
+BDCQ.SEC1AEA,2012.06,182220,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,35-39,Actual
+BDCQ.SEC1AEA,2012.09,178962,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,35-39,Actual
+BDCQ.SEC1AEA,2012.12,178803,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,35-39,Actual
+BDCQ.SEC1AEA,2013.03,175966,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,35-39,Actual
+BDCQ.SEC1AEA,2013.06,179045,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,35-39,Actual
+BDCQ.SEC1AEA,2013.09,176786,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,35-39,Actual
+BDCQ.SEC1AEA,2013.12,177682,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,35-39,Actual
+BDCQ.SEC1AEA,2014.03,175594,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,35-39,Actual
+BDCQ.SEC1AEA,2014.06,178905,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,35-39,Actual
+BDCQ.SEC1AEA,2014.09,178413,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,35-39,Actual
+BDCQ.SEC1AEA,2014.12,179527,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,35-39,Actual
+BDCQ.SEC1AEA,2015.03,177661,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,35-39,Actual
+BDCQ.SEC1AEA,2015.06,182044,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,35-39,Actual
+BDCQ.SEC1AEA,2015.09,181088,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,35-39,Actual
+BDCQ.SEC1AEA,2015.12,182989,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,35-39,Actual
+BDCQ.SEC1AEA,2016.03,182052,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,35-39,Actual
+BDCQ.SEC1AEA,2016.06,186997,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,35-39,Actual
+BDCQ.SEC1AEA,2016.09,186623,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,35-39,Actual
+BDCQ.SEC1AEA,2016.12,188776,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,35-39,Actual
+BDCQ.SEC1AEA,2017.03,187670,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,35-39,Actual
+BDCQ.SEC1AEA,2017.06,193912,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,35-39,Actual
+BDCQ.SEC1AEA,2017.09,193759,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,35-39,Actual
+BDCQ.SEC1AEA,2017.12,196932,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,35-39,Actual
+BDCQ.SEC1AEA,2018.03,197629,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,35-39,Actual
+BDCQ.SEC1AEA,2018.06,202228,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,35-39,Actual
+BDCQ.SEC1AEA,2018.09,201370,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,35-39,Actual
+BDCQ.SEC1AEA,2018.12,205166,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,35-39,Actual
+BDCQ.SEC1AEA,2019.03,206436,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,35-39,Actual
+BDCQ.SEC1AEA,2019.06,210902,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,35-39,Actual
+BDCQ.SEC1AEA,2019.09,211637,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,35-39,Actual
+BDCQ.SEC1AEA,2019.12,216140,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,35-39,Actual
+BDCQ.SEC1AEA,2020.03,217301,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,35-39,Actual
+BDCQ.SEC1AEA,2020.06,220572,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,35-39,Actual
+BDCQ.SEC1AEA,2020.09,218156,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,35-39,Actual
+BDCQ.SEC1AEA,2020.12,219124,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,35-39,Actual
+BDCQ.SEC1AEA,2021.03,219792,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,35-39,Actual
+BDCQ.SEC1AEA,2021.06,224116,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,35-39,Actual
+BDCQ.SEC1AEA,2021.09,225068,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,35-39,Actual
+BDCQ.SEC1AEA,2021.12,229530,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,35-39,Actual
+BDCQ.SEC1AEA,2022.03,229047,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,35-39,Actual
+BDCQ.SEC1AEA,2022.06,231881,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,35-39,Actual
+BDCQ.SEC1AFA,2011.06,200611,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,40-44,Actual
+BDCQ.SEC1AFA,2011.09,200739,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,40-44,Actual
+BDCQ.SEC1AFA,2011.12,202142,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,40-44,Actual
+BDCQ.SEC1AFA,2012.03,198177,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,40-44,Actual
+BDCQ.SEC1AFA,2012.06,203496,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,40-44,Actual
+BDCQ.SEC1AFA,2012.09,201889,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,40-44,Actual
+BDCQ.SEC1AFA,2012.12,202979,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,40-44,Actual
+BDCQ.SEC1AFA,2013.03,199771,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,40-44,Actual
+BDCQ.SEC1AFA,2013.06,204414,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,40-44,Actual
+BDCQ.SEC1AFA,2013.09,201823,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,40-44,Actual
+BDCQ.SEC1AFA,2013.12,202879,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,40-44,Actual
+BDCQ.SEC1AFA,2014.03,199836,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,40-44,Actual
+BDCQ.SEC1AFA,2014.06,204202,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,40-44,Actual
+BDCQ.SEC1AFA,2014.09,202620,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,40-44,Actual
+BDCQ.SEC1AFA,2014.12,203458,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,40-44,Actual
+BDCQ.SEC1AFA,2015.03,199488,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,40-44,Actual
+BDCQ.SEC1AFA,2015.06,203985,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,40-44,Actual
+BDCQ.SEC1AFA,2015.09,201205,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,40-44,Actual
+BDCQ.SEC1AFA,2015.12,200980,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,40-44,Actual
+BDCQ.SEC1AFA,2016.03,196512,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,40-44,Actual
+BDCQ.SEC1AFA,2016.06,200519,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,40-44,Actual
+BDCQ.SEC1AFA,2016.09,198028,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,40-44,Actual
+BDCQ.SEC1AFA,2016.12,197968,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,40-44,Actual
+BDCQ.SEC1AFA,2017.03,194281,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,40-44,Actual
+BDCQ.SEC1AFA,2017.06,198969,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,40-44,Actual
+BDCQ.SEC1AFA,2017.09,196741,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,40-44,Actual
+BDCQ.SEC1AFA,2017.12,196759,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,40-44,Actual
+BDCQ.SEC1AFA,2018.03,194787,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,40-44,Actual
+BDCQ.SEC1AFA,2018.06,197295,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,40-44,Actual
+BDCQ.SEC1AFA,2018.09,194836,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,40-44,Actual
+BDCQ.SEC1AFA,2018.12,196401,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,40-44,Actual
+BDCQ.SEC1AFA,2019.03,195885,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,40-44,Actual
+BDCQ.SEC1AFA,2019.06,199258,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,40-44,Actual
+BDCQ.SEC1AFA,2019.09,198648,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,40-44,Actual
+BDCQ.SEC1AFA,2019.12,201396,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,40-44,Actual
+BDCQ.SEC1AFA,2020.03,200882,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,40-44,Actual
+BDCQ.SEC1AFA,2020.06,203243,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,40-44,Actual
+BDCQ.SEC1AFA,2020.09,200947,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,40-44,Actual
+BDCQ.SEC1AFA,2020.12,201275,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,40-44,Actual
+BDCQ.SEC1AFA,2021.03,202311,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,40-44,Actual
+BDCQ.SEC1AFA,2021.06,205573,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,40-44,Actual
+BDCQ.SEC1AFA,2021.09,207061,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,40-44,Actual
+BDCQ.SEC1AFA,2021.12,209768,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,40-44,Actual
+BDCQ.SEC1AFA,2022.03,208920,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,40-44,Actual
+BDCQ.SEC1AFA,2022.06,211259,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,40-44,Actual
+BDCQ.SEC1AGA,2011.06,200716,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,45-49,Actual
+BDCQ.SEC1AGA,2011.09,199633,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,45-49,Actual
+BDCQ.SEC1AGA,2011.12,200393,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,45-49,Actual
+BDCQ.SEC1AGA,2012.03,195931,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,45-49,Actual
+BDCQ.SEC1AGA,2012.06,199520,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,45-49,Actual
+BDCQ.SEC1AGA,2012.09,197102,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,45-49,Actual
+BDCQ.SEC1AGA,2012.12,197388,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,45-49,Actual
+BDCQ.SEC1AGA,2013.03,193823,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,45-49,Actual
+BDCQ.SEC1AGA,2013.06,198175,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,45-49,Actual
+BDCQ.SEC1AGA,2013.09,195633,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,45-49,Actual
+BDCQ.SEC1AGA,2013.12,197447,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,45-49,Actual
+BDCQ.SEC1AGA,2014.03,194871,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,45-49,Actual
+BDCQ.SEC1AGA,2014.06,199001,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,45-49,Actual
+BDCQ.SEC1AGA,2014.09,198294,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,45-49,Actual
+BDCQ.SEC1AGA,2014.12,199495,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,45-49,Actual
+BDCQ.SEC1AGA,2015.03,197251,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,45-49,Actual
+BDCQ.SEC1AGA,2015.06,201797,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,45-49,Actual
+BDCQ.SEC1AGA,2015.09,200690,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,45-49,Actual
+BDCQ.SEC1AGA,2015.12,202262,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,45-49,Actual
+BDCQ.SEC1AGA,2016.03,200341,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,45-49,Actual
+BDCQ.SEC1AGA,2016.06,205819,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,45-49,Actual
+BDCQ.SEC1AGA,2016.09,205219,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,45-49,Actual
+BDCQ.SEC1AGA,2016.12,207175,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,45-49,Actual
+BDCQ.SEC1AGA,2017.03,204575,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,45-49,Actual
+BDCQ.SEC1AGA,2017.06,210542,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,45-49,Actual
+BDCQ.SEC1AGA,2017.09,209987,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,45-49,Actual
+BDCQ.SEC1AGA,2017.12,212074,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,45-49,Actual
+BDCQ.SEC1AGA,2018.03,210506,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,45-49,Actual
+BDCQ.SEC1AGA,2018.06,213710,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,45-49,Actual
+BDCQ.SEC1AGA,2018.09,210905,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,45-49,Actual
+BDCQ.SEC1AGA,2018.12,212527,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,45-49,Actual
+BDCQ.SEC1AGA,2019.03,211458,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,45-49,Actual
+BDCQ.SEC1AGA,2019.06,214647,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,45-49,Actual
+BDCQ.SEC1AGA,2019.09,213086,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,45-49,Actual
+BDCQ.SEC1AGA,2019.12,215152,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,45-49,Actual
+BDCQ.SEC1AGA,2020.03,213930,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,45-49,Actual
+BDCQ.SEC1AGA,2020.06,214669,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,45-49,Actual
+BDCQ.SEC1AGA,2020.09,210752,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,45-49,Actual
+BDCQ.SEC1AGA,2020.12,209573,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,45-49,Actual
+BDCQ.SEC1AGA,2021.03,207603,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,45-49,Actual
+BDCQ.SEC1AGA,2021.06,208812,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,45-49,Actual
+BDCQ.SEC1AGA,2021.09,207863,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,45-49,Actual
+BDCQ.SEC1AGA,2021.12,209220,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,45-49,Actual
+BDCQ.SEC1AGA,2022.03,207341,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,45-49,Actual
+BDCQ.SEC1AGA,2022.06,207549,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,45-49,Actual
+BDCQ.SEC1AHA,2011.06,178833,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,50-54,Actual
+BDCQ.SEC1AHA,2011.09,179516,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,50-54,Actual
+BDCQ.SEC1AHA,2011.12,182273,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,50-54,Actual
+BDCQ.SEC1AHA,2012.03,179872,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,50-54,Actual
+BDCQ.SEC1AHA,2012.06,185132,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,50-54,Actual
+BDCQ.SEC1AHA,2012.09,184200,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,50-54,Actual
+BDCQ.SEC1AHA,2012.12,186354,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,50-54,Actual
+BDCQ.SEC1AHA,2013.03,184961,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,50-54,Actual
+BDCQ.SEC1AHA,2013.06,189860,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,50-54,Actual
+BDCQ.SEC1AHA,2013.09,188941,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,50-54,Actual
+BDCQ.SEC1AHA,2013.12,191271,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,50-54,Actual
+BDCQ.SEC1AHA,2014.03,189478,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,50-54,Actual
+BDCQ.SEC1AHA,2014.06,193511,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,50-54,Actual
+BDCQ.SEC1AHA,2014.09,193125,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,50-54,Actual
+BDCQ.SEC1AHA,2014.12,194840,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,50-54,Actual
+BDCQ.SEC1AHA,2015.03,191884,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,50-54,Actual
+BDCQ.SEC1AHA,2015.06,195115,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,50-54,Actual
+BDCQ.SEC1AHA,2015.09,193237,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,50-54,Actual
+BDCQ.SEC1AHA,2015.12,194080,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,50-54,Actual
+BDCQ.SEC1AHA,2016.03,191124,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,50-54,Actual
+BDCQ.SEC1AHA,2016.06,194778,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,50-54,Actual
+BDCQ.SEC1AHA,2016.09,192762,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,50-54,Actual
+BDCQ.SEC1AHA,2016.12,193638,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,50-54,Actual
+BDCQ.SEC1AHA,2017.03,190864,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,50-54,Actual
+BDCQ.SEC1AHA,2017.06,194726,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,50-54,Actual
+BDCQ.SEC1AHA,2017.09,193125,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,50-54,Actual
+BDCQ.SEC1AHA,2017.12,193862,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,50-54,Actual
+BDCQ.SEC1AHA,2018.03,192452,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,50-54,Actual
+BDCQ.SEC1AHA,2018.06,194782,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,50-54,Actual
+BDCQ.SEC1AHA,2018.09,192529,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,50-54,Actual
+BDCQ.SEC1AHA,2018.12,194835,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,50-54,Actual
+BDCQ.SEC1AHA,2019.03,194083,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,50-54,Actual
+BDCQ.SEC1AHA,2019.06,196804,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,50-54,Actual
+BDCQ.SEC1AHA,2019.09,195809,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,50-54,Actual
+BDCQ.SEC1AHA,2019.12,198502,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,50-54,Actual
+BDCQ.SEC1AHA,2020.03,198223,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,50-54,Actual
+BDCQ.SEC1AHA,2020.06,199776,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,50-54,Actual
+BDCQ.SEC1AHA,2020.09,198176,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,50-54,Actual
+BDCQ.SEC1AHA,2020.12,199418,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,50-54,Actual
+BDCQ.SEC1AHA,2021.03,199877,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,50-54,Actual
+BDCQ.SEC1AHA,2021.06,202406,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,50-54,Actual
+BDCQ.SEC1AHA,2021.09,203961,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,50-54,Actual
+BDCQ.SEC1AHA,2021.12,206935,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,50-54,Actual
+BDCQ.SEC1AHA,2022.03,206369,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,50-54,Actual
+BDCQ.SEC1AHA,2022.06,207813,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,50-54,Actual
+BDCQ.SEC1AIA,2011.06,140309,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,55-59,Actual
+BDCQ.SEC1AIA,2011.09,140582,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,55-59,Actual
+BDCQ.SEC1AIA,2011.12,142899,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,55-59,Actual
+BDCQ.SEC1AIA,2012.03,141017,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,55-59,Actual
+BDCQ.SEC1AIA,2012.06,145014,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,55-59,Actual
+BDCQ.SEC1AIA,2012.09,144340,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,55-59,Actual
+BDCQ.SEC1AIA,2012.12,146247,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,55-59,Actual
+BDCQ.SEC1AIA,2013.03,145070,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,55-59,Actual
+BDCQ.SEC1AIA,2013.06,149060,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,55-59,Actual
+BDCQ.SEC1AIA,2013.09,148513,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,55-59,Actual
+BDCQ.SEC1AIA,2013.12,151272,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,55-59,Actual
+BDCQ.SEC1AIA,2014.03,150405,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,55-59,Actual
+BDCQ.SEC1AIA,2014.06,154333,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,55-59,Actual
+BDCQ.SEC1AIA,2014.09,155064,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,55-59,Actual
+BDCQ.SEC1AIA,2014.12,156979,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,55-59,Actual
+BDCQ.SEC1AIA,2015.03,156134,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,55-59,Actual
+BDCQ.SEC1AIA,2015.06,160360,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,55-59,Actual
+BDCQ.SEC1AIA,2015.09,160021,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,55-59,Actual
+BDCQ.SEC1AIA,2015.12,162304,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,55-59,Actual
+BDCQ.SEC1AIA,2016.03,161154,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,55-59,Actual
+BDCQ.SEC1AIA,2016.06,165791,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,55-59,Actual
+BDCQ.SEC1AIA,2016.09,166070,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,55-59,Actual
+BDCQ.SEC1AIA,2016.12,168714,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,55-59,Actual
+BDCQ.SEC1AIA,2017.03,167273,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,55-59,Actual
+BDCQ.SEC1AIA,2017.06,172626,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,55-59,Actual
+BDCQ.SEC1AIA,2017.09,172595,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,55-59,Actual
+BDCQ.SEC1AIA,2017.12,174971,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,55-59,Actual
+BDCQ.SEC1AIA,2018.03,175060,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,55-59,Actual
+BDCQ.SEC1AIA,2018.06,178203,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,55-59,Actual
+BDCQ.SEC1AIA,2018.09,177441,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,55-59,Actual
+BDCQ.SEC1AIA,2018.12,179717,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,55-59,Actual
+BDCQ.SEC1AIA,2019.03,179720,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,55-59,Actual
+BDCQ.SEC1AIA,2019.06,182308,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,55-59,Actual
+BDCQ.SEC1AIA,2019.09,181672,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,55-59,Actual
+BDCQ.SEC1AIA,2019.12,184520,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,55-59,Actual
+BDCQ.SEC1AIA,2020.03,183561,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,55-59,Actual
+BDCQ.SEC1AIA,2020.06,183454,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,55-59,Actual
+BDCQ.SEC1AIA,2020.09,181119,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,55-59,Actual
+BDCQ.SEC1AIA,2020.12,182051,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,55-59,Actual
+BDCQ.SEC1AIA,2021.03,181022,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,55-59,Actual
+BDCQ.SEC1AIA,2021.06,182190,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,55-59,Actual
+BDCQ.SEC1AIA,2021.09,182129,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,55-59,Actual
+BDCQ.SEC1AIA,2021.12,184284,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,55-59,Actual
+BDCQ.SEC1AIA,2022.03,183003,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,55-59,Actual
+BDCQ.SEC1AIA,2022.06,183270,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,55-59,Actual
+BDCQ.SEC1AJA,2011.06,105985,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,60-64,Actual
+BDCQ.SEC1AJA,2011.09,106185,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,60-64,Actual
+BDCQ.SEC1AJA,2011.12,107962,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,60-64,Actual
+BDCQ.SEC1AJA,2012.03,105635,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,60-64,Actual
+BDCQ.SEC1AJA,2012.06,108624,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,60-64,Actual
+BDCQ.SEC1AJA,2012.09,107655,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,60-64,Actual
+BDCQ.SEC1AJA,2012.12,109146,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,60-64,Actual
+BDCQ.SEC1AJA,2013.03,107730,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,60-64,Actual
+BDCQ.SEC1AJA,2013.06,110381,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,60-64,Actual
+BDCQ.SEC1AJA,2013.09,109241,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,60-64,Actual
+BDCQ.SEC1AJA,2013.12,110943,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,60-64,Actual
+BDCQ.SEC1AJA,2014.03,109734,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,60-64,Actual
+BDCQ.SEC1AJA,2014.06,112707,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,60-64,Actual
+BDCQ.SEC1AJA,2014.09,112931,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,60-64,Actual
+BDCQ.SEC1AJA,2014.12,114186,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,60-64,Actual
+BDCQ.SEC1AJA,2015.03,112707,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,60-64,Actual
+BDCQ.SEC1AJA,2015.06,115876,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,60-64,Actual
+BDCQ.SEC1AJA,2015.09,115487,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,60-64,Actual
+BDCQ.SEC1AJA,2015.12,117021,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,60-64,Actual
+BDCQ.SEC1AJA,2016.03,115705,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,60-64,Actual
+BDCQ.SEC1AJA,2016.06,119333,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,60-64,Actual
+BDCQ.SEC1AJA,2016.09,118976,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,60-64,Actual
+BDCQ.SEC1AJA,2016.12,120949,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,60-64,Actual
+BDCQ.SEC1AJA,2017.03,119853,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,60-64,Actual
+BDCQ.SEC1AJA,2017.06,123979,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,60-64,Actual
+BDCQ.SEC1AJA,2017.09,124024,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,60-64,Actual
+BDCQ.SEC1AJA,2017.12,125731,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,60-64,Actual
+BDCQ.SEC1AJA,2018.03,125213,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,60-64,Actual
+BDCQ.SEC1AJA,2018.06,128166,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,60-64,Actual
+BDCQ.SEC1AJA,2018.09,127579,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,60-64,Actual
+BDCQ.SEC1AJA,2018.12,130350,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,60-64,Actual
+BDCQ.SEC1AJA,2019.03,130394,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,60-64,Actual
+BDCQ.SEC1AJA,2019.06,133556,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,60-64,Actual
+BDCQ.SEC1AJA,2019.09,133583,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,60-64,Actual
+BDCQ.SEC1AJA,2019.12,136604,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,60-64,Actual
+BDCQ.SEC1AJA,2020.03,137052,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,60-64,Actual
+BDCQ.SEC1AJA,2020.06,138462,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,60-64,Actual
+BDCQ.SEC1AJA,2020.09,137461,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,60-64,Actual
+BDCQ.SEC1AJA,2020.12,139389,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,60-64,Actual
+BDCQ.SEC1AJA,2021.03,139615,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,60-64,Actual
+BDCQ.SEC1AJA,2021.06,142053,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,60-64,Actual
+BDCQ.SEC1AJA,2021.09,143431,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,60-64,Actual
+BDCQ.SEC1AJA,2021.12,146418,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,60-64,Actual
+BDCQ.SEC1AJA,2022.03,146123,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,60-64,Actual
+BDCQ.SEC1AJA,2022.06,148559,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,60-64,Actual
+BDCQ.SEC1AKA,2011.06,61853,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,65 +,Actual
+BDCQ.SEC1AKA,2011.09,62606,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,65 +,Actual
+BDCQ.SEC1AKA,2011.12,66468,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,65 +,Actual
+BDCQ.SEC1AKA,2012.03,64517,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,65 +,Actual
+BDCQ.SEC1AKA,2012.06,68635,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,65 +,Actual
+BDCQ.SEC1AKA,2012.09,68752,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,65 +,Actual
+BDCQ.SEC1AKA,2012.12,71628,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,65 +,Actual
+BDCQ.SEC1AKA,2013.03,70138,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,65 +,Actual
+BDCQ.SEC1AKA,2013.06,73977,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,65 +,Actual
+BDCQ.SEC1AKA,2013.09,73695,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,65 +,Actual
+BDCQ.SEC1AKA,2013.12,76682,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,65 +,Actual
+BDCQ.SEC1AKA,2014.03,74444,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,65 +,Actual
+BDCQ.SEC1AKA,2014.06,78177,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,65 +,Actual
+BDCQ.SEC1AKA,2014.09,78788,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,65 +,Actual
+BDCQ.SEC1AKA,2014.12,81463,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,65 +,Actual
+BDCQ.SEC1AKA,2015.03,78430,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,65 +,Actual
+BDCQ.SEC1AKA,2015.06,82071,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,65 +,Actual
+BDCQ.SEC1AKA,2015.09,81564,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,65 +,Actual
+BDCQ.SEC1AKA,2015.12,84272,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,65 +,Actual
+BDCQ.SEC1AKA,2016.03,80850,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,65 +,Actual
+BDCQ.SEC1AKA,2016.06,84977,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,65 +,Actual
+BDCQ.SEC1AKA,2016.09,84940,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,65 +,Actual
+BDCQ.SEC1AKA,2016.12,87643,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,65 +,Actual
+BDCQ.SEC1AKA,2017.03,84161,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,65 +,Actual
+BDCQ.SEC1AKA,2017.06,88946,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,65 +,Actual
+BDCQ.SEC1AKA,2017.09,89340,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,65 +,Actual
+BDCQ.SEC1AKA,2017.12,92101,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,65 +,Actual
+BDCQ.SEC1AKA,2018.03,89168,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,65 +,Actual
+BDCQ.SEC1AKA,2018.06,92772,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,65 +,Actual
+BDCQ.SEC1AKA,2018.09,92206,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,65 +,Actual
+BDCQ.SEC1AKA,2018.12,95413,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,65 +,Actual
+BDCQ.SEC1AKA,2019.03,93169,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,65 +,Actual
+BDCQ.SEC1AKA,2019.06,97024,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,65 +,Actual
+BDCQ.SEC1AKA,2019.09,95886,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,65 +,Actual
+BDCQ.SEC1AKA,2019.12,99919,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,65 +,Actual
+BDCQ.SEC1AKA,2020.03,97262,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,65 +,Actual
+BDCQ.SEC1AKA,2020.06,96985,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,65 +,Actual
+BDCQ.SEC1AKA,2020.09,101645,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,65 +,Actual
+BDCQ.SEC1AKA,2020.12,104529,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,65 +,Actual
+BDCQ.SEC1AKA,2021.03,100626,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,65 +,Actual
+BDCQ.SEC1AKA,2021.06,103340,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,65 +,Actual
+BDCQ.SEC1AKA,2021.09,105663,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,65 +,Actual
+BDCQ.SEC1AKA,2021.12,108207,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,65 +,Actual
+BDCQ.SEC1AKA,2022.03,106375,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,65 +,Actual
+BDCQ.SEC1AKA,2022.06,111921,,F,Number,0,Business Data Collection - BDC,Age by employment variable,Filled jobs,65 +,Actual
+BDCQ.SEC2AAA,2011.06,394.136662,,F,Value,6,Business Data Collection - BDC,Age by employment variable,Total earnings,15-19,Actual
+BDCQ.SEC2AAA,2011.09,380.867051,,F,Value,6,Business Data Collection - BDC,Age by employment variable,Total earnings,15-19,Actual
+BDCQ.SEC2AAA,2011.12,449.11803,,F,Value,6,Business Data Collection - BDC,Age by employment variable,Total earnings,15-19,Actual
+BDCQ.SEC2AAA,2012.03,446.516618,,F,Value,6,Business Data Collection - BDC,Age by employment variable,Total earnings,15-19,Actual
+BDCQ.SEC2AAA,2012.06,399.600414,,F,Value,6,Business Data Collection - BDC,Age by employment variable,Total earnings,15-19,Actual
+BDCQ.SEC2AAA,2012.09,382.834623,,F,Value,6,Business Data Collection - BDC,Age by employment variable,Total earnings,15-19,Actual
+BDCQ.SEC2AAA,2012.12,461.639504,,F,Value,6,Business Data Collection - BDC,Age by employment variable,Total earnings,15-19,Actual
+BDCQ.SEC2AAA,2013.03,453.264814,,F,Value,6,Business Data Collection - BDC,Age by employment variable,Total earnings,15-19,Actual
+BDCQ.SEC2AAA,2013.06,398.143543,,F,Value,6,Business Data Collection - BDC,Age by employment variable,Total earnings,15-19,Actual
+BDCQ.SEC2AAA,2013.09,383.135529,,F,Value,6,Business Data Collection - BDC,Age by employment variable,Total earnings,15-19,Actual
+BDCQ.SEC2AAA,2013.12,481.123443,,F,Value,6,Business Data Collection - BDC,Age by employment variable,Total earnings,15-19,Actual
+BDCQ.SEC2AAA,2014.03,470.582555,,F,Value,6,Business Data Collection - BDC,Age by employment variable,Total earnings,15-19,Actual
+BDCQ.SEC2AAA,2014.06,418.674621,,F,Value,6,Business Data Collection - BDC,Age by employment variable,Total earnings,15-19,Actual
+BDCQ.SEC2AAA,2014.09,404.905215,,F,Value,6,Business Data Collection - BDC,Age by employment variable,Total earnings,15-19,Actual
+BDCQ.SEC2AAA,2014.12,508.748817,,F,Value,6,Business Data Collection - BDC,Age by employment variable,Total earnings,15-19,Actual
+BDCQ.SEC2AAA,2015.03,492.993469,,F,Value,6,Business Data Collection - BDC,Age by employment variable,Total earnings,15-19,Actual
+BDCQ.SEC2AAA,2015.06,434.883192,,F,Value,6,Business Data Collection - BDC,Age by employment variable,Total earnings,15-19,Actual
+BDCQ.SEC2AAA,2015.09,416.33106,,F,Value,6,Business Data Collection - BDC,Age by employment variable,Total earnings,15-19,Actual
+BDCQ.SEC2AAA,2015.12,519.712343,,F,Value,6,Business Data Collection - BDC,Age by employment variable,Total earnings,15-19,Actual
+BDCQ.SEC2AAA,2016.03,519.727675,,F,Value,6,Business Data Collection - BDC,Age by employment variable,Total earnings,15-19,Actual
+BDCQ.SEC2AAA,2016.06,450.30371,,F,Value,6,Business Data Collection - BDC,Age by employment variable,Total earnings,15-19,Actual
+BDCQ.SEC2AAA,2016.09,431.984997,,F,Value,6,Business Data Collection - BDC,Age by employment variable,Total earnings,15-19,Actual
+BDCQ.SEC2AAA,2016.12,552.973919,,F,Value,6,Business Data Collection - BDC,Age by employment variable,Total earnings,15-19,Actual
+BDCQ.SEC2AAA,2017.03,562.641148,,F,Value,6,Business Data Collection - BDC,Age by employment variable,Total earnings,15-19,Actual
+BDCQ.SEC2AAA,2017.06,497.47446,,F,Value,6,Business Data Collection - BDC,Age by employment variable,Total earnings,15-19,Actual
+BDCQ.SEC2AAA,2017.09,477.887645,,F,Value,6,Business Data Collection - BDC,Age by employment variable,Total earnings,15-19,Actual
+BDCQ.SEC2AAA,2017.12,620.611906,,F,Value,6,Business Data Collection - BDC,Age by employment variable,Total earnings,15-19,Actual
+BDCQ.SEC2AAA,2018.03,602.828616,,F,Value,6,Business Data Collection - BDC,Age by employment variable,Total earnings,15-19,Actual
+BDCQ.SEC2AAA,2018.06,553.212038,,F,Value,6,Business Data Collection - BDC,Age by employment variable,Total earnings,15-19,Actual
+BDCQ.SEC2AAA,2018.09,527.046609,,F,Value,6,Business Data Collection - BDC,Age by employment variable,Total earnings,15-19,Actual
+BDCQ.SEC2AAA,2018.12,679.00432,,F,Value,6,Business Data Collection - BDC,Age by employment variable,Total earnings,15-19,Actual
+BDCQ.SEC2AAA,2019.03,644.212117,,F,Value,6,Business Data Collection - BDC,Age by employment variable,Total earnings,15-19,Actual
+BDCQ.SEC2AAA,2019.06,589.23084,,F,Value,6,Business Data Collection - BDC,Age by employment variable,Total earnings,15-19,Actual
+BDCQ.SEC2AAA,2019.09,563.36191,,F,Value,6,Business Data Collection - BDC,Age by employment variable,Total earnings,15-19,Actual
+BDCQ.SEC2AAA,2019.12,731.867624,,F,Value,6,Business Data Collection - BDC,Age by employment variable,Total earnings,15-19,Actual
+BDCQ.SEC2AAA,2020.03,677.925214,,F,Value,6,Business Data Collection - BDC,Age by employment variable,Total earnings,15-19,Actual
+BDCQ.SEC2AAA,2020.06,575.439244,,F,Value,6,Business Data Collection - BDC,Age by employment variable,Total earnings,15-19,Actual
+BDCQ.SEC2AAA,2020.09,564.790174,,F,Value,6,Business Data Collection - BDC,Age by employment variable,Total earnings,15-19,Actual
+BDCQ.SEC2AAA,2020.12,688.24145,,F,Value,6,Business Data Collection - BDC,Age by employment variable,Total earnings,15-19,Actual
+BDCQ.SEC2AAA,2021.03,691.239906,,F,Value,6,Business Data Collection - BDC,Age by employment variable,Total earnings,15-19,Actual
+BDCQ.SEC2AAA,2021.06,670.096132,,F,Value,6,Business Data Collection - BDC,Age by employment variable,Total earnings,15-19,Actual
+BDCQ.SEC2AAA,2021.09,681.555368,,F,Value,6,Business Data Collection - BDC,Age by employment variable,Total earnings,15-19,Actual
+BDCQ.SEC2AAA,2021.12,847.698427,,F,Value,6,Business Data Collection - BDC,Age by employment variable,Total earnings,15-19,Actual
+BDCQ.SEC2AAA,2022.03,883.901603,,F,Value,6,Business Data Collection - BDC,Age by employment variable,Total earnings,15-19,Actual
+BDCQ.SEC2AAA,2022.06,841.07837,,F,Value,6,Business Data Collection - BDC,Age by employment variable,Total earnings,15-19,Actual
+BDCQ.SEC2ABA,2011.06,1451.620103,,F,Value,6,Business Data Collection - BDC,Age by employment variable,Total earnings,20-24,Actual
+BDCQ.SEC2ABA,2011.09,1445.989854,,F,Value,6,Business Data Collection - BDC,Age by employment variable,Total earnings,20-24,Actual
+BDCQ.SEC2ABA,2011.12,1561.802727,,F,Value,6,Business Data Collection - BDC,Age by employment variable,Total earnings,20-24,Actual
+BDCQ.SEC2ABA,2012.03,1547.368295,,F,Value,6,Business Data Collection - BDC,Age by employment variable,Total earnings,20-24,Actual
+BDCQ.SEC2ABA,2012.06,1544.706742,,F,Value,6,Business Data Collection - BDC,Age by employment variable,Total earnings,20-24,Actual
+BDCQ.SEC2ABA,2012.09,1518.442029,,F,Value,6,Business Data Collection - BDC,Age by employment variable,Total earnings,20-24,Actual
+BDCQ.SEC2ABA,2012.12,1651.436327,,F,Value,6,Business Data Collection - BDC,Age by employment variable,Total earnings,20-24,Actual
+BDCQ.SEC2ABA,2013.03,1604.440029,,F,Value,6,Business Data Collection - BDC,Age by employment variable,Total earnings,20-24,Actual
+BDCQ.SEC2ABA,2013.06,1609.330677,,F,Value,6,Business Data Collection - BDC,Age by employment variable,Total earnings,20-24,Actual
+BDCQ.SEC2ABA,2013.09,1593.858521,,F,Value,6,Business Data Collection - BDC,Age by employment variable,Total earnings,20-24,Actual
+BDCQ.SEC2ABA,2013.12,1775.029758,,F,Value,6,Business Data Collection - BDC,Age by employment variable,Total earnings,20-24,Actual
+BDCQ.SEC2ABA,2014.03,1697.074615,,F,Value,6,Business Data Collection - BDC,Age by employment variable,Total earnings,20-24,Actual
+BDCQ.SEC2ABA,2014.06,1720.778286,,F,Value,6,Business Data Collection - BDC,Age by employment variable,Total earnings,20-24,Actual
+BDCQ.SEC2ABA,2014.09,1713.932612,,F,Value,6,Business Data Collection - BDC,Age by employment variable,Total earnings,20-24,Actual
+BDCQ.SEC2ABA,2014.12,1886.347939,,F,Value,6,Business Data Collection - BDC,Age by employment variable,Total earnings,20-24,Actual
+BDCQ.SEC2ABA,2015.03,1810.169484,,F,Value,6,Business Data Collection - BDC,Age by employment variable,Total earnings,20-24,Actual
+BDCQ.SEC2ABA,2015.06,1830.11997,,F,Value,6,Business Data Collection - BDC,Age by employment variable,Total earnings,20-24,Actual
+BDCQ.SEC2ABA,2015.09,1827.629777,,F,Value,6,Business Data Collection - BDC,Age by employment variable,Total earnings,20-24,Actual
+BDCQ.SEC2ABA,2015.12,1960.846016,,F,Value,6,Business Data Collection - BDC,Age by employment variable,Total earnings,20-24,Actual
+BDCQ.SEC2ABA,2016.03,1954.976415,,F,Value,6,Business Data Collection - BDC,Age by employment variable,Total earnings,20-24,Actual
+BDCQ.SEC2ABA,2016.06,1919.349844,,F,Value,6,Business Data Collection - BDC,Age by employment variable,Total earnings,20-24,Actual
+BDCQ.SEC2ABA,2016.09,1893.790615,,F,Value,6,Business Data Collection - BDC,Age by employment variable,Total earnings,20-24,Actual
+BDCQ.SEC2ABA,2016.12,2054.923572,,F,Value,6,Business Data Collection - BDC,Age by employment variable,Total earnings,20-24,Actual
+BDCQ.SEC2ABA,2017.03,2047.134452,,F,Value,6,Business Data Collection - BDC,Age by employment variable,Total earnings,20-24,Actual
+BDCQ.SEC2ABA,2017.06,2038.151901,,F,Value,6,Business Data Collection - BDC,Age by employment variable,Total earnings,20-24,Actual
+BDCQ.SEC2ABA,2017.09,2000.008801,,F,Value,6,Business Data Collection - BDC,Age by employment variable,Total earnings,20-24,Actual
+BDCQ.SEC2ABA,2017.12,2189.716021,,F,Value,6,Business Data Collection - BDC,Age by employment variable,Total earnings,20-24,Actual
+BDCQ.SEC2ABA,2018.03,2120.200308,,F,Value,6,Business Data Collection - BDC,Age by employment variable,Total earnings,20-24,Actual
+BDCQ.SEC2ABA,2018.06,2129.898259,,F,Value,6,Business Data Collection - BDC,Age by employment variable,Total earnings,20-24,Actual
+BDCQ.SEC2ABA,2018.09,2077.348232,,F,Value,6,Business Data Collection - BDC,Age by employment variable,Total earnings,20-24,Actual
+BDCQ.SEC2ABA,2018.12,2285.883429,,F,Value,6,Business Data Collection - BDC,Age by employment variable,Total earnings,20-24,Actual
+BDCQ.SEC2ABA,2019.03,2160.469267,,F,Value,6,Business Data Collection - BDC,Age by employment variable,Total earnings,20-24,Actual
+BDCQ.SEC2ABA,2019.06,2181.407898,,F,Value,6,Business Data Collection - BDC,Age by employment variable,Total earnings,20-24,Actual
+BDCQ.SEC2ABA,2019.09,2151.122708,,F,Value,6,Business Data Collection - BDC,Age by employment variable,Total earnings,20-24,Actual
+BDCQ.SEC2ABA,2019.12,2398.489868,,F,Value,6,Business Data Collection - BDC,Age by employment variable,Total earnings,20-24,Actual
+BDCQ.SEC2ABA,2020.03,2240.875941,,F,Value,6,Business Data Collection - BDC,Age by employment variable,Total earnings,20-24,Actual
+BDCQ.SEC2ABA,2020.06,2111.332306,,F,Value,6,Business Data Collection - BDC,Age by employment variable,Total earnings,20-24,Actual
+BDCQ.SEC2ABA,2020.09,2159.394414,,F,Value,6,Business Data Collection - BDC,Age by employment variable,Total earnings,20-24,Actual
+BDCQ.SEC2ABA,2020.12,2283.900997,,F,Value,6,Business Data Collection - BDC,Age by employment variable,Total earnings,20-24,Actual
+BDCQ.SEC2ABA,2021.03,2271.28878,,F,Value,6,Business Data Collection - BDC,Age by employment variable,Total earnings,20-24,Actual
+BDCQ.SEC2ABA,2021.06,2334.267989,,F,Value,6,Business Data Collection - BDC,Age by employment variable,Total earnings,20-24,Actual
+BDCQ.SEC2ABA,2021.09,2344.613361,,F,Value,6,Business Data Collection - BDC,Age by employment variable,Total earnings,20-24,Actual
+BDCQ.SEC2ABA,2021.12,2572.710638,,F,Value,6,Business Data Collection - BDC,Age by employment variable,Total earnings,20-24,Actual
+BDCQ.SEC2ABA,2022.03,2565.044972,,F,Value,6,Business Data Collection - BDC,Age by employment variable,Total earnings,20-24,Actual
+BDCQ.SEC2ABA,2022.06,2564.912438,,F,Value,6,Business Data Collection - BDC,Age by employment variable,Total earnings,20-24,Actual
+BDCQ.SEC2ACA,2011.06,2007.18119,,F,Value,6,Business Data Collection - BDC,Age by employment variable,Total earnings,25-29,Actual
+BDCQ.SEC2ACA,2011.09,2017.695274,,F,Value,6,Business Data Collection - BDC,Age by employment variable,Total earnings,25-29,Actual
+BDCQ.SEC2ACA,2011.12,2107.57995,,F,Value,6,Business Data Collection - BDC,Age by employment variable,Total earnings,25-29,Actual
+BDCQ.SEC2ACA,2012.03,2041.067379,,F,Value,6,Business Data Collection - BDC,Age by employment variable,Total earnings,25-29,Actual
+BDCQ.SEC2ACA,2012.06,2103.760799,,F,Value,6,Business Data Collection - BDC,Age by employment variable,Total earnings,25-29,Actual
+BDCQ.SEC2ACA,2012.09,2093.473906,,F,Value,6,Business Data Collection - BDC,Age by employment variable,Total earnings,25-29,Actual
+BDCQ.SEC2ACA,2012.12,2217.888082,,F,Value,6,Business Data Collection - BDC,Age by employment variable,Total earnings,25-29,Actual
+BDCQ.SEC2ACA,2013.03,2121.015465,,F,Value,6,Business Data Collection - BDC,Age by employment variable,Total earnings,25-29,Actual
+BDCQ.SEC2ACA,2013.06,2207.043804,,F,Value,6,Business Data Collection - BDC,Age by employment variable,Total earnings,25-29,Actual
+BDCQ.SEC2ACA,2013.09,2213.389234,,F,Value,6,Business Data Collection - BDC,Age by employment variable,Total earnings,25-29,Actual
+BDCQ.SEC2ACA,2013.12,2396.097131,,F,Value,6,Business Data Collection - BDC,Age by employment variable,Total earnings,25-29,Actual
+BDCQ.SEC2ACA,2014.03,2256.582963,,F,Value,6,Business Data Collection - BDC,Age by employment variable,Total earnings,25-29,Actual
+BDCQ.SEC2ACA,2014.06,2386.74407,,F,Value,6,Business Data Collection - BDC,Age by employment variable,Total earnings,25-29,Actual
+BDCQ.SEC2ACA,2014.09,2420.295069,,F,Value,6,Business Data Collection - BDC,Age by employment variable,Total earnings,25-29,Actual
+BDCQ.SEC2ACA,2014.12,2587.128501,,F,Value,6,Business Data Collection - BDC,Age by employment variable,Total earnings,25-29,Actual
+BDCQ.SEC2ACA,2015.03,2439.844135,,F,Value,6,Business Data Collection - BDC,Age by employment variable,Total earnings,25-29,Actual
+BDCQ.SEC2ACA,2015.06,2574.403946,,F,Value,6,Business Data Collection - BDC,Age by employment variable,Total earnings,25-29,Actual
+BDCQ.SEC2ACA,2015.09,2631.251613,,F,Value,6,Business Data Collection - BDC,Age by employment variable,Total earnings,25-29,Actual
+BDCQ.SEC2ACA,2015.12,2770.077791,,F,Value,6,Business Data Collection - BDC,Age by employment variable,Total earnings,25-29,Actual
+BDCQ.SEC2ACA,2016.03,2751.302989,,F,Value,6,Business Data Collection - BDC,Age by employment variable,Total earnings,25-29,Actual
+BDCQ.SEC2ACA,2016.06,2836.487053,,F,Value,6,Business Data Collection - BDC,Age by employment variable,Total earnings,25-29,Actual
+BDCQ.SEC2ACA,2016.09,2863.286258,,F,Value,6,Business Data Collection - BDC,Age by employment variable,Total earnings,25-29,Actual
+BDCQ.SEC2ACA,2016.12,3035.63604,,F,Value,6,Business Data Collection - BDC,Age by employment variable,Total earnings,25-29,Actual
+BDCQ.SEC2ACA,2017.03,2996.839121,,F,Value,6,Business Data Collection - BDC,Age by employment variable,Total earnings,25-29,Actual
+BDCQ.SEC2ACA,2017.06,3131.237939,,F,Value,6,Business Data Collection - BDC,Age by employment variable,Total earnings,25-29,Actual
+BDCQ.SEC2ACA,2017.09,3148.070924,,F,Value,6,Business Data Collection - BDC,Age by employment variable,Total earnings,25-29,Actual
+BDCQ.SEC2ACA,2017.12,3362.921944,,F,Value,6,Business Data Collection - BDC,Age by employment variable,Total earnings,25-29,Actual
+BDCQ.SEC2ACA,2018.03,3246.110614,,F,Value,6,Business Data Collection - BDC,Age by employment variable,Total earnings,25-29,Actual
+BDCQ.SEC2ACA,2018.06,3388.057395,,F,Value,6,Business Data Collection - BDC,Age by employment variable,Total earnings,25-29,Actual
+BDCQ.SEC2ACA,2018.09,3393.469072,,F,Value,6,Business Data Collection - BDC,Age by employment variable,Total earnings,25-29,Actual
+BDCQ.SEC2ACA,2018.12,3633.691822,,F,Value,6,Business Data Collection - BDC,Age by employment variable,Total earnings,25-29,Actual
+BDCQ.SEC2ACA,2019.03,3403.642231,,F,Value,6,Business Data Collection - BDC,Age by employment variable,Total earnings,25-29,Actual
+BDCQ.SEC2ACA,2019.06,3592.802708,,F,Value,6,Business Data Collection - BDC,Age by employment variable,Total earnings,25-29,Actual
+BDCQ.SEC2ACA,2019.09,3596.802722,,F,Value,6,Business Data Collection - BDC,Age by employment variable,Total earnings,25-29,Actual
+BDCQ.SEC2ACA,2019.12,3885.36445,,F,Value,6,Business Data Collection - BDC,Age by employment variable,Total earnings,25-29,Actual
+BDCQ.SEC2ACA,2020.03,3588.124147,,F,Value,6,Business Data Collection - BDC,Age by employment variable,Total earnings,25-29,Actual
+BDCQ.SEC2ACA,2020.06,3539.023733,,F,Value,6,Business Data Collection - BDC,Age by employment variable,Total earnings,25-29,Actual
+BDCQ.SEC2ACA,2020.09,3710.990219,,F,Value,6,Business Data Collection - BDC,Age by employment variable,Total earnings,25-29,Actual
+BDCQ.SEC2ACA,2020.12,3760.430829,,F,Value,6,Business Data Collection - BDC,Age by employment variable,Total earnings,25-29,Actual
+BDCQ.SEC2ACA,2021.03,3694.811421,,F,Value,6,Business Data Collection - BDC,Age by employment variable,Total earnings,25-29,Actual
+BDCQ.SEC2ACA,2021.06,3870.930017,,F,Value,6,Business Data Collection - BDC,Age by employment variable,Total earnings,25-29,Actual
+BDCQ.SEC2ACA,2021.09,3884.801756,,F,Value,6,Business Data Collection - BDC,Age by employment variable,Total earnings,25-29,Actual
+BDCQ.SEC2ACA,2021.12,4097.456717,,F,Value,6,Business Data Collection - BDC,Age by employment variable,Total earnings,25-29,Actual
+BDCQ.SEC2ACA,2022.03,3978.074972,,F,Value,6,Business Data Collection - BDC,Age by employment variable,Total earnings,25-29,Actual
+BDCQ.SEC2ACA,2022.06,4064.345422,,F,Value,6,Business Data Collection - BDC,Age by employment variable,Total earnings,25-29,Actual
+BDCQ.SEC2ADA,2011.06,2218.247327,,F,Value,6,Business Data Collection - BDC,Age by employment variable,Total earnings,30-34,Actual
+BDCQ.SEC2ADA,2011.09,2252.3964,,F,Value,6,Business Data Collection - BDC,Age by employment variable,Total earnings,30-34,Actual
+BDCQ.SEC2ADA,2011.12,2318.368794,,F,Value,6,Business Data Collection - BDC,Age by employment variable,Total earnings,30-34,Actual
+BDCQ.SEC2ADA,2012.03,2225.146035,,F,Value,6,Business Data Collection - BDC,Age by employment variable,Total earnings,30-34,Actual
+BDCQ.SEC2ADA,2012.06,2302.376759,,F,Value,6,Business Data Collection - BDC,Age by employment variable,Total earnings,30-34,Actual
+BDCQ.SEC2ADA,2012.09,2313.691136,,F,Value,6,Business Data Collection - BDC,Age by employment variable,Total earnings,30-34,Actual
+BDCQ.SEC2ADA,2012.12,2424.979446,,F,Value,6,Business Data Collection - BDC,Age by employment variable,Total earnings,30-34,Actual
+BDCQ.SEC2ADA,2013.03,2299.254398,,F,Value,6,Business Data Collection - BDC,Age by employment variable,Total earnings,30-34,Actual
+BDCQ.SEC2ADA,2013.06,2401.470337,,F,Value,6,Business Data Collection - BDC,Age by employment variable,Total earnings,30-34,Actual
+BDCQ.SEC2ADA,2013.09,2424.814539,,F,Value,6,Business Data Collection - BDC,Age by employment variable,Total earnings,30-34,Actual
+BDCQ.SEC2ADA,2013.12,2581.000075,,F,Value,6,Business Data Collection - BDC,Age by employment variable,Total earnings,30-34,Actual
+BDCQ.SEC2ADA,2014.03,2415.942654,,F,Value,6,Business Data Collection - BDC,Age by employment variable,Total earnings,30-34,Actual
+BDCQ.SEC2ADA,2014.06,2549.162085,,F,Value,6,Business Data Collection - BDC,Age by employment variable,Total earnings,30-34,Actual
+BDCQ.SEC2ADA,2014.09,2589.796753,,F,Value,6,Business Data Collection - BDC,Age by employment variable,Total earnings,30-34,Actual
+BDCQ.SEC2ADA,2014.12,2730.348874,,F,Value,6,Business Data Collection - BDC,Age by employment variable,Total earnings,30-34,Actual
+BDCQ.SEC2ADA,2015.03,2557.010016,,F,Value,6,Business Data Collection - BDC,Age by employment variable,Total earnings,30-34,Actual
+BDCQ.SEC2ADA,2015.06,2706.816024,,F,Value,6,Business Data Collection - BDC,Age by employment variable,Total earnings,30-34,Actual
+BDCQ.SEC2ADA,2015.09,2779.551726,,F,Value,6,Business Data Collection - BDC,Age by employment variable,Total earnings,30-34,Actual
+BDCQ.SEC2ADA,2015.12,2870.136298,,F,Value,6,Business Data Collection - BDC,Age by employment variable,Total earnings,30-34,Actual
+BDCQ.SEC2ADA,2016.03,2809.039636,,F,Value,6,Business Data Collection - BDC,Age by employment variable,Total earnings,30-34,Actual
+BDCQ.SEC2ADA,2016.06,2892.349553,,F,Value,6,Business Data Collection - BDC,Age by employment variable,Total earnings,30-34,Actual
+BDCQ.SEC2ADA,2016.09,2926.595846,,F,Value,6,Business Data Collection - BDC,Age by employment variable,Total earnings,30-34,Actual
+BDCQ.SEC2ADA,2016.12,3065.859391,,F,Value,6,Business Data Collection - BDC,Age by employment variable,Total earnings,30-34,Actual
+BDCQ.SEC2ADA,2017.03,2993.760425,,F,Value,6,Business Data Collection - BDC,Age by employment variable,Total earnings,30-34,Actual
+BDCQ.SEC2ADA,2017.06,3129.663653,,F,Value,6,Business Data Collection - BDC,Age by employment variable,Total earnings,30-34,Actual
+BDCQ.SEC2ADA,2017.09,3166.704131,,F,Value,6,Business Data Collection - BDC,Age by employment variable,Total earnings,30-34,Actual
+BDCQ.SEC2ADA,2017.12,3353.153757,,F,Value,6,Business Data Collection - BDC,Age by employment variable,Total earnings,30-34,Actual
+BDCQ.SEC2ADA,2018.03,3240.433117,,F,Value,6,Business Data Collection - BDC,Age by employment variable,Total earnings,30-34,Actual
+BDCQ.SEC2ADA,2018.06,3421.686258,,F,Value,6,Business Data Collection - BDC,Age by employment variable,Total earnings,30-34,Actual

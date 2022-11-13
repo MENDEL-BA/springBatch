@@ -24,12 +24,13 @@ public class BusinessEmpController {
     public String importCsvToDBJob() {
         JobParameters jobParameters = new JobParametersBuilder()
                 .addLong("startAt", System.currentTimeMillis()).toJobParameters();
+        JobExecution execution = null;
         try {
-            jobLauncher.run(job, jobParameters);
+            execution =  jobLauncher.run(job, jobParameters);
         } catch (JobExecutionAlreadyRunningException | JobRestartException | JobInstanceAlreadyCompleteException |
                  JobParametersInvalidException e) {
             e.printStackTrace();
         }
-        return "COMPLETED";
+        return String.valueOf(execution.getStatus());
     }
 }

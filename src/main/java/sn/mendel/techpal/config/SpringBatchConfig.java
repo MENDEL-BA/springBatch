@@ -5,7 +5,6 @@ import org.springframework.batch.core.Step;
 import org.springframework.batch.core.configuration.annotation.EnableBatchProcessing;
 import org.springframework.batch.core.configuration.annotation.JobBuilderFactory;
 import org.springframework.batch.core.configuration.annotation.StepBuilderFactory;
-import org.springframework.batch.item.ItemWriter;
 import org.springframework.batch.item.data.RepositoryItemWriter;
 import org.springframework.batch.item.file.FlatFileItemReader;
 import org.springframework.batch.item.file.LineMapper;
@@ -20,12 +19,6 @@ import org.springframework.core.task.SimpleAsyncTaskExecutor;
 import org.springframework.core.task.TaskExecutor;
 import sn.mendel.techpal.entities.BusinessEmp;
 import sn.mendel.techpal.repositories.BusinessEmpRepository;
-
-import java.io.BufferedReader;
-import java.io.FileNotFoundException;
-import java.io.FileReader;
-import java.io.IOException;
-import java.nio.Buffer;
 
 @Configuration
 @EnableBatchProcessing
@@ -43,24 +36,11 @@ public class SpringBatchConfig {
     @Bean
     public FlatFileItemReader<BusinessEmp> reader(){
         FlatFileItemReader<BusinessEmp> itemReader = new FlatFileItemReader<>();
-        //BufferedReader bufferedReader = new BufferedReader(new FileReader("src/main/resources/business_employment.csv"));
-      //  while(ifHasNext(bufferedReader)){
-            itemReader.setResource(new FileSystemResource("src/main/resources/business_employment.csv"));
-            itemReader.setName("csvReader");
-            itemReader.setLinesToSkip(1);
-            itemReader.setLineMapper(lineMapper());
-            return itemReader;
-      //  }
-       // return null;
-    }
-
-    private static boolean ifHasNext(BufferedReader bufferedReader) throws IOException {
-        String currentLine;
-
-        while(bufferedReader.readLine() != null){
-            return true;
-        }
-        return false;
+        itemReader.setResource(new FileSystemResource("src/main/resources/business_employment.csv"));
+        itemReader.setName("csvReader");
+        itemReader.setLinesToSkip(1);
+        itemReader.setLineMapper(lineMapper());
+        return itemReader;
     }
 
     private LineMapper<BusinessEmp> lineMapper() {
@@ -84,24 +64,19 @@ public class SpringBatchConfig {
         return new BusinessEmpProcessor();
     }
 
-   /* @Bean
+    @Bean
     public RepositoryItemWriter<BusinessEmp> writer(){
         RepositoryItemWriter<BusinessEmp> repositoryItemWriter = new RepositoryItemWriter<>();
 
         repositoryItemWriter.setRepository(businessEmpRepository);
         repositoryItemWriter.setMethodName("save");
         return repositoryItemWriter;
-    }*/
-
-    @Bean
-    public ItemWriter<BusinessEmp> writer(){
-        return businessEmpRepository::saveAll;
     }
 
     @Bean
-    public Step stepOne()  {
+    public Step stepOne(){
         return stepBuilderFactory.get("first-step-csv")
-                .<BusinessEmp, BusinessEmp>chunk(500)
+                .<BusinessEmp, BusinessEmp>chunk(1000)
                 .reader(reader())
                 .processor(businessEmpProcessor())
                 .writer(writer())
@@ -110,7 +85,7 @@ public class SpringBatchConfig {
     }
 
     @Bean
-    public Job job()  {
+    public Job job(){
         return jobBuilderFactory.get("import-csv-for-save")
                 .flow(stepOne())
                 .end()
@@ -120,7 +95,7 @@ public class SpringBatchConfig {
     @Bean
     public TaskExecutor taskExecutor(){
         SimpleAsyncTaskExecutor simpleAsyncTaskExecutor = new SimpleAsyncTaskExecutor();
-        simpleAsyncTaskExecutor.setConcurrencyLimit(100);
+        simpleAsyncTaskExecutor.setConcurrencyLimit(20);
         return simpleAsyncTaskExecutor;
     }
 }
